@@ -87,7 +87,7 @@
         },{
             "moduleName": "BPA",
             "BusinessService": "BPA",
-            "roles": ["BPA_ARCHITECT", "BPA_ENGINEER","BPA_BUILDER","BPA_STRUCTURALENGINEER","BPA_TOWNPLANNER","BPA_SUPERVISOR"],
+            "roles": ["BPA_ARCHITECT", "BPA_ENGINEER","BPA_BUILDER","BPA_STRUCTURALENGINEER","BPA_TOWNPLANNER","BPA_SUPERVISOR","BPA_SUPERVISOR","BPA_ENGINEER_GMDA","BPA_CEO","BPA_ZONALOFFICER_GMC","BPA_ASSOCIATE_PLANNER","BPA_COMMISSIONER"],
             "active": true,
             "locality":true,
             "localityModule":"bpa-services",
@@ -98,7 +98,7 @@
         },{
             "moduleName": "BPA",
             "BusinessService": "BPA_OC",
-            "roles": ["BPA_ARCHITECT", "BPA_ENGINEER","BPA_BUILDER","BPA_STRUCTURALENGINEER","BPA_TOWNPLANNER","BPA_SUPERVISOR"],
+            "roles": ["BPA_ARCHITECT", "BPA_ENGINEER","BPA_BUILDER","BPA_STRUCTURALENGINEER","BPA_TOWNPLANNER","BPA_SUPERVISOR","BPA_ENGINEER_GMDA","BPA_CEO","BPA_ZONALOFFICER_GMC","BPA_ASSOCIATE_PLANNER","BPA_COMMISSIONER"],
             "active": true,
             "locality":true,
             "localityModule":"bpa-services",

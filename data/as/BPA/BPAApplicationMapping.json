@@ -19,7 +19,12 @@
         "BPA_ENGINEER",
         "BPA_STRUCTURALENGINEER",
         "BPA_TOWNPLANNER",
-        "BPA_SUPERVISOR"
+        "BPA_SUPERVISOR",
+        "BPA_ENGINEER_GMDA",
+        "BPA_CEO",
+        "BPA_ZONALOFFICER_GMC",
+        "BPA_ASSOCIATE_PLANNER",
+        "BPA_COMMISSIONER"
       ]
     },
     {
@@ -36,7 +41,12 @@
         "BPA_ENGINEER",
         "BPA_STRUCTURALENGINEER",
         "BPA_TOWNPLANNER",
-        "BPA_SUPERVISOR"
+        "BPA_SUPERVISOR",
+        "BPA_ENGINEER_GMDA",
+        "BPA_CEO",
+        "BPA_ZONALOFFICER_GMC",
+        "BPA_ASSOCIATE_PLANNER",
+        "BPA_COMMISSIONER"
       ]
     }
   ]
