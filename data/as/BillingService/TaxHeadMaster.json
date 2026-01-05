@@ -5997,6 +5997,16 @@
         "isActualDemand": true,
         "order": "2",
         "isRequired": false
+      },
+      {
+        "category": "FEE",
+        "service": "",
+        "name": "BPA Labour cess fees",
+        "code": "LABOUR_CESS",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "1",
+        "isRequired": false
       }
   ]
 }

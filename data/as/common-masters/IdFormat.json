@@ -830,7 +830,7 @@
         {
             "format": "BP-RN-[CITY.CODE]-[cy:ddMMyyyy]-[SEQ_EG_BP_RN]",
             "idname": "bpa.building_permit_fee.receipt.id"
-        },             
+        },        
         {
             "format": "OC-RN-[CITY.CODE]-[cy:ddMMyyyy]-[SEQ_EG_OC_RN]",
             "idname": "bpa.oc.receipt.number"
