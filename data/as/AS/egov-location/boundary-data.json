@@ -10,13 +10,35 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Assam",
-        "localname": "Assam",
+        "name": "Assam State",
+        "localname": "Assam State",
         "longitude": null,
         "latitude": null,
-        "label": "State",
+        "label": "City",
         "code": "as",
-        "children": []
+        "children": [
+          {
+            "id": 2,
+            "boundaryNum": 1,
+            "name": "STATE_WARD_1",
+            "localname": "STATE_WARD_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "StateW1",
+            "children": [
+              {
+                "id": 3,
+                "boundaryNum": 1,
+                "name": "Assam Secretariat",
+                "localname": "Assam Secretariat",
+                "label": "RevenueVillage",
+                "code": "StateW1V1",
+                "children": []
+              }
+            ]
+          }
+        ]
       }
     }
   ]
