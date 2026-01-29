@@ -746,13 +746,13 @@
           {
             "id": 25,
             "districtCode": "KAMRUP_METRO",
-            "planningAreaCode": "KAMRUP_METRO_MP",
+            "planningAreaCode": "GUWAHATI_MP",
             "planningAreaName": "Kamrup Metro Master Plan",
             "planningAreaGisCode": "Guwahati",
             "active": true,
             "ppAuthority": {
               "id": 6,
-              "planningAreaCode": "KAMRUP_METRO_MP",
+              "planningAreaCode": "GUWAHATI_MP",
               "districtCode": "KAMRUP_METRO",
               "ppAuthorityCode": "GUWAHATI_METROPOLITAN_DEVELOPMENT_AUTHORITY",
               "ppAuthorityName": "Guwahati Metropolitan Development Authority",
