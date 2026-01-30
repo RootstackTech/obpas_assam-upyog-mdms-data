@@ -328,6 +328,22 @@
          {
           "code": "NOC.ESZ_CLEARANCE",
           "active": true
+        },
+        {
+          "code": "APPL.SOILTESTREPORT",
+          "active": true
+        },
+        {
+          "code": "APPL.APPENDIX5",
+          "active": true
+        },
+        {
+          "code": "APPL.FORM23",
+          "active": true
+        },
+        {
+          "code": "APPL.FORM24",
+          "active": true
         }
   ]
 }
