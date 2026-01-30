@@ -98,25 +98,25 @@
           "code": "APPL.SOILTESTREPORT",
           "required": true,
           "allow": true,
-          "order": 15
+          "order": 16
         },
         {
           "code": "APPL.APPENDIX5",
           "required": true,
           "allow": true,
-          "order": 15
+          "order": 17
         },
         {
           "code": "APPL.FORM23",
           "required": true,
           "allow": true,
-          "order": 15
+          "order": 18
         },
          {
           "code": "APPL.FORM24",
           "required": true,
           "allow": true,
-          "order": 15
+          "order": 19
         }
       ]
     }
