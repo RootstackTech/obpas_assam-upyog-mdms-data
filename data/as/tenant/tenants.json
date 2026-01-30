@@ -6103,14 +6103,14 @@
       "type": "CITY",
       "emailId": null,
       "city": {
-        "name": "Municipal Corporation",
-        "districtName": null,
+        "name": "Guwahati",
+        "districtName": "Kamrup (Metro)",
         "ulbGrade": "MUNICIPAL_CORPORATION",
         "districtCode": "KAMRUP_METRO",
         "districtTenantCode": "as.gmc",
         "planningAreaCode": "GUWAHATI_MP",
         "code": "1874",
-        "ddrName": "Municipal Corporation"
+        "ddrName": "Guwahati Municipal Corporation"
       }
       },
       {
