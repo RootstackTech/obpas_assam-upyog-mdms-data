@@ -21841,7 +21841,7 @@
    "path": ""
  },
  {
-   "id": 3105,
+   "id": 3106,
    "name": "Application Workflow Trace",
    "url": "/report/v1/sewasetu/applicationsummary/_count",
    "displayName": "/reportv1-sewasetu-applicationsummarycount",
@@ -21853,7 +21853,7 @@
    "path": ""
  },
  {
-   "id": 3105,
+   "id": 3107,
    "name": "Sewatsetu Date wise Applications",
    "url": "/report/v1/sewasetu/_datewiseapplications",
    "displayName": "reportv1-sewasetu--datewiseapplications",
@@ -21865,7 +21865,7 @@
    "path": ""
  },
  {
-   "id": 3105,
+   "id": 3108,
    "name": "Sewasetu application details",
    "url": "/report/v1/sewasetu/_applicationdetails",
    "displayName": "reportv1-sewasetu--applicationdetails",
