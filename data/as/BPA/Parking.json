@@ -27,7 +27,7 @@
             "riskType": null,
             "isOpenParking": true,
             "noOfParking": 1,
-            "permissibleTwoWheeler": 22.5,
+            "permissibleTwoWheeler": 3,
             "permissibleCarBasement": 30,
             "active": true
         },
@@ -134,7 +134,7 @@
             "riskType": null,
             "isOpenParking": true,
             "noOfParking": 1,
-            "permissibleTwoWheeler": 22.5,
+            "permissibleTwoWheeler": 3,
             "permissibleCarBasement": 30,
             "active": true
         },
@@ -208,7 +208,7 @@
             "riskType": null,
             "isOpenParking": true,
             "noOfParking": 1,
-            "permissibleTwoWheeler": 22.5,
+            "permissibleTwoWheeler": 3,
             "permissibleCarBasement": 30,
             "active": true
         },
@@ -282,7 +282,7 @@
             "riskType": null,
             "isOpenParking": true,
             "noOfParking": 1,
-            "permissibleTwoWheeler": 22.5,
+            "permissibleTwoWheeler": 3,
             "permissibleCarBasement": 30,
             "active": true
         },
