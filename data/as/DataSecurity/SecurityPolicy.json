@@ -936,6 +936,12 @@
           "jsonPath": "mobilenumber",
           "patternId": "001",
           "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "email",
+          "jsonPath": "email",
+          "patternId": "<email-pattern-id>",
+          "defaultVisibility": "PLAIN"
         }
       ],
       "roleBasedDecryptionPolicy": []
