@@ -21827,6 +21827,54 @@
   "serviceCode": "report",
   "code": "null",
   "path": ""
-}    
+},
+{
+   "id": 3105,
+   "name": "Sewatsetu Daywise Update",
+   "url": "/report/v1/sewasetu/daywiseUpdate/_search",
+   "displayName": "reportv1-sewasetu-daywiseUpdatesearch",
+   "orderNumber": 14,
+   "parentModule": "",
+   "enabled": true,
+   "serviceCode": "report",
+   "code": "null",
+   "path": ""
+ },
+ {
+   "id": 3105,
+   "name": "Application Workflow Trace",
+   "url": "/report/v1/sewasetu/applicationsummary/_count",
+   "displayName": "/reportv1-sewasetu-applicationsummarycount",
+   "orderNumber": 14,
+   "parentModule": "",
+   "enabled": true,
+   "serviceCode": "report",
+   "code": "null",
+   "path": ""
+ },
+ {
+   "id": 3105,
+   "name": "Sewatsetu Date wise Applications",
+   "url": "/report/v1/sewasetu/_datewiseapplications",
+   "displayName": "reportv1-sewasetu--datewiseapplications",
+   "orderNumber": 14,
+   "parentModule": "",
+   "enabled": true,
+   "serviceCode": "report",
+   "code": "null",
+   "path": ""
+ },
+ {
+   "id": 3105,
+   "name": "Sewasetu application details",
+   "url": "/report/v1/sewasetu/_applicationdetails",
+   "displayName": "reportv1-sewasetu--applicationdetails",
+   "orderNumber": 14,
+   "parentModule": "",
+   "enabled": true,
+   "serviceCode": "report",
+   "code": "null",
+   "path": ""
+ } 
   ]
 }
