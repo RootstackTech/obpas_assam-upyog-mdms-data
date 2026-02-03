@@ -1171,6 +1171,11 @@
       "code": "BPA_COMMISSIONER",
       "name": "Bpa Commissioner",
       "description": "Bpa Commissioner"
+    },
+    {
+      "code": "SEWASETU_ADMIN",
+      "name": "Sewasetu Admin",
+      "description": "Sewasetu Admin"
     }
   ]
 }
