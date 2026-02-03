@@ -940,7 +940,7 @@
         {
           "name": "email",
           "jsonPath": "email",
-          "patternId": "<email-pattern-id>",
+          "patternId": "004",
           "defaultVisibility": "PLAIN"
         }
       ],
