@@ -6133,6 +6133,27 @@
         "code": "2022",
         "ddrName": "Development Authority"
       }
+      },
+        {
+      "code": "as.gmda",
+      "name": "Guwahati Metropolitan Development Authority",
+      "description": "Development Authority",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "Guwahati Metropolitan Development Authority",
+        "districtName": null,
+        "ulbGrade": "DEVELOPMENT AUTHORITY",
+        "districtCode": "KAMRUP_METRO",
+        "districtTenantCode": "as.gmda",
+        "planningAreaCode": "GUWAHATI_MP",
+        "code": "2023",
+        "ddrName": "Development Authority"
+      }
     }
   ]
 }
