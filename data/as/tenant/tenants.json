@@ -6137,7 +6137,7 @@
         {
       "code": "as.gmda",
       "name": "Guwahati Metropolitan Development Authority",
-      "description": "Development Authority",
+      "description": "Guwahati Metropolitan Development Authority",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -6146,13 +6146,13 @@
       "emailId": null,
       "city": {
         "name": "Guwahati Metropolitan Development Authority",
-        "districtName": null,
-        "ulbGrade": "DEVELOPMENT AUTHORITY",
+        "districtName": "Kamrup (Metro)",
+        "ulbGrade": "DEVELOPMENT_AUTHORITY",
         "districtCode": "KAMRUP_METRO",
         "districtTenantCode": "as.gmda",
         "planningAreaCode": "GUWAHATI_MP",
         "code": "2023",
-        "ddrName": "Development Authority"
+        "ddrName": "Guwahati Metropolitan Development Authority"
       }
     }
   ]
