@@ -353,7 +353,7 @@
       "description": "BPA Structural Engineer"
     },
     {
-      "code": "BPA_TOWNPLANNER",
+      "code": "BPA_TOWNPLANNER_DA",
       "name": "BPA Town Planner",
       "description": "BPA Town Planner"
     },
@@ -1148,12 +1148,12 @@
       "description": "AAI Noc Internal Calls"
     },
     {
-      "code": "BPA_ENGINEER_GMDA",
-      "name": "Bpa Engineer GMDA",
-      "description": "Bpa Engineer GMDA"
+      "code": "BPA_ENGINEER_DA",
+      "name": "Bpa Engineer DA",
+      "description": "Bpa Engineer DA"
     },
     {
-      "code": "BPA_CEO",
+      "code": "BPA_CEO_DA",
       "name": "Bpa CEO",
       "description": "Bpa CEO"
     },
