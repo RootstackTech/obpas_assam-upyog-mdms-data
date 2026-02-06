@@ -265,7 +265,7 @@
       {
         "id": "57b66c2a-0033-4875-a3bd-856e5cf82427",
         "tradeType": "TOWNPLANNER.CLASSA",
-        "role": ["BPA_TOWNPLANNER"],
+        "role": ["BPA_TOWNPLANNER_DA"],
         "endstate": "APPROVED",
         "applicationFee": 500,
         "docTypes": [
