@@ -13935,6 +13935,12 @@
       "tenantId": "as"
     },
     {
+      "rolecode": "BPA_GROUP_AGENCY",
+      "actionid": 1922,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
       "rolecode": "BPA_ENGINEER",
       "actionid": 1922,
       "actioncode": "",
@@ -14180,6 +14186,12 @@
       "actioncode": "",
       "tenantId": "as"
     },
+     {
+      "rolecode": "BPA_GROUP_AGENCY",
+      "actionid": 1930,
+      "actioncode": "",
+      "tenantId": "as"
+    },
     {
       "rolecode": "BPA_APPROVER",
       "actionid": 1930,
@@ -14211,6 +14223,12 @@
       "tenantId": "as"
     },
     {
+      "rolecode": "BPA_GROUP_AGENCY",
+      "actionid": 1931,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
       "rolecode": "BPA_APPROVER",
       "actionid": 1931,
       "actioncode": "",
@@ -14282,6 +14300,12 @@
       "actioncode": "",
       "tenantId": "as"
     },
+     {
+      "rolecode": "BPA_GROUP_AGENCY",
+      "actionid": 1946,
+      "actioncode": "",
+      "tenantId": "as"
+    },
     {
       "rolecode": "BPA_ENGINEER",
       "actionid": 1946,
@@ -14302,6 +14326,12 @@
     },
     {
       "rolecode": "BPA_ARCHITECT",
+      "actionid": 1947,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_GROUP_AGENCY",
       "actionid": 1947,
       "actioncode": "",
       "tenantId": "as"
@@ -15104,6 +15134,12 @@
       "actioncode": "",
       "tenantId": "as"
     },
+      {
+      "rolecode": "BPA_GROUP_AGENCY",
+      "actionid": 1972,
+      "actioncode": "",
+      "tenantId": "as"
+    },
     {
       "rolecode": "BPA_VERIFIER",
       "actionid": 1975,
@@ -15380,8 +15416,20 @@
       "actioncode": "",
       "tenantId": "as"
     },
+     {
+      "rolecode": "BPA_GROUP_AGENCY",
+      "actionid": 1988,
+      "actioncode": "",
+      "tenantId": "as"
+    },
     {
       "rolecode": "BPA_ARCHITECT",
+      "actionid": 1989,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_GROUP_AGENCY",
       "actionid": 1989,
       "actioncode": "",
       "tenantId": "as"
@@ -15430,6 +15478,11 @@
     },
     {
       "rolecode": "BPA_ARCHITECT",
+      "actionid": 1990,
+      "actioncode": "",
+      "tenantId": "as"
+    }, {
+      "rolecode": "BPA_GROUP_AGENCY",
       "actionid": 1990,
       "actioncode": "",
       "tenantId": "as"
@@ -15549,6 +15602,12 @@
       "tenantId": "as"
     },
     {
+      "rolecode": "BPA_GROUP_AGENCY",
+      "actionid": 2001,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
       "rolecode": "CITIZEN",
       "actionid": 2001,
       "actioncode": "",
@@ -15574,6 +15633,12 @@
     },
     {
       "rolecode": "BPA_ARCHITECT",
+      "actionid": 2003,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+      {
+      "rolecode": "BPA_GROUP_AGENCY",
       "actionid": 2003,
       "actioncode": "",
       "tenantId": "as"
@@ -16244,6 +16309,12 @@
       "actioncode": "",
       "tenantId": "as"
     },
+     {
+      "rolecode": "BPA_GROUP_AGENCY",
+      "actionid": 2027,
+      "actioncode": "",
+      "tenantId": "as"
+    },
     {
       "rolecode": "BPA_ENGINEER",
       "actionid": 2027,
@@ -16354,6 +16425,12 @@
     },
     {
       "rolecode": "BPA_ARCHITECT",
+      "actionid": 2032,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+     {
+      "rolecode": "BPA_GROUP_AGENCY",
       "actionid": 2032,
       "actioncode": "",
       "tenantId": "as"
@@ -16538,6 +16615,12 @@
       "actioncode": "",
       "tenantId": "as"
     },
+     {
+      "rolecode": "BPA_GROUP_AGENCY",
+      "actionid": 2041,
+      "actioncode": "",
+      "tenantId": "as"
+    },
     {
       "rolecode": "BPA_ENGINEER",
       "actionid": 2041,
@@ -16610,6 +16693,12 @@
       "actioncode": "",
       "tenantId": "as"
     },
+     {
+      "rolecode": "BPA_GROUP_AGENCY",
+      "actionid": 2042,
+      "actioncode": "",
+      "tenantId": "as"
+    },
     {
       "rolecode": "BPA_ENGINEER",
       "actionid": 2042,
@@ -16676,6 +16765,12 @@
       "actioncode": "",
       "tenantId": "as"
     },
+     {
+      "rolecode": "BPA_GROUP_AGENCY",
+      "actionid": 2043,
+      "actioncode": "",
+      "tenantId": "as"
+    },
     {
       "rolecode": "BPA_ENGINEER",
       "actionid": 2043,
@@ -16738,6 +16833,12 @@
     },
     {
       "rolecode": "BPA_ARCHITECT",
+      "actionid": 2044,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+      {
+      "rolecode": "BPA_GROUP_AGENCY",
       "actionid": 2044,
       "actioncode": "",
       "tenantId": "as"
@@ -18734,6 +18835,12 @@
       "actioncode": "",
       "tenantId": "as"
     },
+     {
+      "rolecode": "BPA_GROUP_AGENCY",
+      "actionid": 2005,
+      "actioncode": "",
+      "tenantId": "as"
+    },
     {
       "rolecode": "BPA_ENGINEER",
       "actionid": 2005,
@@ -18812,6 +18919,12 @@
       "actioncode": "",
       "tenantId": "as"
     },
+     {
+      "rolecode": "BPA_GROUP_AGENCY",
+      "actionid": 2088,
+      "actioncode": "",
+      "tenantId": "as"
+    },
     {
       "rolecode": "BPA_ARCHITECT",
       "actionid": 2089,
@@ -18821,6 +18934,12 @@
     {
       "rolecode": "BPA_ARCHITECT",
       "actionid": 2090,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_GROUP_AGENCY",
+      "actionid": 2089,
       "actioncode": "",
       "tenantId": "as"
     },
@@ -18916,6 +19035,12 @@
     },
     {
       "rolecode": "BPA_ARCHITECT",
+      "actionid": 2091,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_GROUP_AGENCY",
       "actionid": 2091,
       "actioncode": "",
       "tenantId": "as"
@@ -23456,6 +23581,12 @@
       "actioncode": "",
       "tenantId": "as"
     },
+     {
+      "rolecode": "BPA_GROUP_AGENCY",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "as"
+    },
     {
       "rolecode": "BPA_ENGINEER",
       "actionid": 2155,
@@ -23650,6 +23781,12 @@
     },
     {
       "rolecode": "BPA_ARCHITECT",
+      "actionid": 2317,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_GROUP_AGENCY",
       "actionid": 2317,
       "actioncode": "",
       "tenantId": "as"
@@ -23986,6 +24123,12 @@
     },
     {
       "rolecode": "BPA_ARCHITECT",
+      "actionid": 698,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+     {
+      "rolecode": "BPA_GROUP_AGENCY",
       "actionid": 698,
       "actioncode": "",
       "tenantId": "as"
@@ -32772,6 +32915,12 @@
     },
 	  {
       "rolecode": "BPA_ARCHITECT",
+      "actionid": 3076,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+     {
+      "rolecode": "BPA_GROUP_AGENCY",
       "actionid": 3076,
       "actioncode": "",
       "tenantId": "as"
