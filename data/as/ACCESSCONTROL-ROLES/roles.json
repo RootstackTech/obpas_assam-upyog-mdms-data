@@ -357,6 +357,16 @@
       "name": "BPA Town Planner",
       "description": "BPA Town Planner"
     },
+     {
+      "code": "BPA_TOWNPLANNER",
+      "name": "BPA TownPlanner",
+      "description": "BPA TownPlanner"
+    },
+     {
+      "code": "BPA_RTP",
+      "name": "BPA TownPlanner",
+      "description": "BPA TownPlanner"
+    },
     {
       "code": "BPA_DESIGNER",
       "name": "BPA Designer",
