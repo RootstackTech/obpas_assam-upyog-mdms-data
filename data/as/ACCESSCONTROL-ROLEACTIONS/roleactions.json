@@ -13935,18 +13935,6 @@
       "tenantId": "as"
     },
     {
-      "rolecode": "BPA_RTP",
-      "actionid": 1922,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_TOWNPLANNER",
-      "actionid": 1922,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
       "rolecode": "BPA_GROUP_AGENCY",
       "actionid": 1922,
       "actioncode": "",
@@ -13972,42 +13960,6 @@
     },
     {
       "rolecode": "BPA_TOWNPLANNER_DA",
-      "actionid": 1922,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_SUPERVISOR",
-      "actionid": 1922,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_GEO_TECH_ENGINEER",
-      "actionid": 1922,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_CIVIL_ENGINEER",
-      "actionid": 1922,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_UTILITY_ENGINEER",
-      "actionid": 1922,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_LANDSCAPE_ARCHITECT",
-      "actionid": 1922,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_URBAN_DESIGNER",
       "actionid": 1922,
       "actioncode": "",
       "tenantId": "as"
@@ -14235,37 +14187,7 @@
       "tenantId": "as"
     },
      {
-      "rolecode": "BPA_RTP",
-      "actionid": 1930,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_TOWNPLANNER",
-      "actionid": 1930,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_BUILDER",
-      "actionid": 1930,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-     {
       "rolecode": "BPA_GROUP_AGENCY",
-      "actionid": 1930,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_STRUCTURALENGINEER",
-      "actionid": 1930,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_SUPERVISOR",
       "actionid": 1930,
       "actioncode": "",
       "tenantId": "as"
@@ -14278,42 +14200,6 @@
     },
     {
       "rolecode": "BPA_VERIFIER",
-      "actionid": 1930,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-     {
-      "rolecode": "BPA_ENGINEER",
-      "actionid": 1930,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_GEO_TECH_ENGINEER",
-      "actionid": 1930,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_CIVIL_ENGINEER",
-      "actionid": 1930,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_UTILITY_ENGINEER",
-      "actionid": 1930,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_LANDSCAPE_ARCHITECT",
-      "actionid": 1930,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_URBAN_DESIGNER",
       "actionid": 1930,
       "actioncode": "",
       "tenantId": "as"
@@ -14336,32 +14222,8 @@
       "actioncode": "",
       "tenantId": "as"
     },
-     {
-      "rolecode": "BPA_RTP",
-      "actionid": 1931,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_TOWNPLANNER",
-      "actionid": 1931,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-     {
-      "rolecode": "BPA_BUILDER",
-      "actionid": 1931,
-      "actioncode": "",
-      "tenantId": "as"
-    },
     {
       "rolecode": "BPA_GROUP_AGENCY",
-      "actionid": 1931,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-     {
-      "rolecode": "BPA_ENGINEER",
       "actionid": 1931,
       "actioncode": "",
       "tenantId": "as"
@@ -14379,48 +14241,6 @@
       "tenantId": "as"
     },
     {
-      "rolecode": "BPA_STRUCTURALENGINEER",
-      "actionid": 1931,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_SUPERVISOR",
-      "actionid": 1931,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_GEO_TECH_ENGINEER",
-      "actionid": 1931,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_CIVIL_ENGINEER",
-      "actionid": 1931,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_UTILITY_ENGINEER",
-      "actionid": 1931,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_LANDSCAPE_ARCHITECT",
-      "actionid": 1931,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_URBAN_DESIGNER",
-      "actionid": 1931,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
       "rolecode": "SUPERUSER",
       "actionid": 1943,
       "actioncode": "",
@@ -14481,18 +14301,6 @@
       "tenantId": "as"
     },
      {
-      "rolecode": "BPA_RTP",
-      "actionid": 1946,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_TOWNPLANNER",
-      "actionid": 1946,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-     {
       "rolecode": "BPA_GROUP_AGENCY",
       "actionid": 1946,
       "actioncode": "",
@@ -14512,42 +14320,6 @@
     },
     {
       "rolecode": "BPA_STRUCTURALENGINEER",
-      "actionid": 1946,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_SUPERVISOR",
-      "actionid": 1946,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_GEO_TECH_ENGINEER",
-      "actionid": 1946,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_CIVIL_ENGINEER",
-      "actionid": 1946,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_UTILITY_ENGINEER",
-      "actionid": 1946,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_LANDSCAPE_ARCHITECT",
-      "actionid": 1946,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_URBAN_DESIGNER",
       "actionid": 1946,
       "actioncode": "",
       "tenantId": "as"
@@ -14558,18 +14330,6 @@
       "actioncode": "",
       "tenantId": "as"
     },
-     {
-      "rolecode": "BPA_RTP",
-      "actionid": 1947,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_TOWNPLANNER",
-      "actionid": 1947,
-      "actioncode": "",
-      "tenantId": "as"
-    },
     {
       "rolecode": "BPA_GROUP_AGENCY",
       "actionid": 1947,
@@ -14590,42 +14350,6 @@
     },
     {
       "rolecode": "BPA_STRUCTURALENGINEER",
-      "actionid": 1947,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_SUPERVISOR",
-      "actionid": 1947,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_GEO_TECH_ENGINEER",
-      "actionid": 1947,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_CIVIL_ENGINEER",
-      "actionid": 1947,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_UTILITY_ENGINEER",
-      "actionid": 1947,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_LANDSCAPE_ARCHITECT",
-      "actionid": 1947,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_URBAN_DESIGNER",
       "actionid": 1947,
       "actioncode": "",
       "tenantId": "as"
@@ -15315,19 +15039,7 @@
       "tenantId": "as"
     },
     {
-      "rolecode": "BPA_ARCHITECH",
-      "actionid": 1972,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
       "rolecode": "BPA_BUILDER",
-      "actionid": 1972,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-     {
-      "rolecode": "BPA_GROUP_AGENCY",
       "actionid": 1972,
       "actioncode": "",
       "tenantId": "as"
@@ -15422,74 +15134,8 @@
       "actioncode": "",
       "tenantId": "as"
     },
-     {
-      "rolecode": "BPA_RTP",
-      "actionid": 1972,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_TOWNPLANNER",
-      "actionid": 1972,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_BUILDER",
-      "actionid": 1972,
-      "actioncode": "",
-      "tenantId": "as"
-    },
       {
       "rolecode": "BPA_GROUP_AGENCY",
-      "actionid": 1972,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-     {
-      "rolecode": "BPA_ENGINEER",
-      "actionid": 1972,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_STRUCTURALENGINEER",
-      "actionid": 1972,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_SUPERVISOR",
-      "actionid": 1972,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_GEO_TECH_ENGINEER",
-      "actionid": 1972,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_CIVIL_ENGINEER",
-      "actionid": 1972,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_UTILITY_ENGINEER",
-      "actionid": 1972,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_LANDSCAPE_ARCHITECT",
-      "actionid": 1972,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_URBAN_DESIGNER",
       "actionid": 1972,
       "actioncode": "",
       "tenantId": "as"
@@ -15771,73 +15417,7 @@
       "tenantId": "as"
     },
      {
-      "rolecode": "BPA_RTP",
-      "actionid": 1988,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_TOWNPLANNER",
-      "actionid": 1988,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-     {
-      "rolecode": "BPA_BUILDER",
-      "actionid": 1988,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-     {
       "rolecode": "BPA_GROUP_AGENCY",
-      "actionid": 1988,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-     {
-      "rolecode": "BPA_ENGINEER",
-      "actionid": 1988,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_STRUCTURALENGINEER",
-      "actionid": 1988,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_SUPERVISOR",
-      "actionid": 1988,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_GEO_TECH_ENGINEER",
-      "actionid": 1988,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_CIVIL_ENGINEER",
-      "actionid": 1988,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_UTILITY_ENGINEER",
-      "actionid": 1988,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_LANDSCAPE_ARCHITECT",
-      "actionid": 1988,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_URBAN_DESIGNER",
       "actionid": 1988,
       "actioncode": "",
       "tenantId": "as"
@@ -15848,74 +15428,8 @@
       "actioncode": "",
       "tenantId": "as"
     },
-     {
-      "rolecode": "BPA_RTP",
-      "actionid": 1989,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_TOWNPLANNER",
-      "actionid": 1989,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-     {
-      "rolecode": "BPA_BUILDER",
-      "actionid": 1989,
-      "actioncode": "",
-      "tenantId": "as"
-    },
     {
       "rolecode": "BPA_GROUP_AGENCY",
-      "actionid": 1989,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-     {
-      "rolecode": "BPA_ENGINEER",
-      "actionid": 1989,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_STRUCTURALENGINEER",
-      "actionid": 1989,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_SUPERVISOR",
-      "actionid": 1989,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-     {
-      "rolecode": "BPA_GEO_TECH_ENGINEER",
-      "actionid": 1989,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_CIVIL_ENGINEER",
-      "actionid": 1989,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_UTILITY_ENGINEER",
-      "actionid": 1989,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_LANDSCAPE_ARCHITECT",
-      "actionid": 1989,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_URBAN_DESIGNER",
       "actionid": 1989,
       "actioncode": "",
       "tenantId": "as"
@@ -15967,75 +15481,8 @@
       "actionid": 1990,
       "actioncode": "",
       "tenantId": "as"
-    }, 
-     {
-      "rolecode": "BPA_RTP",
-      "actionid": 1990,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_TOWNPLANNER",
-      "actionid": 1990,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-     {
-      "rolecode": "BPA_BUILDER",
-      "actionid": 1990,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
+    }, {
       "rolecode": "BPA_GROUP_AGENCY",
-      "actionid": 1990,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-     {
-      "rolecode": "BPA_ENGINEER",
-      "actionid": 1990,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_STRUCTURALENGINEER",
-      "actionid": 1990,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_SUPERVISOR",
-      "actionid": 1990,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-     {
-      "rolecode": "BPA_GEO_TECH_ENGINEER",
-      "actionid": 1990,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_CIVIL_ENGINEER",
-      "actionid": 1990,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_UTILITY_ENGINEER",
-      "actionid": 1990,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_LANDSCAPE_ARCHITECT",
-      "actionid": 1990,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_URBAN_DESIGNER",
       "actionid": 1990,
       "actioncode": "",
       "tenantId": "as"
@@ -16154,74 +15601,8 @@
       "actioncode": "",
       "tenantId": "as"
     },
-     {
-      "rolecode": "BPA_RTP",
-      "actionid": 2001,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_TOWNPLANNER",
-      "actionid": 2001,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_BUILDER",
-      "actionid": 2001,
-      "actioncode": "",
-      "tenantId": "as"
-    },
     {
       "rolecode": "BPA_GROUP_AGENCY",
-      "actionid": 2001,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-     {
-      "rolecode": "BPA_ENGINEER",
-      "actionid": 2001,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_STRUCTURALENGINEER",
-      "actionid": 2001,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_SUPERVISOR",
-      "actionid": 2001,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-     {
-      "rolecode": "BPA_GEO_TECH_ENGINEER",
-      "actionid": 2001,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_CIVIL_ENGINEER",
-      "actionid": 2001,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_UTILITY_ENGINEER",
-      "actionid": 2001,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_LANDSCAPE_ARCHITECT",
-      "actionid": 2001,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_URBAN_DESIGNER",
       "actionid": 2001,
       "actioncode": "",
       "tenantId": "as"
@@ -16256,74 +15637,8 @@
       "actioncode": "",
       "tenantId": "as"
     },
-     {
-      "rolecode": "BPA_RTP",
-      "actionid": 2003,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_TOWNPLANNER",
-      "actionid": 2003,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-     {
-      "rolecode": "BPA_BUILDER",
-      "actionid": 2003,
-      "actioncode": "",
-      "tenantId": "as"
-    },
       {
       "rolecode": "BPA_GROUP_AGENCY",
-      "actionid": 2003,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-     {
-      "rolecode": "BPA_ENGINEER",
-      "actionid": 2003,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_STRUCTURALENGINEER",
-      "actionid": 2003,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_SUPERVISOR",
-      "actionid": 2003,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-     {
-      "rolecode": "BPA_GEO_TECH_ENGINEER",
-      "actionid": 2003,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_CIVIL_ENGINEER",
-      "actionid": 2003,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_UTILITY_ENGINEER",
-      "actionid": 2003,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_LANDSCAPE_ARCHITECT",
-      "actionid": 2003,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_URBAN_DESIGNER",
       "actionid": 2003,
       "actioncode": "",
       "tenantId": "as"
@@ -16995,18 +16310,6 @@
       "tenantId": "as"
     },
      {
-      "rolecode": "BPA_RTP",
-      "actionid": 2027,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_TOWNPLANNER",
-      "actionid": 2027,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-     {
       "rolecode": "BPA_GROUP_AGENCY",
       "actionid": 2027,
       "actioncode": "",
@@ -17038,36 +16341,6 @@
     },
     {
       "rolecode": "BPA_SUPERVISOR",
-      "actionid": 2027,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-     {
-      "rolecode": "BPA_GEO_TECH_ENGINEER",
-      "actionid": 2027,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_CIVIL_ENGINEER",
-      "actionid": 2027,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_UTILITY_ENGINEER",
-      "actionid": 2027,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_LANDSCAPE_ARCHITECT",
-      "actionid": 2027,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_URBAN_DESIGNER",
       "actionid": 2027,
       "actioncode": "",
       "tenantId": "as"
@@ -17157,18 +16430,6 @@
       "tenantId": "as"
     },
      {
-      "rolecode": "BPA_RTP",
-      "actionid": 2032,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_TOWNPLANNER",
-      "actionid": 2032,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-     {
       "rolecode": "BPA_GROUP_AGENCY",
       "actionid": 2032,
       "actioncode": "",
@@ -17200,36 +16461,6 @@
     },
     {
       "rolecode": "BPA_SUPERVISOR",
-      "actionid": 2032,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-     {
-      "rolecode": "BPA_GEO_TECH_ENGINEER",
-      "actionid": 2032,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_CIVIL_ENGINEER",
-      "actionid": 2032,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_UTILITY_ENGINEER",
-      "actionid": 2032,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_LANDSCAPE_ARCHITECT",
-      "actionid": 2032,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_URBAN_DESIGNER",
       "actionid": 2032,
       "actioncode": "",
       "tenantId": "as"
@@ -17385,18 +16616,6 @@
       "tenantId": "as"
     },
      {
-      "rolecode": "BPA_RTP",
-      "actionid": 2041,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_TOWNPLANNER",
-      "actionid": 2041,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-     {
       "rolecode": "BPA_GROUP_AGENCY",
       "actionid": 2041,
       "actioncode": "",
@@ -17428,36 +16647,6 @@
     },
     {
       "rolecode": "BPA_SUPERVISOR",
-      "actionid": 2041,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-     {
-      "rolecode": "BPA_GEO_TECH_ENGINEER",
-      "actionid": 2041,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_CIVIL_ENGINEER",
-      "actionid": 2041,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_UTILITY_ENGINEER",
-      "actionid": 2041,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_LANDSCAPE_ARCHITECT",
-      "actionid": 2041,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_URBAN_DESIGNER",
       "actionid": 2041,
       "actioncode": "",
       "tenantId": "as"
@@ -17505,18 +16694,6 @@
       "tenantId": "as"
     },
      {
-      "rolecode": "BPA_RTP",
-      "actionid": 2042,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_TOWNPLANNER",
-      "actionid": 2042,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-     {
       "rolecode": "BPA_GROUP_AGENCY",
       "actionid": 2042,
       "actioncode": "",
@@ -17548,36 +16725,6 @@
     },
     {
       "rolecode": "BPA_SUPERVISOR",
-      "actionid": 2042,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-     {
-      "rolecode": "BPA_GEO_TECH_ENGINEER",
-      "actionid": 2042,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_CIVIL_ENGINEER",
-      "actionid": 2042,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_UTILITY_ENGINEER",
-      "actionid": 2042,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_LANDSCAPE_ARCHITECT",
-      "actionid": 2042,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_URBAN_DESIGNER",
       "actionid": 2042,
       "actioncode": "",
       "tenantId": "as"
@@ -17619,18 +16766,6 @@
       "tenantId": "as"
     },
      {
-      "rolecode": "BPA_RTP",
-      "actionid": 2043,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_TOWNPLANNER",
-      "actionid": 2043,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-     {
       "rolecode": "BPA_GROUP_AGENCY",
       "actionid": 2043,
       "actioncode": "",
@@ -17662,36 +16797,6 @@
     },
     {
       "rolecode": "BPA_SUPERVISOR",
-      "actionid": 2043,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-     {
-      "rolecode": "BPA_GEO_TECH_ENGINEER",
-      "actionid": 2043,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_CIVIL_ENGINEER",
-      "actionid": 2043,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_UTILITY_ENGINEER",
-      "actionid": 2043,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_LANDSCAPE_ARCHITECT",
-      "actionid": 2043,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_URBAN_DESIGNER",
       "actionid": 2043,
       "actioncode": "",
       "tenantId": "as"
@@ -17732,18 +16837,6 @@
       "actioncode": "",
       "tenantId": "as"
     },
-     {
-      "rolecode": "BPA_RTP",
-      "actionid": 2044,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_TOWNPLANNER",
-      "actionid": 2044,
-      "actioncode": "",
-      "tenantId": "as"
-    },
       {
       "rolecode": "BPA_GROUP_AGENCY",
       "actionid": 2044,
@@ -17776,36 +16869,6 @@
     },
     {
       "rolecode": "BPA_SUPERVISOR",
-      "actionid": 2044,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-     {
-      "rolecode": "BPA_GEO_TECH_ENGINEER",
-      "actionid": 2044,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_CIVIL_ENGINEER",
-      "actionid": 2044,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_UTILITY_ENGINEER",
-      "actionid": 2044,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_LANDSCAPE_ARCHITECT",
-      "actionid": 2044,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_URBAN_DESIGNER",
       "actionid": 2044,
       "actioncode": "",
       "tenantId": "as"
@@ -19773,18 +18836,6 @@
       "tenantId": "as"
     },
      {
-      "rolecode": "BPA_RTP",
-      "actionid": 2005,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_TOWNPLANNER",
-      "actionid": 2005,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-     {
       "rolecode": "BPA_GROUP_AGENCY",
       "actionid": 2005,
       "actioncode": "",
@@ -19832,36 +18883,6 @@
       "actioncode": "",
       "tenantId": "as"
     },
-     {
-      "rolecode": "BPA_GEO_TECH_ENGINEER",
-      "actionid": 2005,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_CIVIL_ENGINEER",
-      "actionid": 2005,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_UTILITY_ENGINEER",
-      "actionid": 2005,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_LANDSCAPE_ARCHITECT",
-      "actionid": 2005,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_URBAN_DESIGNER",
-      "actionid": 2005,
-      "actioncode": "",
-      "tenantId": "as"
-    },
     {
       "rolecode": "BPA_FIELD_INSPECTOR",
       "actionid": 2005,
@@ -19899,79 +18920,7 @@
       "tenantId": "as"
     },
      {
-      "rolecode": "BPA_RTP",
-      "actionid": 2088,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_TOWNPLANNER",
-      "actionid": 2088,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-     {
-      "rolecode": "BPA_BUILDER",
-      "actionid": 2088,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-     {
       "rolecode": "BPA_GROUP_AGENCY",
-      "actionid": 2088,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_TOWNPLANNER_DA",
-      "actionid": 2088,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_STRUCTURALENGINEER",
-      "actionid": 2088,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-     {
-      "rolecode": "BPA_ENGINEER",
-      "actionid": 2088,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_SUPERVISOR",
-      "actionid": 2088,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-     {
-      "rolecode": "BPA_GEO_TECH_ENGINEER",
-      "actionid": 2088,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_CIVIL_ENGINEER",
-      "actionid": 2088,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_UTILITY_ENGINEER",
-      "actionid": 2088,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_LANDSCAPE_ARCHITECT",
-      "actionid": 2088,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_URBAN_DESIGNER",
       "actionid": 2088,
       "actioncode": "",
       "tenantId": "as"
@@ -19982,99 +18931,27 @@
       "actioncode": "",
       "tenantId": "as"
     },
-     {
-      "rolecode": "BPA_RTP",
-      "actionid": 2089,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_TOWNPLANNER",
-      "actionid": 2089,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-     {
-      "rolecode": "BPA_GROUP_AGENCY",
-      "actionid": 2089,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_BUILDER",
-      "actionid": 2089,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_TOWNPLANNER_DA",
-      "actionid": 2089,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_STRUCTURALENGINEER",
-      "actionid": 2089,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_SUPERVISOR",
-      "actionid": 2089,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_ENGINEER",
-      "actionid": 2089,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-     {
-      "rolecode": "BPA_GEO_TECH_ENGINEER",
-      "actionid": 2089,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_CIVIL_ENGINEER",
-      "actionid": 2089,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_UTILITY_ENGINEER",
-      "actionid": 2089,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_LANDSCAPE_ARCHITECT",
-      "actionid": 2089,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_URBAN_DESIGNER",
-      "actionid": 2089,
-      "actioncode": "",
-      "tenantId": "as"
-    },
     {
       "rolecode": "BPA_ARCHITECT",
       "actionid": 2090,
       "actioncode": "",
       "tenantId": "as"
     },
-     {
-      "rolecode": "BPA_RTP",
-      "actionid": 2090,
+    {
+      "rolecode": "BPA_GROUP_AGENCY",
+      "actionid": 2089,
       "actioncode": "",
       "tenantId": "as"
     },
     {
-      "rolecode": "BPA_TOWNPLANNER",
-      "actionid": 2090,
+      "rolecode": "BPA_TOWNPLANNER_DA",
+      "actionid": 2088,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TOWNPLANNER_DA",
+      "actionid": 2089,
       "actioncode": "",
       "tenantId": "as"
     },
@@ -20086,7 +18963,31 @@
     },
     {
       "rolecode": "BPA_BUILDER",
+      "actionid": 2088,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_BUILDER",
+      "actionid": 2089,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_BUILDER",
       "actionid": 2090,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_STRUCTURALENGINEER",
+      "actionid": 2088,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_STRUCTURALENGINEER",
+      "actionid": 2089,
       "actioncode": "",
       "tenantId": "as"
     },
@@ -20097,8 +18998,14 @@
       "tenantId": "as"
     },
     {
-      "rolecode": "BPA_GROUP_AGENCY",
-      "actionid": 2090,
+      "rolecode": "BPA_ENGINEER",
+      "actionid": 2088,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER",
+      "actionid": 2089,
       "actioncode": "",
       "tenantId": "as"
     },
@@ -20110,36 +19017,18 @@
     },
     {
       "rolecode": "BPA_SUPERVISOR",
-      "actionid": 2090,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-     {
-      "rolecode": "BPA_GEO_TECH_ENGINEER",
-      "actionid": 2090,
+      "actionid": 2088,
       "actioncode": "",
       "tenantId": "as"
     },
     {
-      "rolecode": "BPA_CIVIL_ENGINEER",
-      "actionid": 2090,
+      "rolecode": "BPA_SUPERVISOR",
+      "actionid": 2089,
       "actioncode": "",
       "tenantId": "as"
     },
-      {
-      "rolecode": "BPA_UTILITY_ENGINEER",
-      "actionid": 2090,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_LANDSCAPE_ARCHITECT",
-      "actionid": 2090,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_URBAN_DESIGNER",
+    {
+      "rolecode": "BPA_SUPERVISOR",
       "actionid": 2090,
       "actioncode": "",
       "tenantId": "as"
@@ -20150,18 +19039,6 @@
       "actioncode": "",
       "tenantId": "as"
     },
-     {
-      "rolecode": "BPA_RTP",
-      "actionid": 2091,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_TOWNPLANNER",
-      "actionid": 2091,
-      "actioncode": "",
-      "tenantId": "as"
-    },
     {
       "rolecode": "BPA_GROUP_AGENCY",
       "actionid": 2091,
@@ -20194,36 +19071,6 @@
     },
     {
       "rolecode": "BPA_SUPERVISOR",
-      "actionid": 2091,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-     {
-      "rolecode": "BPA_GEO_TECH_ENGINEER",
-      "actionid": 2091,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_CIVIL_ENGINEER",
-      "actionid": 2091,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_UTILITY_ENGINEER",
-      "actionid": 2091,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_LANDSCAPE_ARCHITECT",
-      "actionid": 2091,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_URBAN_DESIGNER",
       "actionid": 2091,
       "actioncode": "",
       "tenantId": "as"
@@ -24735,18 +23582,6 @@
       "tenantId": "as"
     },
      {
-      "rolecode": "BPA_RTP",
-      "actionid": 2155,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_TOWNPLANNER",
-      "actionid": 2155,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-     {
       "rolecode": "BPA_GROUP_AGENCY",
       "actionid": 2155,
       "actioncode": "",
@@ -24778,36 +23613,6 @@
     },
     {
       "rolecode": "BPA_SUPERVISOR",
-      "actionid": 2155,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-     {
-      "rolecode": "BPA_GEO_TECH_ENGINEER",
-      "actionid": 2155,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_CIVIL_ENGINEER",
-      "actionid": 2155,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_UTILITY_ENGINEER",
-      "actionid": 2155,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_LANDSCAPE_ARCHITECT",
-      "actionid": 2155,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_URBAN_DESIGNER",
       "actionid": 2155,
       "actioncode": "",
       "tenantId": "as"
@@ -24980,18 +23785,6 @@
       "actioncode": "",
       "tenantId": "as"
     },
-     {
-      "rolecode": "BPA_RTP",
-      "actionid": 2317,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_TOWNPLANNER",
-      "actionid": 2317,
-      "actioncode": "",
-      "tenantId": "as"
-    },
     {
       "rolecode": "BPA_GROUP_AGENCY",
       "actionid": 2317,
@@ -25012,42 +23805,6 @@
     },
     {
       "rolecode": "BPA_STRUCTURALENGINEER",
-      "actionid": 2317,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_SUPERVISOR",
-      "actionid": 2317,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-     {
-      "rolecode": "BPA_GEO_TECH_ENGINEER",
-      "actionid": 2317,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_CIVIL_ENGINEER",
-      "actionid": 2317,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_UTILITY_ENGINEER",
-      "actionid": 2317,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_LANDSCAPE_ARCHITECT",
-      "actionid": 2317,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_URBAN_DESIGNER",
       "actionid": 2317,
       "actioncode": "",
       "tenantId": "as"
@@ -25371,18 +24128,6 @@
       "tenantId": "as"
     },
      {
-      "rolecode": "BPA_RTP",
-      "actionid": 698,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_TOWNPLANNER",
-      "actionid": 698,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-     {
       "rolecode": "BPA_GROUP_AGENCY",
       "actionid": 698,
       "actioncode": "",
@@ -25420,36 +24165,6 @@
     },
     {
       "rolecode": "BPA_SUPERVISOR",
-      "actionid": 698,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-     {
-      "rolecode": "BPA_GEO_TECH_ENGINEER",
-      "actionid": 698,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_CIVIL_ENGINEER",
-      "actionid": 698,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_UTILITY_ENGINEER",
-      "actionid": 698,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_LANDSCAPE_ARCHITECT",
-      "actionid": 698,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_URBAN_DESIGNER",
       "actionid": 698,
       "actioncode": "",
       "tenantId": "as"
@@ -34205,73 +32920,7 @@
       "tenantId": "as"
     },
      {
-      "rolecode": "BPA_RTP",
-      "actionid": 3076,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_TOWNPLANNER",
-      "actionid": 3076,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-     {
       "rolecode": "BPA_GROUP_AGENCY",
-      "actionid": 3076,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-     {
-      "rolecode": "BPA_ENGINEER",
-      "actionid": 3076,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-     {
-      "rolecode": "BPA_BUILDER",
-      "actionid": 3076,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_STRUCTURALENGINEER",
-      "actionid": 3076,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_SUPERVISOR",
-      "actionid": 3076,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-     {
-      "rolecode": "BPA_GEO_TECH_ENGINEER",
-      "actionid": 3076,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
-      "rolecode": "BPA_CIVIL_ENGINEER",
-      "actionid": 3076,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_UTILITY_ENGINEER",
-      "actionid": 3076,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_LANDSCAPE_ARCHITECT",
-      "actionid": 3076,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-      {
-      "rolecode": "BPA_URBAN_DESIGNER",
       "actionid": 3076,
       "actioncode": "",
       "tenantId": "as"
@@ -34282,7 +32931,6 @@
       "actioncode": "",
       "tenantId": "as"
     },
-    
     {
       "rolecode": "BPA_APPROVER",
       "actionid": 1863,
@@ -38414,12 +37062,6 @@
   {
     "rolecode": "SEWASETU_ADMIN",
     "actionid": 3108,
-    "actioncode": "",
-    "tenantId": "as"
-  },
-   {
-    "rolecode": "BPA_ARCHITECH",
-    "actionid": 2088,
     "actioncode": "",
     "tenantId": "as"
   },
