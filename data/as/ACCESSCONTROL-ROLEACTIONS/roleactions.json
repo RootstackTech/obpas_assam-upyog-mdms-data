@@ -11198,6 +11198,12 @@
       "actioncode": "",
       "tenantId": "as"
     },
+	  {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 1751,
+      "actioncode": "",
+      "tenantId": "as"
+    },
     {
       "rolecode": "SUPERUSER",
       "actionid": 1752,
