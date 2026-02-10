@@ -37130,6 +37130,12 @@
     "actionid": 2088,
     "actioncode": "",
     "tenantId": "as"
+  },
+  {
+    "rolecode": "SEWASETU_ADMIN",
+    "actionid": 3109,
+    "actioncode": "",
+    "tenantId": "as"
   }
   ]
 }
