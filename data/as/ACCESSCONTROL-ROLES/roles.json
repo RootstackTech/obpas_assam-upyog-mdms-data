@@ -1176,6 +1176,21 @@
       "code": "SEWASETU_ADMIN",
       "name": "Sewasetu Admin",
       "description": "Sewasetu Admin"
+    },
+    {
+      "code": "BPA_RTP",
+      "name": "Registered Technical Person",
+      "description": "Registered Technical Person"
+    },
+    {
+      "code": "BPA_TOWNPLANNER",
+      "name": "RTP TownPlanner",
+      "description": "BPA_TOWNPLANNER"
+    },
+    {
+      "code": "BPA_UTILITY_ENGINEER",
+      "name": "Utility Engineer",
+      "description": "Utility Engineer"
     }
   ]
 }
