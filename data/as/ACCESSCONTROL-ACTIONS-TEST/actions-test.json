@@ -21875,6 +21875,18 @@
    "serviceCode": "report",
    "code": "null",
    "path": ""
- } 
+ },
+ {
+   "id": 3109,
+   "name": "Sewasetu applicationNumber wise details",
+   "url": "/report/v1/sewasetu/_getapplicationdata",
+   "displayName": "reportv1-sewasetu--applicationdetails",
+   "orderNumber": 14,
+   "parentModule": "",
+   "enabled": true,
+   "serviceCode": "report",
+   "code": "null",
+   "path": ""
+ }
   ]
 }
