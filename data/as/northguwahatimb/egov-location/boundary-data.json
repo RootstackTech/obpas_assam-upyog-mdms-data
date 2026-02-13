@@ -1,0 +1,56 @@
+{
+  "tenantId": "as.northguwahatimb",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "North Guwahati Municipal Board",
+        "localname": "North Guwahati Municipal Board",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.northguwahatimb",
+        "children": [
+          {
+            "id": "7e9c1a00-11f0-4d8b-b001-11a7a001501",
+            "boundaryNum": 1,
+            "name": "Silasundurighopa",
+            "localname": "Silasundurighopa",
+            "longitude": null,
+            "latitude": null,
+            "label": "Mouza",
+            "code": "SilasundurighopaV1",
+            "children": [
+              {
+                "id": "7e9c1a00-11f0-4d8b-b001-11a7a001502",
+                "boundaryNum": 1,
+                "name": "Tilling Gaon",
+                "localname": "Tilling Gaon",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "TillingGaonV1"
+              },
+              {
+                "id": "7e9c1a00-11f0-4d8b-b001-11a7a001503",
+                "boundaryNum": 1,
+                "name": "North Guwahati",
+                "localname": "North Guwahati",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NorthGuwahatiV1"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

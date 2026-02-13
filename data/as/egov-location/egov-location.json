@@ -751,7 +751,7 @@
             "planningAreaGisCode": "Guwahati",
             "active": true,
             "ppAuthority": {
-              "id": 6,
+              "id": 25,
               "planningAreaCode": "GUWAHATI_MP",
               "districtCode": "KAMRUP_METRO",
               "ppAuthorityCode": "GUWAHATI_METROPOLITAN_DEVELOPMENT_AUTHORITY",
@@ -766,7 +766,43 @@
               },
                {
                 "name": "GRAM_PANCHAYAT",
-                "code": "GUWAHATI_GRAM_PANCHAYAT",
+                "code": "GRAM_PANCHAYAT",
+                "active": true
+              }
+            ]
+          }
+        ]
+      },
+       {
+        "id": 20,
+        "districtCode": "KAMRUP",
+        "districtName": "Kamrup",
+        "active": true,
+        "planningAreas": [
+          {
+            "id": 26,
+            "districtCode": "KAMRUP",
+            "planningAreaCode": "GUWAHATI_MP",
+            "planningAreaName": "Guwahati Master Plan",
+            "planningAreaGisCode": "Guwahati",
+            "active": true,
+            "ppAuthority": {
+              "id": 26,
+              "planningAreaCode": "GUWAHATI_MP",
+              "districtCode": "KAMRUP",
+              "ppAuthorityCode": "GUWAHATI_METROPOLITAN_DEVELOPMENT_AUTHORITY",
+              "ppAuthorityName": "Guwahati Metropolitan Development Authority",
+              "active": true
+            },
+            "bpAuthorities": [
+              {
+                "name": "MUNICIPAL_BOARD",
+                "code": "MUNICIPAL_BOARD",
+                "active": true
+              },
+               {
+                "name": "GRAM_PANCHAYAT",
+                "code": "GRAM_PANCHAYAT",
                 "active": true
               }
             ]
