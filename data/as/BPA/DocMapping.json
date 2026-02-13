@@ -6,13 +6,13 @@
       "docTypes": [
         {
           "code": "APPL.UPDATEDJAMABANDI",
-          "required": false,
+          "required": true,
           "allow": true,
           "order": 1
         },
         {
           "code": "APPL.UPDATEDTRACEMAP",
-          "required": false,
+          "required": true,
           "allow": true,
           "order": 2
         },
@@ -36,7 +36,7 @@
         },
         {
           "code": "APPL.ADDIDAVITOFDECALRATION",
-          "required": false,
+          "required": true,
           "allow": true,
           "order": 6
         },
@@ -48,7 +48,7 @@
         },
         {
           "code": "APPL.FORM34",
-          "required": false,
+          "required": true,
           "allow": true,
           "order": 8
         },
@@ -96,7 +96,7 @@
         },
         {
           "code": "APPL.SOILTESTREPORT",
-          "required": true,
+          "required": false,
           "allow": true,
           "order": 16
         },
@@ -105,18 +105,6 @@
           "required": true,
           "allow": true,
           "order": 17
-        },
-        {
-          "code": "APPL.FORM23",
-          "required": true,
-          "allow": true,
-          "order": 18
-        },
-         {
-          "code": "APPL.FORM24",
-          "required": true,
-          "allow": true,
-          "order": 19
         }
       ]
     }
