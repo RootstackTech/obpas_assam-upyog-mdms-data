@@ -21594,7 +21594,7 @@
   "serviceCode": "OBPS",
   "code": "null",
   "path": "OBPS Reports.obpsApplicationReport",
-  "navigationURL": "report/rainmaker-obps/obpsApplicationReport",
+  "navigationURL": "/upyog-ui/employee/obpsv2/obpsApplicationReport",
   "leftIcon": "places:business-center",
   "rightIcon": ""
 },
@@ -21633,7 +21633,7 @@
   "serviceCode": "OBPS",
   "code": "null",
   "path": "OBPS Reports.obpsRegistryReport",
-  "navigationURL": "report/rainmaker-obps/obpsRegistryReport",
+  "navigationURL": "/upyog-ui/employee/obpsv2/obpsRegistryReport",
   "leftIcon": "places:business-center",
   "rightIcon": ""
 },
@@ -21683,7 +21683,7 @@
   "serviceCode": "OBPS",
   "code": "null",
   "path": "OBPS Reports.totalapplicationssummary",
-  "navigationURL": "report/rainmaker-obps/totalapplicationssummary",
+  "navigationURL": "/upyog-ui/employee/obpsv2/totalapplicationssummary",
   "leftIcon": "places:business-center",
   "rightIcon": ""
 },
@@ -21722,7 +21722,7 @@
   "serviceCode": "OBPS",
   "code": "null",
   "path": "OBPS Reports.newapplicationsdatewise",
-  "navigationURL": "report/rainmaker-obps/newapplicationsdatewise",
+  "navigationURL": "/upyog-ui/employee/obpsv2/newapplicationsdatewise",
   "leftIcon": "places:business-center",
   "rightIcon": ""
 },
@@ -21757,11 +21757,11 @@
   "displayName": "Daily Backend Updates Report",
   "orderNumber": 14,
   "parentModule": "rainmaker-obps",
-  "enabled": true,
+  "enabled": false,
   "serviceCode": "OBPS",
   "code": "null",
   "path": "OBPS Reports.dailybackendupdatesreport",
-  "navigationURL": "report/rainmaker-obps/dailybackendupdatesreport",
+  "navigationURL": "/upyog-ui/employee/obpsv2/dailybackendupdatesreport",
   "leftIcon": "places:business-center",
   "rightIcon": ""
 },
@@ -21772,7 +21772,7 @@
   "displayName": "rainmaker-obps-dailybackendupdatesreport",
   "orderNumber": 14,
   "parentModule": "",
-  "enabled": true,
+  "enabled": false,
   "serviceCode": "report",
   "code": "null",
   "path": ""
@@ -21784,7 +21784,7 @@
   "displayName": "rainmaker-obps-dailybackendupdatesreport",
   "orderNumber": 14,
   "parentModule": "",
-  "enabled": true,
+  "enabled": false,
   "serviceCode": "report",
   "code": "null",
   "path": ""
@@ -21800,7 +21800,7 @@
   "serviceCode": "OBPS",
   "code": "null",
   "path": "OBPS Reports.applicationworkflowtrace",
-  "navigationURL": "report/rainmaker-obps/applicationworkflowtrace",
+  "navigationURL": "/upyog-ui/employee/obpsv2/applicationworkflowtrace",
   "leftIcon": "places:business-center",
   "rightIcon": ""
 },
