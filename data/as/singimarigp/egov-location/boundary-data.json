@@ -1,0 +1,76 @@
+{
+    "tenantId": "as.singimarigp",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Singimari GP",
+                "localname": "Singimari GP",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.singimarigp",
+                "children": [
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c0",
+                        "boundaryNum": 1,
+                        "name": "Pub Bangsar",
+                        "localname": "Pub Bangsar",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "PubBangsarV4",
+                        "children": [
+                            {
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c1",
+                                "boundaryNum": 1,
+                                "name": "1 No. Singimari Pt",
+                                "localname": "1 No. Singimari Pt",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "1NoSingimariPtV1"
+                            },
+                            {
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c2",
+                                "boundaryNum": 1,
+                                "name": "2 No. Singimari",
+                                "localname": "2 No. Singimari",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "2NoSingimariV1"
+                            },
+                            {
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c3",
+                                "boundaryNum": 1,
+                                "name": "3 No. Singimari",
+                                "localname": "3 No. Singimari",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "3NoSingimariV1"
+                            },
+                            {
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c4",
+                                "boundaryNum": 1,
+                                "name": "Roumari Gaon Pt",
+                                "localname": "Roumari Gaon Pt",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "RoumariGaonPtV1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}

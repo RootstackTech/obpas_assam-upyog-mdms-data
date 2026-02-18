@@ -1,0 +1,96 @@
+{
+    "tenantId": "as.dadaragp",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Dadara GP",
+                "localname": "Dadara GP",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.dadaragp",
+                "children": [
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c0",
+                        "boundaryNum": 1,
+                        "name": "Pub Bangsar",
+                        "localname": "Pub Bangsar",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "PubBangsarV5",
+                        "children": [
+                            {
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c1",
+                                "boundaryNum": 1,
+                                "name": "Dali Bari",
+                                "localname": "Dali Bari",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "DaliBariV1"
+                            },
+                            {
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c2",
+                                "boundaryNum": 1,
+                                "name": "2 No. Dalibari Pt",
+                                "localname": "2 No. Dalibari Pt",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "2NoDalibariPtV1"
+                            },
+                            {
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c3",
+                                "boundaryNum": 1,
+                                "name": "Dadara Pt",
+                                "localname": "Dadara Pt",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "DadaraPtV1"
+                            },
+                            {
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c4",
+                                "boundaryNum": 1,
+                                "name": "Charmajuli Pam",
+                                "localname": "Charmajuli Pam",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "CharmajuliPamV1"
+                            },
+                            {
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c5",
+                                "boundaryNum": 1,
+                                "name": "Charmajuli NC",
+                                "localname": "Charmajuli NC",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "CharmajuliNCV1"
+                            },
+                            {
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c6",
+                                "boundaryNum": 1,
+                                "name": "Charmajuli Gaon Pt",
+                                "localname": "Charmajuli Gaon Ptt",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "CharmajuliGaonPtV1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "tenantId": "as.azaragp",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Azara GP",
+                "localname": "Azara GP",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.azaragp",
+                "children": [
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c0",
+                        "boundaryNum": 1,
+                        "name": "Ramcharani",
+                        "localname": "Ramcharani",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "RamcharaniV1",
+                        "children": [
+                            {
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c1",
+                                "boundaryNum": 1,
+                                "name": "Azara Gaon",
+                                "localname": "Azara Gaon",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "AzaraGaonV1"
+                            },
+                            {
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c2",
+                                "boundaryNum": 1,
+                                "name": "Mikirpara Chakordoi",
+                                "localname": "Mikirpara Chakordoi",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "MikirparaChakordoiV1"
+                            },
+                            {
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c3",
+                                "boundaryNum": 1,
+                                "name": "Pamohi",
+                                "localname": "Pamohi",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "PamohiV1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}
