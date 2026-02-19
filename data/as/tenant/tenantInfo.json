@@ -2921,6 +2921,196 @@
       "workingPopulation": "31.16",
       "literacyRate": "93.53",
       "languagesSpoken": ["HN", "EN"]
+    },
+    {
+      "code": "as.amsinggp",
+      "districtCode": "KAMRUP_METRO" ,
+      "population": "33632",
+      "malePopulation": "16510",
+      "femalePopulation": "17122",
+      "workingPopulation": "31.16",
+      "literacyRate": "93.53",
+      "languagesSpoken": ["HN", "EN"]
+    },
+    {
+      "code": "as.azaragp",
+      "districtCode": "KAMRUP_METRO" ,
+      "population": "33632",
+      "malePopulation": "16510",
+      "femalePopulation": "17122",
+      "workingPopulation": "31.16",
+      "literacyRate": "93.53",
+      "languagesSpoken": ["HN", "EN"]
+    },
+    {
+      "code": "as.dharapurgp",
+      "districtCode": "KAMRUP_METRO" ,
+      "population": "33632",
+      "malePopulation": "16510",
+      "femalePopulation": "17122",
+      "workingPopulation": "31.16",
+      "literacyRate": "93.53",
+      "languagesSpoken": ["HN", "EN"]
+    },
+    {
+      "code": "as.garalgp",
+      "districtCode": "KAMRUP_METRO" ,
+      "population": "33632",
+      "malePopulation": "16510",
+      "femalePopulation": "17122",
+      "workingPopulation": "31.16",
+      "literacyRate": "93.53",
+      "languagesSpoken": ["HN", "EN"]
+    },
+    {
+      "code": "as.kahikuchigp",
+      "districtCode": "KAMRUP_METRO" ,
+      "population": "33632",
+      "malePopulation": "16510",
+      "femalePopulation": "17122",
+      "workingPopulation": "31.16",
+      "literacyRate": "93.53",
+      "languagesSpoken": ["HN", "EN"]
+    },
+    {
+      "code": "as.lachitgarhgp",
+      "districtCode": "KAMRUP" ,
+      "population": "33632",
+      "malePopulation": "16510",
+      "femalePopulation": "17122",
+      "workingPopulation": "31.16",
+      "literacyRate": "93.53",
+      "languagesSpoken": ["HN", "EN"]
+    },
+    {
+      "code": "as.rudreswargp",
+      "districtCode": "KAMRUP" ,
+      "population": "33632",
+      "malePopulation": "16510",
+      "femalePopulation": "17122",
+      "workingPopulation": "31.16",
+      "literacyRate": "93.53",
+      "languagesSpoken": ["HN", "EN"]
+    },
+    {
+      "code": "as.panikhaitigp",
+      "districtCode": "KAMRUP_METRO" ,
+      "population": "33632",
+      "malePopulation": "16510",
+      "femalePopulation": "17122",
+      "workingPopulation": "31.16",
+      "literacyRate": "93.53",
+      "languagesSpoken": ["HN", "EN"]
+    },
+    {
+      "code": "as.bongragp",
+      "districtCode": "KAMRUP" ,
+      "population": "33632",
+      "malePopulation": "16510",
+      "femalePopulation": "17122",
+      "workingPopulation": "31.16",
+      "literacyRate": "93.53",
+      "languagesSpoken": ["HN", "EN"]
+    },
+    {
+      "code": "as.saraighatgp",
+      "districtCode": "KAMRUP" ,
+      "population": "33632",
+      "malePopulation": "16510",
+      "femalePopulation": "17122",
+      "workingPopulation": "31.16",
+      "literacyRate": "93.53",
+      "languagesSpoken": ["HN", "EN"]
+    },
+    {
+      "code": "as.ranigaongp",
+      "districtCode": "KAMRUP" ,
+      "population": "33632",
+      "malePopulation": "16510",
+      "femalePopulation": "17122",
+      "workingPopulation": "31.16",
+      "literacyRate": "93.53",
+      "languagesSpoken": ["HN", "EN"]
+    },
+    {
+      "code": "as.maliatagp",
+      "districtCode": "KAMRUP" ,
+      "population": "33632",
+      "malePopulation": "16510",
+      "femalePopulation": "17122",
+      "workingPopulation": "31.16",
+      "literacyRate": "93.53",
+      "languagesSpoken": ["HN", "EN"]
+    },
+    {
+      "code": "as.bangsargp",
+      "districtCode": "KAMRUP" ,
+      "population": "33632",
+      "malePopulation": "16510",
+      "femalePopulation": "17122",
+      "workingPopulation": "31.16",
+      "literacyRate": "93.53",
+      "languagesSpoken": ["HN", "EN"]
+    },
+    {
+      "code": "as.pubsualkuchigp",
+      "districtCode": "KAMRUP" ,
+      "population": "33632",
+      "malePopulation": "16510",
+      "femalePopulation": "17122",
+      "workingPopulation": "31.16",
+      "literacyRate": "93.53",
+      "languagesSpoken": ["HN", "EN"]
+    },
+    {
+      "code": "as.gandhmougp",
+      "districtCode": "KAMRUP" ,
+      "population": "33632",
+      "malePopulation": "16510",
+      "femalePopulation": "17122",
+      "workingPopulation": "31.16",
+      "literacyRate": "93.53",
+      "languagesSpoken": ["HN", "EN"]
+    },
+    {
+      "code": "as.singimarigp",
+      "districtCode": "KAMRUP" ,
+      "population": "33632",
+      "malePopulation": "16510",
+      "femalePopulation": "17122",
+      "workingPopulation": "31.16",
+      "literacyRate": "93.53",
+      "languagesSpoken": ["HN", "EN"]
+    },
+     {
+      "code": "as.dadaragp",
+      "districtCode": "KAMRUP" ,
+      "population": "33632",
+      "malePopulation": "16510",
+      "femalePopulation": "17122",
+      "workingPopulation": "31.16",
+      "literacyRate": "93.53",
+      "languagesSpoken": ["HN", "EN"]
+    },
+    {
+      "code": "as.dhopartarigp",
+      "districtCode": "KAMRUP" ,
+      "population": "33632",
+      "malePopulation": "16510",
+      "femalePopulation": "17122",
+      "workingPopulation": "31.16",
+      "literacyRate": "93.53",
+      "languagesSpoken": ["HN", "EN"]
+    },
+    {
+      "code": "as.majirgaongp",
+      "districtCode": "KAMRUP" ,
+      "population": "33632",
+      "malePopulation": "16510",
+      "femalePopulation": "17122",
+      "workingPopulation": "31.16",
+      "literacyRate": "93.53",
+      "languagesSpoken": ["HN", "EN"]
     }
   ]
 }

@@ -1,0 +1,106 @@
+{
+    "tenantId": "as.rudreswargp",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Rudreswar GP",
+                "localname": "Rudreswar GP",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.rudreswargp",
+                "children": [
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c0",
+                        "boundaryNum": 1,
+                        "name": "Silasundurighopa",
+                        "localname": "Silasundurighopa",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "SilasundurighopaV3",
+                        "children": [
+                            {
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c1",
+                                "boundaryNum": 1,
+                                "name": "Rangmahal Pt",
+                                "localname": "Rangmahal Pt",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "RangmahalPtV1"
+                            },
+							{
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c2",
+                                "boundaryNum": 1,
+                                "name": "Abhoypur",
+                                "localname": "Abhoypur",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "AbhoypurV1"
+                            },
+							{
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c3",
+                                "boundaryNum": 1,
+                                "name": "Fulung Pt",
+                                "localname": "Fulung Pt",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "FulungPtV1"
+                            },
+							{
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c4",
+                                "boundaryNum": 1,
+                                "name": "Bamunigaon Pt",
+                                "localname": "Bamunigaon Pt",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "BamunigaonPtV1"
+                            },
+							{
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c5",
+                                "boundaryNum": 1,
+                                "name": "Barchandra",
+                                "localname": "Barchandra",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "BarchandraV1"
+                            },
+							{
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c6",
+                                "boundaryNum": 1,
+                                "name": "Barchandra Grant",
+                                "localname": "Barchandra Grant",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "BarchandraGrantV1"
+                            },
+							{
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c7",
+                                "boundaryNum": 1,
+                                "name": "Rudreswar",
+                                "localname": "Rudreswar",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "RudreswarV1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}

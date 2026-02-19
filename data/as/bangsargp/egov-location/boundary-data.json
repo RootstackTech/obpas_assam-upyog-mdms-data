@@ -1,0 +1,66 @@
+{
+    "tenantId": "as.bangsargp",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Bangsar GP",
+                "localname": "Bangsar GP",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.bangsargp",
+                "children": [
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c0",
+                        "boundaryNum": 1,
+                        "name": "Pub Bangsar",
+                        "localname": "Pub Bangsar",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "PubBangsarV1",
+                        "children": [
+                            {
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c1",
+                                "boundaryNum": 1,
+                                "name": "Nij Bangsar",
+                                "localname": "Nij Bangsar",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "NijBangsarV1"
+                            },
+							{
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c2",
+                                "boundaryNum": 1,
+                                "name": "Sanpara Pt",
+                                "localname": "Sanpara Pt",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "SanparaPtV1"
+                            },
+							{
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c3",
+                                "boundaryNum": 1,
+                                "name": "Ambari",
+                                "localname": "Ambari",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "AmbariV1"
+                            }
+                        ]
+                    }
+                ]
+			}
+		}
+		]
+}

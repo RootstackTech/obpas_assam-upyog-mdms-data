@@ -1,0 +1,98 @@
+{
+    "tenantId": "as.bongragp",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Bongra GP",
+                "localname": "Bongra GP",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.bongragp",
+                "children": [
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c0",
+                        "boundaryNum": 1,
+                        "name": "Chayani",
+                        "localname": "Chayani",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "ChayaniV1",
+                        "children": [
+                            {
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c1",
+                                "boundaryNum": 1,
+                                "name": "Salesala",
+                                "localname": "Salesala",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "SalesalaV1"
+                            },
+                            {
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c2",
+                                "boundaryNum": 1,
+                                "name": "Kaithasiddhi",
+                                "localname": "Kaithasiddhi",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "KaithasiddhiV1"
+                            },
+                            {
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c3",
+                                "boundaryNum": 1,
+                                "name": "Sathikorpa",
+                                "localname": "Sathikorpa",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "SathikorpaV1"
+                            },
+                            {
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c4",
+                                "boundaryNum": 1,
+                                "name": "Bongra",
+                                "localname": "Bongra",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "BongraV1"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c5",
+                        "boundaryNum": 1,
+                        "name": "Dakhinrani",
+                        "localname": "Dakhinrani",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "DakhinraniV2",
+                        "children": [
+                            {
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c6",
+                                "boundaryNum": 1,
+                                "name": "Paseniapara Pt",
+                                "localname": "Paseniapara Pt",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "PaseniaparaPtV1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}

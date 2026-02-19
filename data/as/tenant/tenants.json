@@ -6175,6 +6175,405 @@
         "code": "2024",
         "ddrName": "North Guwahati Municipal Board"
       }
+      },
+      {
+      "code": "as.amsinggp",
+      "name": "Amsing GP",
+      "description": "Amsing GP",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "Amsing GP",
+        "districtName": "Kamrup (Metro)",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "KAMRUP_METRO",
+        "districtTenantCode": "as.amsinggp",
+        "planningAreaCode": "GUWAHATI_MP",
+        "code": "2025",
+        "ddrName": "Amsing GP"
+      }
+      },
+      {
+      "code": "as.azaragp",
+      "name": "Azara GP",
+      "description": "Azara GP",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "Azara GP",
+        "districtName": "Kamrup (Metro)",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "KAMRUP_METRO",
+        "districtTenantCode": "as.azaragp",
+        "planningAreaCode": "GUWAHATI_MP",
+        "code": "2026",
+        "ddrName": "Azara GP"
+      }
+      },
+      {
+      "code": "as.dharapurgp",
+      "name": "Dharapur GP",
+      "description": "Dharapur GP",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "Dharapur GP",
+        "districtName": "Kamrup (Metro)",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "KAMRUP_METRO",
+        "districtTenantCode": "as.dharapurgp",
+        "planningAreaCode": "GUWAHATI_MP",
+        "code": "2027",
+        "ddrName": "Dharapur GP"
+      }
+      },
+      {
+      "code": "as.garalgp",
+      "name": "Garal GP",
+      "description": "Garal GP",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "Garal GP",
+        "districtName": "Kamrup (Metro)",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "KAMRUP_METRO",
+        "districtTenantCode": "as.garalgp",
+        "planningAreaCode": "GUWAHATI_MP",
+        "code": "2028",
+        "ddrName": "Garal GP"
+      }
+      },
+      {
+      "code": "as.kahikuchigp",
+      "name": "Kahikuchi GP",
+      "description": "Kahikuchi GP",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "Kahikuchi GP",
+        "districtName": "Kamrup (Metro)",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "KAMRUP_METRO",
+        "districtTenantCode": "as.kahikuchigp",
+        "planningAreaCode": "GUWAHATI_MP",
+        "code": "2029",
+        "ddrName": "Kahikuchi GP"
+      }
+      },
+      {
+      "code": "as.lachitgarhgp",
+      "name": "Lachitgarh GP",
+      "description": "Lachitgarh GP",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "Lachitgarh GP",
+        "districtName": "Kamrup",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "KAMRUP",
+        "districtTenantCode": "as.lachitgarhgp",
+        "planningAreaCode": "GUWAHATI_MP",
+        "code": "2030",
+        "ddrName": "Lachitgarh GP"
+      }
+      },
+      {
+      "code": "as.rudreswargp",
+      "name": "Rudreswar GP",
+      "description": "Rudreswar GP",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "Rudreswar GP",
+        "districtName": "Kamrup",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "KAMRUP",
+        "districtTenantCode": "as.rudreswargp",
+        "planningAreaCode": "GUWAHATI_MP",
+        "code": "2031",
+        "ddrName": "Rudreswar GP"
+      }
+      },
+      {
+      "code": "as.panikhaitigp",
+      "name": "Panikhaiti GP",
+      "description": "Panikhaiti GP",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "Panikhaiti GP",
+        "districtName": "Kamrup (Metro)",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "KAMRUP_METRO",
+        "districtTenantCode": "as.panikhaitigp",
+        "planningAreaCode": "GUWAHATI_MP",
+        "code": "2032",
+        "ddrName": "Panikhaiti GP"
+      }
+      },
+      {
+      "code": "as.bongragp",
+      "name": "Bongra GP",
+      "description": "Bongra GP",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "Bongra GP",
+        "districtName": "Kamrup",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "KAMRUP",
+        "districtTenantCode": "as.bongragp",
+        "planningAreaCode": "GUWAHATI_MP",
+        "code": "2033",
+        "ddrName": "Bongra GP"
+      }
+      },
+      {
+      "code": "as.saraighatgp",
+      "name": "Saraighat GP",
+      "description": "Saraighat GP",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "Saraighat GP",
+        "districtName": "Kamrup",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "KAMRUP",
+        "districtTenantCode": "as.saraighatgp",
+        "planningAreaCode": "GUWAHATI_MP",
+        "code": "2034",
+        "ddrName": "Saraighat GP"
+      }
+      },
+      {
+      "code": "as.ranigaongp",
+      "name": "Ranigaon GP",
+      "description": "Ranigaon GP",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "Ranigaon GP",
+        "districtName": "Kamrup",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "KAMRUP",
+        "districtTenantCode": "as.ranigaongp",
+        "planningAreaCode": "GUWAHATI_MP",
+        "code": "2035",
+        "ddrName": "Ranigaon GP"
+      }
+      },
+      {
+      "code": "as.maliatagp",
+      "name": "Maliata GP",
+      "description": "Maliata GP",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "Maliata GP",
+        "districtName": "Kamrup",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "KAMRUP",
+        "districtTenantCode": "as.maliatagp",
+        "planningAreaCode": "GUWAHATI_MP",
+        "code": "2036",
+        "ddrName": "Maliata GP"
+      }
+      },
+      {
+      "code": "as.bangsargp",
+      "name": "Bangsar GP",
+      "description": "Bangsar GP",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "Bangsar GP",
+        "districtName": "Kamrup",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "KAMRUP",
+        "districtTenantCode": "as.bangsargp",
+        "planningAreaCode": "GUWAHATI_MP",
+        "code": "2037",
+        "ddrName": "Bangsar GP"
+      }
+      },
+      {
+      "code": "as.pubsualkuchigp",
+      "name": "Pub Sualkuchi GP",
+      "description": "Pub Sualkuchi GP",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "Pub Sualkuchi GP",
+        "districtName": "Kamrup",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "KAMRUP",
+        "districtTenantCode": "as.pubsualkuchigp",
+        "planningAreaCode": "GUWAHATI_MP",
+        "code": "2038",
+        "ddrName": "Pub Sualkuchi GP"
+      }
+      },
+      {
+      "code": "as.gandhmougp",
+      "name": "Gandhmou GP",
+      "description": "Gandhmou GP",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "Gandhmou GP",
+        "districtName": "Kamrup",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "KAMRUP",
+        "districtTenantCode": "as.gandhmougp",
+        "planningAreaCode": "GUWAHATI_MP",
+        "code": "2039",
+        "ddrName": "Gandhmou GP"
+      }
+      },
+      {
+      "code": "as.singimarigp",
+      "name": "Singimari GP",
+      "description": "Singimari GP",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "Singimari GP",
+        "districtName": "Kamrup",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "KAMRUP",
+        "districtTenantCode": "as.singimarigp",
+        "planningAreaCode": "GUWAHATI_MP",
+        "code": "2040",
+        "ddrName": "Singimari GP"
+      }
+      },
+      {
+      "code": "as.dadaragp",
+      "name": "Dadara GP",
+      "description": "Dadara GP",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "Dadara GP",
+        "districtName": "Kamrup",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "KAMRUP",
+        "districtTenantCode": "as.dadaragp",
+        "planningAreaCode": "GUWAHATI_MP",
+        "code": "2041",
+        "ddrName": "Dadara GP"
+      }
+      },
+      {
+      "code": "as.dhopartarigp",
+      "name": "Dhopartari GP",
+      "description": "Dhopartari GP",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "Dhopartari GP",
+        "districtName": "Kamrup",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "KAMRUP",
+        "districtTenantCode": "as.dhopartarigp",
+        "planningAreaCode": "GUWAHATI_MP",
+        "code": "2042",
+        "ddrName": "Dhopartari GP"
+      }
+      },
+      {
+      "code": "as.majirgaongp",
+      "name": "Majirgaon GP",
+      "description": "Majirgaon GP",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "Majirgaon GP",
+        "districtName": "Kamrup",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "KAMRUP",
+        "districtTenantCode": "as.majirgaongp",
+        "planningAreaCode": "GUWAHATI_MP",
+        "code": "2043",
+        "ddrName": "Majirgaon GP"
+      }
       }
   ]
 }
