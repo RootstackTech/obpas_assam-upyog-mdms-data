@@ -1191,6 +1191,16 @@
       "code": "BPA_UTILITY_ENGINEER",
       "name": "Utility Engineer",
       "description": "Utility Engineer"
+    },
+    {
+      "code": "BPA_ZONALOFFICER_MB",
+      "name": "Bpa Zonal Officer Municipal Board",
+      "description": "Bpa Zonal Officer Municipal Board"
+    },
+    {
+      "code": "BPA_ZONALOFFICER_GP",
+      "name": "Bpa Zonal Officer Gram Panchayat",
+      "description": "Bpa Zonal Officer Gram Panchayat"
     }
   ]
 }
