@@ -1,0 +1,116 @@
+{
+    "tenantId": "as.ranigaongp",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Ranigaon GP",
+                "localname": "Ranigaon GP",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.ranigaongp",
+                "children": [
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c0",
+                        "boundaryNum": 1,
+                        "name": "Dakhingaon",
+                        "localname": "Dakhingaon",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "DakhingaonV1",
+                        "children": [
+                            {
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c1",
+                                "boundaryNum": 1,
+                                "name": "Andhrejuli Pt",
+                                "localname": "Andhrejuli Pt",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "AndhrejuliPtV1"
+                            },
+                            {
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c2",
+                                "boundaryNum": 1,
+                                "name": "Batabari Pt",
+                                "localname": "Batabari Pt",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "BatabariPtV1"
+                            },
+                            {
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c3",
+                                "boundaryNum": 1,
+                                "name": "Kachari Alibari Pt",
+                                "localname": "Kachari Alibari Pt",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "KachariAlibariPtV1"
+                            },
+                            {
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c4",
+                                "boundaryNum": 1,
+                                "name": "Rangapara Pt",
+                                "localname": "Rangapara Pt",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "RangaparaPtV1"
+                            },
+                            {
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c5",
+                                "boundaryNum": 1,
+                                "name": "Sajanpara Pt",
+                                "localname": "Sajanpara Pt",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "SajanparaPtV1"
+                            },
+                            {
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c6",
+                                "boundaryNum": 1,
+                                "name": "Rajapanichanda Pt",
+                                "localname": "Rajapanichanda Pt",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "RajapanichandaPtV1"
+                            },
+                            {
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c7",
+                                "boundaryNum": 1,
+                                "name": "Khena Alibari Pt",
+                                "localname": "Khena Alibari Pt",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "KhenaAlibariPtV1"
+                            },
+                            {
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c8",
+                                "boundaryNum": 1,
+                                "name": "Bahupara Pt",
+                                "localname": "Bahupara Pt",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "BahuparaPtV1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}

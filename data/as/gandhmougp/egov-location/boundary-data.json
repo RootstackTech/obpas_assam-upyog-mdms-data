@@ -1,0 +1,66 @@
+{
+    "tenantId": "as.gandhmougp",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Gandhmou GP",
+                "localname": "Gandhmou GP",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.gandhmougp",
+                "children": [
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c0",
+                        "boundaryNum": 1,
+                        "name": "Pub Bangsar",
+                        "localname": "Pub Bangsar",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "PubBangsarV3",
+                        "children": [
+                            {
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c1",
+                                "boundaryNum": 1,
+                                "name": "Kismat Bangsar",
+                                "localname": "Kismat Bangsar",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "KismatBangsarV1"
+                            },
+                            {
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c2",
+                                "boundaryNum": 1,
+                                "name": "Gandhmou",
+                                "localname": "Gandhmou",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "GandhmouV1"
+                            },
+                            {
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c3",
+                                "boundaryNum": 1,
+                                "name": "Nij Gandhmou",
+                                "localname": "Nij Gandhmou",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "NijGandhmouV1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}

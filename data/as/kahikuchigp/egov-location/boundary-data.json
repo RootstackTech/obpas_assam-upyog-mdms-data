@@ -1,0 +1,136 @@
+{
+    "tenantId": "as.kahikuchigp",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Kahikuchi GP",
+                "localname": "Kahikuchi GP",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.kahikuchigp",
+                "children": [
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c0",
+                        "boundaryNum": 1,
+                        "name": "Dakhinrani",
+                        "localname": "Dakhinrani",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "DakhinraniV1",
+                        "children": [
+                            {
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c1",
+                                "boundaryNum": 1,
+                                "name": "Borjhar",
+                                "localname": "Borjhar",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "BorjharV1"
+                            },
+							{
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c2",
+                                "boundaryNum": 1,
+                                "name": "Jugipara",
+                                "localname": "Jugipara",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "JugiparaV1"
+                            },
+							{
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c3",
+                                "boundaryNum": 1,
+                                "name": "Kahikuchi",
+                                "localname": "Kahikuchi",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "KahikuchiV1"
+                            },
+							{
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c4",
+                                "boundaryNum": 1,
+                                "name": "Jawe",
+                                "localname": "Jawe",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "JaweV1"
+                            },
+							{
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c5",
+                                "boundaryNum": 1,
+                                "name": "Matikutuni",
+                                "localname": "Matikutuni",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "MatikutuniV1"
+                            },
+							{
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c6",
+                                "boundaryNum": 1,
+                                "name": "Paseniapara Pt",
+                                "localname": "Paseniapara Pt",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "PaseniaparaPtV1"
+                            },
+							{
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c7",
+                                "boundaryNum": 1,
+                                "name": "Deor Ali",
+                                "localname": "Deor Ali",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "DeorAliV1"
+                            },
+							{
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c8",
+                                "boundaryNum": 1,
+                                "name": "Kamargaon",
+                                "localname": "Kamargaon",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "KamargaonV1"
+                            },
+							{
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c9",
+                                "boundaryNum": 1,
+                                "name": "Jangaliapara",
+                                "localname": "Jangaliapara",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "JangaliaparaV1"
+                            },
+							{
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325d1",
+                                "boundaryNum": 1,
+                                "name": "Patgaon Pt.",
+                                "localname": "Patgaon Pt.",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "PatgaonPtV1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}

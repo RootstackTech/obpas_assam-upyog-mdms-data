@@ -5365,7 +5365,27 @@
         { "code": "as.sribhumida" },
         { "code": "as.dhemajida" },
         { "code": "as.mangaldoida" },
-        { "code": "as.gmda" }
+        { "code": "as.gmda" },
+        {"code": "as.northguwahatimb"},
+        {"code": "as.amsinggp"},
+        {"code": "as.azaragp"},
+        {"code": "as.dharapurgp"},
+        {"code": "as.garalgp"},
+        {"code": "as.kahikuchigp"},
+        {"code": "as.lachitgarhgp"},
+        {"code": "as.rudreswargp"},
+        {"code": "as.panikhaitigp"},
+        {"code": "as.bongragp"},
+        {"code": "as.saraighatgp"},
+        {"code": "as.ranigaongp"},
+        {"code": "as.maliatagp"},
+        {"code": "as.bangsargp"},
+        {"code": "as.pubsualkuchigp"},
+        {"code": "as.gandhmougp"},
+        {"code": "as.singimarigp"},
+        {"code": "as.dadaragp"},
+        {"code": "as.dhopartarigp"},
+        {"code": "as.majirgaongp"}
       ]
     },
     {
@@ -12251,6 +12271,66 @@
         },
         {
           "code": "as.gmc"
+        },
+        {
+          "code": "as.northguwahatimb"
+        },
+        {
+          "code": "as.amsinggp"
+        },
+        {
+          "code": "as.azaragp"
+        },
+        {
+          "code": "as.dharapurgp"
+        },
+        {
+          "code": "as.garalgp"
+        },
+        {
+          "code": "as.kahikuchigp"
+        },
+        {
+          "code": "as.lachitgarhgp"
+        },
+        {
+          "code": "as.rudreswargp"
+        },
+        {
+          "code": "as.panikhaitigp"
+        },
+        {
+          "code": "as.bongragp"
+        },
+        {
+          "code": "as.saraighatgp"
+        },
+        {
+          "code": "as.ranigaongp"
+        },
+        {
+          "code": "as.maliatagp"
+        },
+        {
+          "code": "as.bangsargp"
+        },
+        {
+          "code": "as.pubsualkuchigp"
+        },
+        {
+          "code": "as.gandhmougp"
+        },
+        {
+          "code": "as.singimarigp"
+        },
+        {
+          "code": "as.dadaragp"
+        },
+        {
+          "code": "as.dhopartarigp"
+        },
+        {
+          "code": "as.majirgaongp"
         }
       ]
     },
@@ -12998,6 +13078,66 @@
         },
         {
           "code": "as.gmc"
+        },
+        {
+          "code": "as.northguwahatimb"
+        },
+        {
+          "code": "as.amsinggp"
+        },
+        {
+          "code": "as.azaragp"
+        },
+        {
+          "code": "as.dharapurgp"
+        },
+        {
+          "code": "as.garalgp"
+        },
+        {
+          "code": "as.kahikuchigp"
+        },
+        {
+          "code": "as.lachitgarhgp"
+        },
+        {
+          "code": "as.rudreswargp"
+        },
+        {
+          "code": "as.panikhaitigp"
+        },
+        {
+          "code": "as.bongragp"
+        },
+        {
+          "code": "as.saraighatgp"
+        },
+        {
+          "code": "as.ranigaongp"
+        },
+        {
+          "code": "as.maliatagp"
+        },
+        {
+          "code": "as.bangsargp"
+        },
+        {
+          "code": "as.pubsualkuchigp"
+        },
+        {
+          "code": "as.gandhmougp"
+        },
+        {
+          "code": "as.singimarigp"
+        },
+        {
+          "code": "as.dadaragp"
+        },
+        {
+          "code": "as.dhopartarigp"
+        },
+        {
+          "code": "as.majirgaongp"
         }
       ]
     }

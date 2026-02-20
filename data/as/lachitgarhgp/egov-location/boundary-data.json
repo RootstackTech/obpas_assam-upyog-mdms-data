@@ -1,0 +1,96 @@
+{
+    "tenantId": "as.lachitgarhgp",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Lachitgarh GP",
+                "localname": "Lachitgarh GP",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.lachitgarhgp",
+                "children": [
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c0",
+                        "boundaryNum": 1,
+                        "name": "Silasundurighopa",
+                        "localname": "Silasundurighopa",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "SilasundurighopaV2",
+                        "children": [
+                            {
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c1",
+                                "boundaryNum": 1,
+                                "name": "Amingaon",
+                                "localname": "Amingaon",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "AmingaonV1"
+                            },
+							{
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c2",
+                                "boundaryNum": 1,
+                                "name": "Gauripur",
+                                "localname": "Gauripur",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "GauripurV1"
+                            },
+							{
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c3",
+                                "boundaryNum": 1,
+                                "name": "Ghorajan",
+                                "localname": "Ghorajan",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "GhorajanV1"
+                            },
+							{
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c4",
+                                "boundaryNum": 1,
+                                "name": "Numalijalah",
+                                "localname": "Numalijalah",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "NumalijalahV1"
+                            },
+							{
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c5",
+                                "boundaryNum": 1,
+                                "name": "Sila Grant",
+                                "localname": "Sila Grant",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "SilaGrantV1"
+                            },
+							{
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c6",
+                                "boundaryNum": 1,
+                                "name": "Silamahaikhaiti",
+                                "localname": "Silamahaikhaiti",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "SilamahaikhaitiV1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}

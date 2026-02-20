@@ -1,0 +1,116 @@
+{
+    "tenantId": "as.panikhaitigp",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Panikhaiti GP",
+                "localname": "Panikhaiti GP",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.panikhaitigp",
+                "children": [
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c0",
+                        "boundaryNum": 1,
+                        "name": "Beltola",
+                        "localname": "Beltola",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "BeltolaV3",
+                        "children": [
+                            {
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c1",
+                                "boundaryNum": 1,
+                                "name": "Birkuchi",
+                                "localname": "Birkuchi",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "BirkuchiV1"
+                            },
+							{
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c2",
+                                "boundaryNum": 1,
+                                "name": "Birkuchi NC",
+                                "localname": "Birkuchi NC",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "BirkuchiNCV1"
+                            },
+							{
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c3",
+                                "boundaryNum": 1,
+                                "name": "Bonda Gaon",
+                                "localname": "Bonda Gaon",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "BondaGaonV1"
+                            },
+							{
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c4",
+                                "boundaryNum": 1,
+                                "name": "Bonda Grant (I)",
+                                "localname": "Bonda Grant (I)",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "BondaGrantIV1"
+                            },
+							{
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c5",
+                                "boundaryNum": 1,
+                                "name": "Bonda Grant (II)",
+                                "localname": "Bonda Grant (II)",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "BondaGrantIIV1"
+                            },
+							{
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c6",
+                                "boundaryNum": 1,
+                                "name": "Bonda NC",
+                                "localname": "Bonda NC",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "BondaNCV1"
+                            },
+							{
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c7",
+                                "boundaryNum": 1,
+                                "name": "Kharghuli NC",
+                                "localname": "Kharghuli NC",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "KharghuliNCV1"
+                            },
+							{
+                                "id": "b65bf972-b3d4-421e-b327-747d3e3325c8",
+                                "boundaryNum": 1,
+                                "name": "Kharghuli Gaon",
+                                "localname": "Kharghuli Gaon",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Village",
+                                "code": "KharghuliGaonV1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}

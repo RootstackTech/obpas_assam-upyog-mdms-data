@@ -38415,7 +38415,379 @@
     "actionid": 3109,
     "actioncode": "",
     "tenantId": "as"
-  }
+  },
+  {
+      "rolecode": "BPA_ZONALOFFICER_MB",
+      "actionid": 1930,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_MB",
+      "actionid": 1931,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_MB",
+      "actionid": 1950,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_MB",
+      "actionid": 1766,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_MB",
+      "actionid": 1972,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_MB",
+      "actionid": 1975,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_MB",
+      "actionid": 1989,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_MB",
+      "actionid": 1990,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_MB",
+      "actionid": 2027,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_MB",
+      "actionid": 2032,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_MB",
+      "actionid": 2041,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_MB",
+      "actionid": 2042,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_MB",
+      "actionid": 2043,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_MB",
+      "actionid": 2044,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_MB",
+      "actionid": 2005,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_MB",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_MB",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_MB",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_MB",
+      "actionid": 2317,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_MB",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_MB",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_MB",
+      "actionid": 2002,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_MB",
+      "actionid": 2003,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_MB",
+      "actionid": 1863,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_MB",
+      "actionid": 1864,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_MB",
+      "actionid": 1865,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_MB",
+      "actionid": 3077,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_MB",
+      "actionid": 3078,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_MB",
+      "actionid": 3082,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_MB",
+      "actionid": 3084,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_MB",
+      "actionid": 3085,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GP",
+      "actionid": 1930,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GP",
+      "actionid": 1931,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GP",
+      "actionid": 1950,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GP",
+      "actionid": 1766,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GP",
+      "actionid": 1972,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GP",
+      "actionid": 1975,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GP",
+      "actionid": 1989,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GP",
+      "actionid": 1990,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GP",
+      "actionid": 2027,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GP",
+      "actionid": 2032,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GP",
+      "actionid": 2041,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GP",
+      "actionid": 2042,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GP",
+      "actionid": 2043,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GP",
+      "actionid": 2044,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GP",
+      "actionid": 2005,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GP",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GP",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GP",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GP",
+      "actionid": 2317,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GP",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GP",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GP",
+      "actionid": 2002,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GP",
+      "actionid": 2003,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GP",
+      "actionid": 1863,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GP",
+      "actionid": 1864,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GP",
+      "actionid": 1865,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GP",
+      "actionid": 3077,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GP",
+      "actionid": 3078,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GP",
+      "actionid": 3082,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GP",
+      "actionid": 3084,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ZONALOFFICER_GP",
+      "actionid": 3085,
+      "actioncode": "",
+      "tenantId": "as"
+    }
 
   ]
 }
