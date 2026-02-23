@@ -22,7 +22,7 @@
           "i18nKey": "EARTH_FILLING_REQUIRED",
           "fieldKey": "earthFillingRequired",
           "active": true,
-          "mandatory": false
+          "mandatory": true
         },
         {
           "name": "Provision of Existing Road Side Drain",
@@ -31,7 +31,7 @@
           "i18nKey": "BPA_PROVISION_OF_EXISTING_ROAD_SIDE_DRAIN",
           "fieldKey": "provisionOfExistingRoadSideDrain",
           "active": true,
-          "mandatory": false
+          "mandatory": true
         },
         {
           "name": "Provision of Parking for High Rise Building",
@@ -40,52 +40,52 @@
           "i18nKey": "PROVISION_OF_PARKING_FOR_HIGH_RISE_BUILDING",
           "fieldKey": "provisionOfParkingForHighRiseBuilding",
           "active": true,
-          "mandatory": false
+          "mandatory": true
         },
         {
           "name": "Road Width infront of the Plot",
           "code": "ROAD_WIDTH_INFRONT_PLOT",
-          "dataType": "textInput",
+          "dataType": "number",
           "i18nKey": "ROAD_WIDTH_INFRONT_PLOT",
           "fieldKey": "roadWidthInFrontPlot",
           "active": true,
-          "mandatory": false
+          "mandatory": true
         },
         {
           "name": "Road Width Nearest Plot",
           "code": "ROAD_WIDTH_NEAREST_PLOT",
-          "dataType": "textInput",
+          "dataType": "number",
           "i18nKey": "ROAD_WIDTH_NEAREST_PLOT",
           "fieldKey": "roadWidthNearestPlot",
           "active": true,
-          "mandatory": false
+          "mandatory": true
         },
         {
           "name": "Road Width Narrowest Plot",
           "code": "ROAD_WIDTH_NARROWEST_PLOT",
-          "dataType": "textInput",
+          "dataType": "number",
           "i18nKey": "ROAD_WIDTH_NARROWEST_PLOT",
           "fieldKey": "roadWidthNarrowestPlot",
           "active": true,
-          "mandatory": false
+          "mandatory": true
         },
         {
           "name": "Total Average Road Width",
           "code": "TOTAL_AVERAGE_ROAD_WIDTH",
-          "dataType": "textInput",
+          "dataType": "number",
           "i18nKey": "TOTAL_AVERAGE_ROAD_WIDTH",
           "fieldKey": "totalAverageRoadWidth",
           "active": true,
-          "mandatory": false
+          "mandatory": true
         },
         {
           "name": "Proposed Road Width",
           "code": "PROPOSED_ROAD_WIDTH",
-          "dataType": "textInput",
+          "dataType": "number",
           "i18nKey": "PROPOSED_ROAD_WIDTH",
           "fieldKey": "proposedRoadWidth",
           "active": true,
-          "mandatory": false
+          "mandatory": true
         },
         {
           "name": "Description of Any Other Road",
@@ -94,7 +94,7 @@
           "i18nKey": "DESCRIPTION_OF_ANY_OTHER_ROAD",
           "fieldKey": "descriptionOfAnyOtherRoad",
           "active": true,
-          "mandatory": false
+          "mandatory": true
         },
         {
           "name": "Nature of Approach Road",
@@ -103,16 +103,16 @@
           "i18nKey": "EXISTING_NATURE_OF_APPROACH_ROAD",
           "fieldKey": "existingNatureOfApproachRoad",
           "active": true,
-          "mandatory": false
+          "mandatory": true
         },
         {
           "name": "Approximate Length of Dead End Road",
           "code": "APPROXIMATE_LENGTH_DEAD_END_ROAD",
-          "dataType": "textInput",
+          "dataType": "number",
           "i18nKey": "APPROXIMATE_LENGTH_DEAD_END_ROAD",
           "fieldKey": "approximateLengthDeadEndRoad",
           "active": true,
-          "mandatory": false
+          "mandatory": true
         },
         {
           "name": "Road Condition",
@@ -121,7 +121,7 @@
           "i18nKey": "ROAD_CONDITION",
           "fieldKey": "roadCondition",
           "active": true,
-          "mandatory": false
+          "mandatory": true
         },
         {
           "name": "Whether the Proposed Use is in Conformity with Master Plan",
@@ -130,7 +130,7 @@
           "i18nKey": "WHETHER_THE_PROPOSED_USE_IS_IN_CONFORMITY_WITH_MASTER_PLAN",
           "fieldKey": "proposedUseConformityWithMasterPlan",
           "active": true,
-          "mandatory": false
+          "mandatory": true
         },
         {
           "name": "Whether Any Water Body Exists in Plot",
@@ -139,25 +139,25 @@
           "i18nKey": "WHETHER_ANY_WATER_BODY_EXISTS_IN_PLOT",
           "fieldKey": "anyWaterBodyExistsInPlot",
           "active": true,
-          "mandatory": false
+          "mandatory": true
         },
         {
           "name": "Distance of Plot from Nearest Water Body",
           "code": "DISTANCE_OF_PLOT_FROM_NEAREST_WATER_BODY",
-          "dataType": "textInput",
+          "dataType": "number",
           "i18nKey": "DISTANCE_OF_PLOT_FROM_NEAREST_WATER_BODY",
           "fieldKey": "distanceOfPlotFromNearestWaterBody",
           "active": true,
-          "mandatory": false
+          "mandatory": true
         },
         {
           "name": "Area of Plot Measured",
           "code": "AREA_OF_PLOT_MEASURED",
-          "dataType": "textInput",
+          "dataType": "number",
           "i18nKey": "AREA_OF_PLOT_MEASURED",
           "fieldKey": "areaOfPlotMeasured",
           "active": true,
-          "mandatory": false
+          "mandatory": true
         },
         {
           "name": "North",
@@ -166,7 +166,7 @@
           "i18nKey": "NORTH",
           "fieldKey": "north",
           "active": true,
-          "mandatory": false
+          "mandatory": true
         },
         {
           "name": "South",
@@ -175,7 +175,7 @@
           "i18nKey": "SOUTH",
           "fieldKey": "south",
           "active": true,
-          "mandatory": false
+          "mandatory": true
         },
         {
           "name": "East",
@@ -184,7 +184,7 @@
           "i18nKey": "EAST",
           "fieldKey": "east",
           "active": true,
-          "mandatory": false
+          "mandatory": true
         },
         {
           "name": "West",
@@ -193,7 +193,7 @@
           "i18nKey": "WEST",
           "fieldKey": "west",
           "active": true,
-          "mandatory": false
+          "mandatory": true
         },
         {
           "name": "Comments on Proposal",
@@ -202,7 +202,7 @@
           "i18nKey": "COMMENTS_ON_PROPOSAL",
           "fieldKey": "commentsOnProposal",
           "active": true,
-          "mandatory": false
+          "mandatory": true
         }
       ]
     }
