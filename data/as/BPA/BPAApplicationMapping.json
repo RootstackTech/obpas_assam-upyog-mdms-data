@@ -25,7 +25,9 @@
         "BPA_ENGINEER_DA",
         "BPA_CHAIRMAN_DA",
         "BPA_TECHNICAL_ENGINEER_GP",
-        "BPA_CHAIRMAN_PRESIDENT_GP"
+        "BPA_CHAIRMAN_PRESIDENT_GP",
+        "BPA_ZONALOFFICER_MB",
+        "BPA_ZONALOFFICER_GP"
       ]
     },
     {
