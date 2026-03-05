@@ -6,6 +6,7 @@
             "id": 1,
             "occupancy": "residential",
             "permissible": 1,
+            "fromBuildingHeight":15,
             "active": true
         },
                 {
