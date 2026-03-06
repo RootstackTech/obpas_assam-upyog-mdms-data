@@ -81,7 +81,7 @@
       }
     },
     {
-      "code": "as.dibrugarh",
+      "code": "as.dibrugarhmc",
       "name": "Dibrugarh",
       "description": "Dibrugarh",
       "pincode": [
@@ -99,7 +99,7 @@
         "districtCode": "DIBRUGARH",
         "districtTenantCode": "as.dibrugarh",
         "planningAreaCode": "DIBRUGARH_MP",
-        "ulbGrade": "MUNICIPAL_BOARD",
+        "ulbGrade": "MUNICIPAL_CORPORATION",
         "code": "1515",
         "ddrName": "Dibrugarh Municipal Corporation"
       }
@@ -927,24 +927,24 @@
       }
     },
     {
-      "code": "as.lejai",
-      "name": "Lejai",
-      "description": "Lejai",
+      "code": "as.lezai",
+      "name": "Lezai",
+      "description": "Lezai",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "obpas.assam.gov.in",
       "type": "CITY",
-      "emailId": "info.lejai@gmail.com",
+      "emailId": "info.lezai@gmail.com",
       "city": {
-        "name": "Lejai",
+        "name": "Lezai",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtName": "Dibrugarh",
         "districtCode": "DIBRUGARH",
         "districtTenantCode": "as.dibrugarh",
         "planningAreaCode": "DIBRUGARH_MP",
         "code": "1638",
-        "ddrName": "Lejai Gram Panchayat"
+        "ddrName": "Lezai Gram Panchayat"
       }
     },
     {
@@ -969,24 +969,24 @@
       }
     },
     {
-      "code": "as.barbarua",
-      "name": "Barbarua",
-      "description": "Barbarua",
+      "code": "as.barbaruah",
+      "name": "Barbaruah",
+      "description": "Barbaruah",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "obpas.assam.gov.in",
       "type": "CITY",
-      "emailId": "info.barbarua@gmail.com",
+      "emailId": "info.barbaruah@gmail.com",
       "city": {
-        "name": "Barbarua",
+        "name": "Barbaruah",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtName": "Dibrugarh",
         "districtCode": "DIBRUGARH",
         "districtTenantCode": "as.dibrugarh",
         "planningAreaCode": "DIBRUGARH_MP",
         "code": "1640",
-        "ddrName": "Barbarua Gram Panchayat"
+        "ddrName": "Barbaruah Gram Panchayat"
       }
     },
     {
@@ -1053,24 +1053,24 @@
       }
     },
     {
-      "code": "as.kololuwa",
-      "name": "Kololuwa",
-      "description": "Kololuwa",
+      "code": "as.kolakhowa",
+      "name": "Kolakhowa",
+      "description": "Kolakhowa",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "obpas.assam.gov.in",
       "type": "CITY",
-      "emailId": "info.kololuwa@gmail.com",
+      "emailId": "info.kolakhowa@gmail.com",
       "city": {
-        "name": "Kololuwa",
+        "name": "Kolakhowa",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtName": "Dibrugarh",
         "districtCode": "DIBRUGARH",
         "districtTenantCode": "as.dibrugarh",
         "planningAreaCode": "DIBRUGARH_MP",
         "code": "1644",
-        "ddrName": "Kololuwa Gram Panchayat"
+        "ddrName": "Kolakhowa Gram Panchayat"
       }
     },
     {
@@ -6147,7 +6147,7 @@
       "city": {
         "name": "Guwahati Metropolitan Development Authority",
         "districtName": "Kamrup (Metro)",
-        "ulbGrade": "GUWAHATI_METROPOLITAN_DEVELOPMENT_AUTHORITY",
+        "ulbGrade": "DEVELOPMENT_AUTHORITY",
         "districtCode": "KAMRUP_METRO",
         "districtTenantCode": "as.gmda",
         "planningAreaCode": "GUWAHATI_MP",
@@ -6574,6 +6574,27 @@
         "code": "2043",
         "ddrName": "Majirgaon GP"
       }
+      },
+      {
+      "code": "as.khowangkololuwa",
+      "name": "Khowangkololuwa",
+      "description": "Khowangkololuwa",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": "info.khowangkololuwa@gmail.com",
+      "city": {
+        "name": "Khowangkololuwa",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtName": "Dibrugarh",
+        "districtCode": "DIBRUGARH",
+        "districtTenantCode": "as.dibrugarh",
+        "planningAreaCode": "DIBRUGARH_MP",
+        "code": "2044",
+        "ddrName": "Khowangkololuwa Gram Panchayat"
       }
+    }
   ]
 }

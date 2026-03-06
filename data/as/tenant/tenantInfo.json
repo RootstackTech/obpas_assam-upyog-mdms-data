@@ -33,7 +33,7 @@
       "languagesSpoken": ["HN", "EN"]
     },
     {
-      "code": "as.dibrugarh",
+      "code": "as.dibrugarhmc",
       "districtCode": "DIBRUGARH",
       "population": "12510",
       "malePopulation": "6815",
@@ -453,7 +453,7 @@
       "languagesSpoken": ["HN", "EN"]
     },
     {
-      "code": "as.lejai",
+      "code": "as.lezai",
       "districtCode": "DIBRUGARH",
       "population": "37023",
       "malePopulation": "18276",
@@ -473,7 +473,7 @@
       "languagesSpoken": ["HN", "EN"]
     },
     {
-      "code": "as.barbarua",
+      "code": "as.barbaruah",
       "districtCode": "DIBRUGARH",
       "population": "39343",
       "malePopulation": "20749",
@@ -513,7 +513,7 @@
       "languagesSpoken": ["HN", "EN"]
     },
     {
-      "code": "as.kololuwa",
+      "code": "as.kolakhowa",
       "districtCode": "DIBRUGARH",
       "population": "16320",
       "malePopulation": "8553",
@@ -2843,7 +2843,7 @@
       "languagesSpoken": ["HN", "EN"]
     },
     {
-      "code": "as.dibrugarhda",
+      "code": "as.dibrugarhmcda",
       "districtCode": "DIBRUGARH",
       "population": "12507",
       "malePopulation": "6810",
@@ -3105,6 +3105,16 @@
     {
       "code": "as.majirgaongp",
       "districtCode": "KAMRUP" ,
+      "population": "33632",
+      "malePopulation": "16510",
+      "femalePopulation": "17122",
+      "workingPopulation": "31.16",
+      "literacyRate": "93.53",
+      "languagesSpoken": ["HN", "EN"]
+    },
+    {
+      "code": "as.khowangkololuwa",
+      "districtCode": "DIBRUGARH" ,
       "population": "33632",
       "malePopulation": "16510",
       "femalePopulation": "17122",

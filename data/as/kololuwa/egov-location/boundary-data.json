@@ -1,5 +1,5 @@
 {
-  "tenantId": "as.kololuwa",
+  "tenantId": "as.kolakhowa",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,33 +10,22 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Kololuwa",
-        "localname": "Kololuwa",
+        "name": "Kolakhowa",
+        "localname": "Kolakhowa",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "as.kololuwa",
+        "code": "as.kolakhowa",
         "children": [
           {
             "id": "b65bf972-b3d4-421e-b327-747d3e3325c0",
             "boundaryNum": 1,
-            "name": "Kollalowa Habi",
-            "localname": "Kollalowa Habi",
+            "name": "Burisuti Koiborta Gaon",
+            "localname": "Burisuti Koiborta Gaon",
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "KololuwaV1",
-            "children": []
-          },
-          {
-            "id": "b65bf972-b3d4-421e-bi27-747d3e3325c0",
-            "boundaryNum": 1,
-            "name": "Muwamori Gaon No.2",
-            "localname": "Muwamori Gaon No.2",
-            "longitude": null,
-            "latitude": null,
-            "label": "Village",
-            "code": "KololuwaV2",
+            "code": "KolakhowaV1",
             "children": []
           }
         ]
