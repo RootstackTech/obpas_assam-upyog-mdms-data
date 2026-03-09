@@ -1,5 +1,5 @@
 {
-  "tenantId": "as.dibrugarh",
+  "tenantId": "as.dibrugarhmc",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,12 +10,12 @@
       "boundary": {
         "id": "13fc1879-6842-4357-b005-dcd540d17af2",
         "boundaryNum": 1,
-        "name": "Dibrugarh",
-        "localname": "Dibrugarh",
+        "name": "Dibrugarh Municipal Corporation",
+        "localname": "Dibrugarh Municipal Corporation",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "as.dibrugarh",
+        "code": "as.dibrugarhmc",
         "children": [
           {
             "id": "f472012a-c8d3-4b35-b956-d8e55e93bbc5",
@@ -30,8 +30,8 @@
               {
                 "id": "f0e17f29-9700-4ee1-ab93-e03a47d34cc6",
                 "boundaryNum": 1,
-                "name": "Barbari tea estate (1st Part)",
-                "localname": "Barbari tea estate (1st Part)",
+                "name": "Extended Gabharupathar ward",
+                "localname": "Extended Gabharupathar ward",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
@@ -41,12 +41,23 @@
               {
                 "id": "c0bc96f4-4141-4678-895a-8975172f4461",
                 "boundaryNum": 2,
-                "name": "Contentment ward second part",
-                "localname": "Contentment ward second part",
+                "name": "Extended Contentment ward",
+                "localname": "Extended Contentment ward",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
                 "code": "DibrugarhW1V2",
+                "children": []
+              },
+			  {
+                "id": "c0bc96f4-4141-4678-895a-8975172f4462",
+                "boundaryNum": 2,
+                "name": "Extended Contentment ward second part",
+                "localname": "Extended Contentment ward second part",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DibrugarhW1V3",
                 "children": []
               }
             ]
@@ -172,6 +183,17 @@
                 "label": "RevenueVillage",
                 "code": "DibrugarhW4V4",
                 "children": []
+              },
+			  {
+                "id": "7d68b79a-4ac7-4194-afb5-195c9cc94f06",
+                "boundaryNum": 4,
+                "name": "Extended Khaliamari ward",
+                "localname": "Extended Khaliamari ward",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DibrugarhW4V5",
+                "children": []
               }
             ]
           },
@@ -188,8 +210,8 @@
               {
                 "id": "beb04c22-0717-414e-b799-10a2967b4fae",
                 "boundaryNum": 1,
-                "name": "Chiring gaon",
-                "localname": "Chiring gaon",
+                "name": "Chiring gaon Ward",
+                "localname": "Chiring gaon Ward",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
@@ -216,6 +238,28 @@
                 "latitude": null,
                 "label": "RevenueVillage",
                 "code": "DibrugarhW5V3",
+                "children": []
+              },
+			  {
+                "id": "6ec30b77-02ed-49f0-8366-8986ff47be78",
+                "boundaryNum": 3,
+                "name": "Extended chiring gaon",
+                "localname": "Extended chiring gaon",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DibrugarhW5V4",
+                "children": []
+              },
+			  {
+                "id": "6ec30b77-02ed-49f0-8366-8986ff47be79",
+                "boundaryNum": 3,
+                "name": "Extended Tekela Chiring gaon",
+                "localname": "Extended Tekela Chiring gaon",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DibrugarhW5V5",
                 "children": []
               }
             ]
@@ -244,34 +288,12 @@
               {
                 "id": "f9dc6d73-ebc5-4b11-9246-49e957fdee15",
                 "boundaryNum": 2,
-                "name": "Tekela Chiring ward",
-                "localname": "Tekela Chiring ward",
+                "name": "Extended Tekela Chiring gaon ward",
+                "localname": "Extended Tekela Chiring gaon ward",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
                 "code": "DibrugarhW6V2",
-                "children": []
-              },
-              {
-                "id": "cb75d8d9-10c6-49fc-b931-9e833d9df64b",
-                "boundaryNum": 3,
-                "name": "Chiring gaon ward",
-                "localname": "Chiring gaon ward",
-                "longitude": null,
-                "latitude": null,
-                "label": "RevenueVillage",
-                "code": "DibrugarhW6V3",
-                "children": []
-              },
-              {
-                "id": "3c5190f2-37b3-4d23-b398-93396d2509ef",
-                "boundaryNum": 4,
-                "name": "Chiring gaon.",
-                "localname": "Chiring gaon.",
-                "longitude": null,
-                "latitude": null,
-                "label": "RevenueVillage",
-                "code": "DibrugarhW6V4",
                 "children": []
               }
             ]
@@ -346,8 +368,8 @@
               {
                 "id": "e658b996-41e6-4182-908f-205d71c4ecc7",
                 "boundaryNum": 1,
-                "name": "Puroni Amalapatty gaon,",
-                "localname": "Puroni Amalapatty gaon,",
+                "name": "Puroni Amalapatty gaon",
+                "localname": "Puroni Amalapatty gaon",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
@@ -363,17 +385,6 @@
                 "latitude": null,
                 "label": "RevenueVillage",
                 "code": "DibrugarhW9V2",
-                "children": []
-              },
-              {
-                "id": "1af72ae6-6fb7-4043-88ca-0fc8f22ae32d",
-                "boundaryNum": 3,
-                "name": "Rehabari ward.",
-                "localname": "Rehabari ward.",
-                "longitude": null,
-                "latitude": null,
-                "label": "RevenueVillage",
-                "code": "DibrugarhW9V3",
                 "children": []
               }
             ]
@@ -516,8 +527,8 @@
               {
                 "id": "ae43c341-ee5b-41f3-b679-381723e3f562",
                 "boundaryNum": 2,
-                "name": "New amalapatty ward part 3",
-                "localname": "New amalapatty ward part 3",
+                "name": "New amalapatty ward part-3",
+                "localname": "New amalapatty ward part-3",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
@@ -602,6 +613,17 @@
                 "label": "RevenueVillage",
                 "code": "DibrugarhW16V2",
                 "children": []
+              },
+			   {
+                "id": "204b502c-b6a6-4a46-b237-226ab5c67c43",
+                "boundaryNum": 2,
+                "name": "Marwaripotty ward",
+                "localname": "Marwaripotty ward",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DibrugarhW16V3",
+                "children": []
               }
             ]
           },
@@ -629,8 +651,8 @@
               {
                 "id": "82b291f3-1510-457d-b8d9-92e34038b30f",
                 "boundaryNum": 2,
-                "name": "Graham Bazar ward",
-                "localname": "Graham Bazar ward",
+                "name": "Graham Bazar",
+                "localname": "Graham Bazar",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
@@ -652,8 +674,8 @@
               {
                 "id": "aabfa366-ef9d-4981-8dd3-8646222a25d9",
                 "boundaryNum": 1,
-                "name": "Graham Bazar ward",
-                "localname": "Graham Bazar ward",
+                "name": "Graham Bazar",
+                "localname": "Graham Bazar",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
@@ -674,8 +696,8 @@
               {
                 "id": "25fc1b2b-8672-4059-8c16-27ff113a2e3b",
                 "boundaryNum": 3,
-                "name": "Gabhoru pathar ward 3rd part",
-                "localname": "Gabhoru pathar ward 3rd part",
+                "name": "Gabhoru pathar 3rd part",
+                "localname": "Gabhoru pathar 3rd part",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
@@ -697,8 +719,8 @@
               {
                 "id": "0c1d03bf-4131-496f-9e1d-c7964c100f38",
                 "boundaryNum": 1,
-                "name": "Gabhoru pathar ward 1 st  part",
-                "localname": "Gabhoru pathar ward 1 st  part",
+                "name": "Gabhoru pathar ward  2nd part",
+                "localname": "Gabhoru pathar ward  2nd part",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
@@ -708,8 +730,8 @@
               {
                 "id": "c0f0a109-58d2-4e58-b1ab-7ffa6575ae0c",
                 "boundaryNum": 2,
-                "name": "Gabhoru pathar ward 3rd part",
-                "localname": "Gabhoru pathar ward 3rd part",
+                "name": "Gabhoru pathar 3rd part",
+                "localname": "Gabhoru pathar 3rd part",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
@@ -843,8 +865,8 @@
               {
                 "id": "93dac5a9-6dbc-4690-9ed1-98d8794e033b",
                 "boundaryNum": 1,
-                "name": "Contentment ward 1st part and",
-                "localname": "Contentment ward 1st part and",
+                "name": "Contentment ward 1st part",
+                "localname": "Contentment ward 1st part",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
@@ -865,8 +887,8 @@
               {
                 "id": "a8f9433a-0eb1-4430-91bb-5a056e3f22bd",
                 "boundaryNum": 3,
-                "name": "Borbari Tea Estate 1st part",
-                "localname": "Borbari Tea Estate 1st part",
+                "name": "Extended Contentment ward",
+                "localname": "Extended Contentment ward",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",

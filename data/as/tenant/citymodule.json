@@ -16,7 +16,7 @@
           "code": "as.barpetamb"
         },
         {
-          "code": "as.dibrugarh"
+          "code": "as.dibrugarhmc"
         },
         {
           "code": "as.tinsukiamb"
@@ -136,13 +136,13 @@
           "code": "as.jokai"
         },
         {
-          "code": "as.lejai"
+          "code": "as.lezai"
         },
         {
           "code": "as.duliakakoti"
         },
         {
-          "code": "as.barbarua"
+          "code": "as.barbaruah"
         },
         {
           "code": "as.kalakhowa"
@@ -154,7 +154,7 @@
           "code": "as.bogibeel"
         },
         {
-          "code": "as.kololuwa"
+          "code": "as.kolakhowa"
         },
         {
           "code": "as.tinsukiagp"
@@ -251,6 +251,9 @@
         },
         {
           "code": "as.kumarparanizjoinagar"
+        },
+        {
+          "code": "as.khowangkololuwa"
         }
       ]
     },
@@ -268,7 +271,7 @@
           "code": "as.barpetamb"
         },
         {
-          "code": "as.dibrugarh"
+          "code": "as.dibrugarhmc"
         },
         {
           "code": "as.tinsukiamb"
@@ -388,13 +391,13 @@
           "code": "as.jokai"
         },
         {
-          "code": "as.lejai"
+          "code": "as.lezai"
         },
         {
           "code": "as.duliakakoti"
         },
         {
-          "code": "as.barbarua"
+          "code": "as.barbaruah"
         },
         {
           "code": "as.kalakhowa"
@@ -406,7 +409,7 @@
           "code": "as.bogibeel"
         },
         {
-          "code": "as.kololuwa"
+          "code": "as.kolakhowa"
         },
         {
           "code": "as.tinsukiagp"
@@ -503,6 +506,9 @@
         },
         {
           "code": "as.kumarparanizjoinagar"
+        },
+        {
+          "code": "as.khowangkololuwa"
         }
       ]
     },
@@ -519,7 +525,7 @@
           "code": "as.barpetamb"
         },
         {
-          "code": "as.dibrugarh"
+          "code": "as.dibrugarhmc"
         },
         {
           "code": "as.tinsukiamb"
@@ -639,13 +645,13 @@
           "code": "as.jokai"
         },
         {
-          "code": "as.lejai"
+          "code": "as.lezai"
         },
         {
           "code": "as.duliakakoti"
         },
         {
-          "code": "as.barbarua"
+          "code": "as.barbaruah"
         },
         {
           "code": "as.kalakhowa"
@@ -657,7 +663,7 @@
           "code": "as.bogibeel"
         },
         {
-          "code": "as.kololuwa"
+          "code": "as.kolakhowa"
         },
         {
           "code": "as.tinsukiagp"
@@ -754,6 +760,9 @@
         },
         {
           "code": "as.kumarparanizjoinagar"
+        },
+        {
+          "code": "as.khowangkololuwa"
         }
       ]
     },
@@ -770,7 +779,7 @@
           "code": "as.barpetamb"
         },
         {
-          "code": "as.dibrugarh"
+          "code": "as.dibrugarhmc"
         },
         {
           "code": "as.tinsukiamb"
@@ -890,13 +899,13 @@
           "code": "as.jokai"
         },
         {
-          "code": "as.lejai"
+          "code": "as.lezai"
         },
         {
           "code": "as.duliakakoti"
         },
         {
-          "code": "as.barbarua"
+          "code": "as.barbaruah"
         },
         {
           "code": "as.kalakhowa"
@@ -908,7 +917,7 @@
           "code": "as.bogibeel"
         },
         {
-          "code": "as.kololuwa"
+          "code": "as.kolakhowa"
         },
         {
           "code": "as.tinsukiagp"
@@ -1005,6 +1014,9 @@
         },
         {
           "code": "as.kumarparanizjoinagar"
+        },
+        {
+          "code": "as.khowangkololuwa"
         }
       ]
     },
@@ -1022,7 +1034,7 @@
           "code": "as.barpetamb"
         },
         {
-          "code": "as.dibrugarh"
+          "code": "as.dibrugarhmc"
         },
         {
           "code": "as.tinsukiamb"
@@ -1142,13 +1154,13 @@
           "code": "as.jokai"
         },
         {
-          "code": "as.lejai"
+          "code": "as.lezai"
         },
         {
           "code": "as.duliakakoti"
         },
         {
-          "code": "as.barbarua"
+          "code": "as.barbaruah"
         },
         {
           "code": "as.kalakhowa"
@@ -1160,7 +1172,7 @@
           "code": "as.bogibeel"
         },
         {
-          "code": "as.kololuwa"
+          "code": "as.kolakhowa"
         },
         {
           "code": "as.tinsukiagp"
@@ -1257,6 +1269,9 @@
         },
         {
           "code": "as.kumarparanizjoinagar"
+        },
+        {
+          "code": "as.khowangkololuwa"
         }
       ]
     },
@@ -1273,7 +1288,7 @@
           "code": "as.barpetamb"
         },
         {
-          "code": "as.dibrugarh"
+          "code": "as.dibrugarhmc"
         },
         {
           "code": "as.tinsukiamb"
@@ -1393,13 +1408,13 @@
           "code": "as.jokai"
         },
         {
-          "code": "as.lejai"
+          "code": "as.lezai"
         },
         {
           "code": "as.duliakakoti"
         },
         {
-          "code": "as.barbarua"
+          "code": "as.barbaruah"
         },
         {
           "code": "as.kalakhowa"
@@ -1411,7 +1426,7 @@
           "code": "as.bogibeel"
         },
         {
-          "code": "as.kololuwa"
+          "code": "as.kolakhowa"
         },
         {
           "code": "as.tinsukiagp"
@@ -1508,6 +1523,9 @@
         },
         {
           "code": "as.kumarparanizjoinagar"
+        },
+        {
+          "code": "as.khowangkololuwa"
         }
       ]
     },
@@ -1524,7 +1542,7 @@
           "code": "as.barpetamb"
         },
         {
-          "code": "as.dibrugarh"
+          "code": "as.dibrugarhmc"
         },
         {
           "code": "as.tinsukiamb"
@@ -1644,13 +1662,13 @@
           "code": "as.jokai"
         },
         {
-          "code": "as.lejai"
+          "code": "as.lezai"
         },
         {
           "code": "as.duliakakoti"
         },
         {
-          "code": "as.barbarua"
+          "code": "as.barbaruah"
         },
         {
           "code": "as.kalakhowa"
@@ -1662,7 +1680,7 @@
           "code": "as.bogibeel"
         },
         {
-          "code": "as.kololuwa"
+          "code": "as.kolakhowa"
         },
         {
           "code": "as.tinsukiagp"
@@ -1759,6 +1777,9 @@
         },
         {
           "code": "as.kumarparanizjoinagar"
+        },
+        {
+          "code": "as.khowangkololuwa"
         }
       ]
     },
@@ -1776,7 +1797,7 @@
           "code": "as.barpetamb"
         },
         {
-          "code": "as.dibrugarh"
+          "code": "as.dibrugarhmc"
         },
         {
           "code": "as.tinsukiamb"
@@ -1896,13 +1917,13 @@
           "code": "as.jokai"
         },
         {
-          "code": "as.lejai"
+          "code": "as.lezai"
         },
         {
           "code": "as.duliakakoti"
         },
         {
-          "code": "as.barbarua"
+          "code": "as.barbaruah"
         },
         {
           "code": "as.kalakhowa"
@@ -1914,7 +1935,7 @@
           "code": "as.bogibeel"
         },
         {
-          "code": "as.kololuwa"
+          "code": "as.kolakhowa"
         },
         {
           "code": "as.tinsukiagp"
@@ -2028,14 +2049,17 @@
         { "code": "as.nazirasimalugurida" },
         { "code": "as.sonarida" },
         { "code": "as.northlakhimpurda" },
-        { "code": "as.dibrugarhda" },
+        { "code": "as.dibrugarhmcda" },
         { "code": "as.tinsukiada" },
         { "code": "as.silcharda" },
         { "code": "as.sribhumida" },
         { "code": "as.dhemajida" },
         { "code": "as.mangaldoida" },
         { "code": "as.mangaldoimb" },
-        { "code": "as.gmda" }
+        { "code": "as.gmda" },
+        {
+          "code": "as.khowangkololuwa"
+        }
       ]
     },
     {
@@ -2052,7 +2076,7 @@
           "code": "as.barpetamb"
         },
         {
-          "code": "as.dibrugarh"
+          "code": "as.dibrugarhmc"
         },
         {
           "code": "as.tinsukiamb"
@@ -2172,13 +2196,13 @@
           "code": "as.jokai"
         },
         {
-          "code": "as.lejai"
+          "code": "as.lezai"
         },
         {
           "code": "as.duliakakoti"
         },
         {
-          "code": "as.barbarua"
+          "code": "as.barbaruah"
         },
         {
           "code": "as.kalakhowa"
@@ -2190,7 +2214,7 @@
           "code": "as.bogibeel"
         },
         {
-          "code": "as.kololuwa"
+          "code": "as.kolakhowa"
         },
         {
           "code": "as.tinsukiagp"
@@ -2304,14 +2328,17 @@
         { "code": "as.nazirasimalugurida" },
         { "code": "as.sonarida" },
         { "code": "as.northlakhimpurda" },
-        { "code": "as.dibrugarhda" },
+        { "code": "as.dibrugarhmcda" },
         { "code": "as.tinsukiada" },
         { "code": "as.silcharda" },
         { "code": "as.sribhumida" },
         { "code": "as.dhemajida" },
         { "code": "as.mangaldoida" },
         { "code": "as.mangaldoimb" },
-        { "code": "as.gmda"}
+        { "code": "as.gmda"},
+        {
+          "code": "as.khowangkololuwa"
+        }
       ]
     },
     {
@@ -2327,7 +2354,7 @@
           "code": "as.barpetamb"
         },
         {
-          "code": "as.dibrugarh"
+          "code": "as.dibrugarhmc"
         },
         {
           "code": "as.tinsukiamb"
@@ -2447,13 +2474,13 @@
           "code": "as.jokai"
         },
         {
-          "code": "as.lejai"
+          "code": "as.lezai"
         },
         {
           "code": "as.duliakakoti"
         },
         {
-          "code": "as.barbarua"
+          "code": "as.barbaruah"
         },
         {
           "code": "as.kalakhowa"
@@ -2465,7 +2492,7 @@
           "code": "as.bogibeel"
         },
         {
-          "code": "as.kololuwa"
+          "code": "as.kolakhowa"
         },
         {
           "code": "as.tinsukiagp"
@@ -2562,6 +2589,9 @@
         },
         {
           "code": "as.kumarparanizjoinagar"
+        },
+        {
+          "code": "as.khowangkololuwa"
         }
       ]
     },
@@ -2579,7 +2609,7 @@
           "code": "as.barpetamb"
         },
         {
-          "code": "as.dibrugarh"
+          "code": "as.dibrugarhmc"
         },
         {
           "code": "as.tinsukiamb"
@@ -2699,13 +2729,13 @@
           "code": "as.jokai"
         },
         {
-          "code": "as.lejai"
+          "code": "as.lezai"
         },
         {
           "code": "as.duliakakoti"
         },
         {
-          "code": "as.barbarua"
+          "code": "as.barbaruah"
         },
         {
           "code": "as.kalakhowa"
@@ -2717,7 +2747,7 @@
           "code": "as.bogibeel"
         },
         {
-          "code": "as.kololuwa"
+          "code": "as.kolakhowa"
         },
         {
           "code": "as.tinsukiagp"
@@ -2814,6 +2844,9 @@
         },
         {
           "code": "as.kumarparanizjoinagar"
+        },
+        {
+          "code": "as.khowangkololuwa"
         }
       ]
     },
@@ -2831,7 +2864,7 @@
           "code": "as.barpetamb"
         },
         {
-          "code": "as.dibrugarh"
+          "code": "as.dibrugarhmc"
         },
         {
           "code": "as.tinsukiamb"
@@ -2951,13 +2984,13 @@
           "code": "as.jokai"
         },
         {
-          "code": "as.lejai"
+          "code": "as.lezai"
         },
         {
           "code": "as.duliakakoti"
         },
         {
-          "code": "as.barbarua"
+          "code": "as.barbaruah"
         },
         {
           "code": "as.kalakhowa"
@@ -2969,7 +3002,7 @@
           "code": "as.bogibeel"
         },
         {
-          "code": "as.kololuwa"
+          "code": "as.kolakhowa"
         },
         {
           "code": "as.tinsukiagp"
@@ -3066,6 +3099,9 @@
         },
         {
           "code": "as.kumarparanizjoinagar"
+        },
+        {
+          "code": "as.khowangkololuwa"
         }
       ]
     },
@@ -3082,7 +3118,7 @@
           "code": "as.barpetamb"
         },
         {
-          "code": "as.dibrugarh"
+          "code": "as.dibrugarhmc"
         },
         {
           "code": "as.tinsukiamb"
@@ -3202,13 +3238,13 @@
           "code": "as.jokai"
         },
         {
-          "code": "as.lejai"
+          "code": "as.lezai"
         },
         {
           "code": "as.duliakakoti"
         },
         {
-          "code": "as.barbarua"
+          "code": "as.barbaruah"
         },
         {
           "code": "as.kalakhowa"
@@ -3220,7 +3256,7 @@
           "code": "as.bogibeel"
         },
         {
-          "code": "as.kololuwa"
+          "code": "as.kolakhowa"
         },
         {
           "code": "as.tinsukiagp"
@@ -3317,6 +3353,9 @@
         },
         {
           "code": "as.kumarparanizjoinagar"
+        },
+        {
+          "code": "as.khowangkololuwa"
         }
       ]
     },
@@ -3333,7 +3372,7 @@
           "code": "as.barpetamb"
         },
         {
-          "code": "as.dibrugarh"
+          "code": "as.dibrugarhmc"
         },
         {
           "code": "as.tinsukiamb"
@@ -3453,13 +3492,13 @@
           "code": "as.jokai"
         },
         {
-          "code": "as.lejai"
+          "code": "as.lezai"
         },
         {
           "code": "as.duliakakoti"
         },
         {
-          "code": "as.barbarua"
+          "code": "as.barbaruah"
         },
         {
           "code": "as.kalakhowa"
@@ -3471,7 +3510,7 @@
           "code": "as.bogibeel"
         },
         {
-          "code": "as.kololuwa"
+          "code": "as.kolakhowa"
         },
         {
           "code": "as.tinsukiagp"
@@ -3568,6 +3607,9 @@
         },
         {
           "code": "as.kumarparanizjoinagar"
+        },
+        {
+          "code": "as.khowangkololuwa"
         }
       ]
     },
@@ -3584,7 +3626,7 @@
           "code": "as.barpetamb"
         },
         {
-          "code": "as.dibrugarh"
+          "code": "as.dibrugarhmc"
         },
         {
           "code": "as.tinsukiamb"
@@ -3704,13 +3746,13 @@
           "code": "as.jokai"
         },
         {
-          "code": "as.lejai"
+          "code": "as.lezai"
         },
         {
           "code": "as.duliakakoti"
         },
         {
-          "code": "as.barbarua"
+          "code": "as.barbaruah"
         },
         {
           "code": "as.kalakhowa"
@@ -3722,7 +3764,7 @@
           "code": "as.bogibeel"
         },
         {
-          "code": "as.kololuwa"
+          "code": "as.kolakhowa"
         },
         {
           "code": "as.tinsukiagp"
@@ -3836,14 +3878,17 @@
         { "code": "as.nazirasimalugurida" },
         { "code": "as.sonarida" },
         { "code": "as.northlakhimpurda" },
-        { "code": "as.dibrugarhda" },
+        { "code": "as.dibrugarhmcda" },
         { "code": "as.tinsukiada" },
         { "code": "as.silcharda" },
         { "code": "as.sribhumida" },
         { "code": "as.dhemajida" },
         { "code": "as.mangaldoida" },
         { "code": "as.mangaldoimb" },
-        { "code": "as.gmda" }
+        { "code": "as.gmda" },
+        {
+          "code": "as.khowangkololuwa"
+        }
       ]
     },
     {
@@ -3859,7 +3904,7 @@
           "code": "as.barpetamb"
         },
         {
-          "code": "as.dibrugarh"
+          "code": "as.dibrugarhmc"
         },
         {
           "code": "as.tinsukiamb"
@@ -3979,13 +4024,13 @@
           "code": "as.jokai"
         },
         {
-          "code": "as.lejai"
+          "code": "as.lezai"
         },
         {
           "code": "as.duliakakoti"
         },
         {
-          "code": "as.barbarua"
+          "code": "as.barbaruah"
         },
         {
           "code": "as.kalakhowa"
@@ -3997,7 +4042,7 @@
           "code": "as.bogibeel"
         },
         {
-          "code": "as.kololuwa"
+          "code": "as.kolakhowa"
         },
         {
           "code": "as.tinsukiagp"
@@ -4094,6 +4139,9 @@
         },
         {
           "code": "as.kumarparanizjoinagar"
+        },
+        {
+          "code": "as.khowangkololuwa"
         }
       ]
     },
@@ -4110,7 +4158,7 @@
           "code": "as.barpetamb"
         },
         {
-          "code": "as.dibrugarh"
+          "code": "as.dibrugarhmc"
         },
         {
           "code": "as.tinsukiamb"
@@ -4230,13 +4278,13 @@
           "code": "as.jokai"
         },
         {
-          "code": "as.lejai"
+          "code": "as.lezai"
         },
         {
           "code": "as.duliakakoti"
         },
         {
-          "code": "as.barbarua"
+          "code": "as.barbaruah"
         },
         {
           "code": "as.kalakhowa"
@@ -4248,7 +4296,7 @@
           "code": "as.bogibeel"
         },
         {
-          "code": "as.kololuwa"
+          "code": "as.kolakhowa"
         },
         {
           "code": "as.tinsukiagp"
@@ -4345,6 +4393,9 @@
         },
         {
           "code": "as.kumarparanizjoinagar"
+        },
+        {
+          "code": "as.khowangkololuwa"
         }
       ]
     },
@@ -4361,7 +4412,7 @@
           "code": "as.barpetamb"
         },
         {
-          "code": "as.dibrugarh"
+          "code": "as.dibrugarhmc"
         },
         {
           "code": "as.tinsukiamb"
@@ -4481,13 +4532,13 @@
           "code": "as.jokai"
         },
         {
-          "code": "as.lejai"
+          "code": "as.lezai"
         },
         {
           "code": "as.duliakakoti"
         },
         {
-          "code": "as.barbarua"
+          "code": "as.barbaruah"
         },
         {
           "code": "as.kalakhowa"
@@ -4499,7 +4550,7 @@
           "code": "as.bogibeel"
         },
         {
-          "code": "as.kololuwa"
+          "code": "as.kolakhowa"
         },
         {
           "code": "as.tinsukiagp"
@@ -4596,6 +4647,9 @@
         },
         {
           "code": "as.kumarparanizjoinagar"
+        },
+        {
+          "code": "as.khowangkololuwa"
         }
       ]
     },
@@ -4612,7 +4666,7 @@
           "code": "as.barpetamb"
         },
         {
-          "code": "as.dibrugarh"
+          "code": "as.dibrugarhmc"
         },
         {
           "code": "as.tinsukiamb"
@@ -4732,13 +4786,13 @@
           "code": "as.jokai"
         },
         {
-          "code": "as.lejai"
+          "code": "as.lezai"
         },
         {
           "code": "as.duliakakoti"
         },
         {
-          "code": "as.barbarua"
+          "code": "as.barbaruah"
         },
         {
           "code": "as.kalakhowa"
@@ -4750,7 +4804,7 @@
           "code": "as.bogibeel"
         },
         {
-          "code": "as.kololuwa"
+          "code": "as.kolakhowa"
         },
         {
           "code": "as.tinsukiagp"
@@ -5359,7 +5413,7 @@
         { "code": "as.nazirasimalugurida" },
         { "code": "as.sonarida" },
         { "code": "as.northlakhimpurda" },
-        { "code": "as.dibrugarhda" },
+        { "code": "as.dibrugarhmcda" },
         { "code": "as.tinsukiada" },
         { "code": "as.silcharda" },
         { "code": "as.sribhumida" },
@@ -5385,7 +5439,10 @@
         {"code": "as.singimarigp"},
         {"code": "as.dadaragp"},
         {"code": "as.dhopartarigp"},
-        {"code": "as.majirgaongp"}
+        {"code": "as.majirgaongp"},
+        {
+          "code": "as.khowangkololuwa"
+        }
       ]
     },
     {
@@ -5401,7 +5458,7 @@
           "code": "as.barpetamb"
         },
         {
-          "code": "as.dibrugarh"
+          "code": "as.dibrugarhmc"
         },
         {
           "code": "as.tinsukiamb"
@@ -5521,13 +5578,13 @@
           "code": "as.jokai"
         },
         {
-          "code": "as.lejai"
+          "code": "as.lezai"
         },
         {
           "code": "as.duliakakoti"
         },
         {
-          "code": "as.barbarua"
+          "code": "as.barbaruah"
         },
         {
           "code": "as.kalakhowa"
@@ -5539,7 +5596,7 @@
           "code": "as.bogibeel"
         },
         {
-          "code": "as.kololuwa"
+          "code": "as.kolakhowa"
         },
         {
           "code": "as.tinsukiagp"
@@ -5653,11 +5710,14 @@
         { "code": "as.nazirasimalugurida" },
         { "code": "as.sonariimbda" },
         { "code": "as.northlakhimpurda" },
-        { "code": "as.dibrugarhda" },
+        { "code": "as.dibrugarhmcda" },
         { "code": "as.tinsukiada" },
         { "code": "as.cacharda" },
         { "code": "as.sribhumida" },
-        { "code": "as.dhemajida" }
+        { "code": "as.dhemajida" },
+        {
+          "code": "as.khowangkololuwa"
+        }
       ]
     },
     {
@@ -5673,7 +5733,7 @@
           "code": "as.barpetamb"
         },
         {
-          "code": "as.dibrugarh"
+          "code": "as.dibrugarhmc"
         },
         {
           "code": "as.tinsukiamb"
@@ -5793,13 +5853,13 @@
           "code": "as.jokai"
         },
         {
-          "code": "as.lejai"
+          "code": "as.lezai"
         },
         {
           "code": "as.duliakakoti"
         },
         {
-          "code": "as.barbarua"
+          "code": "as.barbaruah"
         },
         {
           "code": "as.kalakhowa"
@@ -5811,7 +5871,7 @@
           "code": "as.bogibeel"
         },
         {
-          "code": "as.kololuwa"
+          "code": "as.kolakhowa"
         },
         {
           "code": "as.tinsukiagp"
@@ -5925,11 +5985,14 @@
         { "code": "as.nazirasimalugurida" },
         { "code": "as.sonariimbda" },
         { "code": "as.northlakhimpurda" },
-        { "code": "as.dibrugarhda" },
+        { "code": "as.dibrugarhmcda" },
         { "code": "as.tinsukiada" },
         { "code": "as.cacharda" },
         { "code": "as.sribhumida" },
-        { "code": "as.dhemajida" }
+        { "code": "as.dhemajida" },
+        {
+          "code": "as.khowangkololuwa"
+        }
       ]
     },
     {
@@ -5946,7 +6009,7 @@
           "code": "as.barpetamb"
         },
         {
-          "code": "as.dibrugarh"
+          "code": "as.dibrugarhmc"
         },
         {
           "code": "as.tinsukiamb"
@@ -6066,13 +6129,13 @@
           "code": "as.jokai"
         },
         {
-          "code": "as.lejai"
+          "code": "as.lezai"
         },
         {
           "code": "as.duliakakoti"
         },
         {
-          "code": "as.barbarua"
+          "code": "as.barbaruah"
         },
         {
           "code": "as.kalakhowa"
@@ -6084,7 +6147,7 @@
           "code": "as.bogibeel"
         },
         {
-          "code": "as.kololuwa"
+          "code": "as.kolakhowa"
         },
         {
           "code": "as.tinsukiagp"
@@ -6181,6 +6244,9 @@
         },
         {
           "code": "as.kumarparanizjoinagar"
+        },
+        {
+          "code": "as.khowangkololuwa"
         }
       ]
     },
@@ -6197,7 +6263,7 @@
           "code": "as.barpetamb"
         },
         {
-          "code": "as.dibrugarh"
+          "code": "as.dibrugarhmc"
         },
         {
           "code": "as.tinsukiamb"
@@ -6317,13 +6383,13 @@
           "code": "as.jokai"
         },
         {
-          "code": "as.lejai"
+          "code": "as.lezai"
         },
         {
           "code": "as.duliakakoti"
         },
         {
-          "code": "as.barbarua"
+          "code": "as.barbaruah"
         },
         {
           "code": "as.kalakhowa"
@@ -6335,7 +6401,7 @@
           "code": "as.bogibeel"
         },
         {
-          "code": "as.kololuwa"
+          "code": "as.kolakhowa"
         },
         {
           "code": "as.tinsukiagp"
@@ -6432,6 +6498,9 @@
         },
         {
           "code": "as.kumarparanizjoinagar"
+        },
+        {
+          "code": "as.khowangkololuwa"
         }
       ]
     },
@@ -6448,7 +6517,7 @@
           "code": "as.barpetamb"
         },
         {
-          "code": "as.dibrugarh"
+          "code": "as.dibrugarhmc"
         },
         {
           "code": "as.tinsukiamb"
@@ -6568,13 +6637,13 @@
           "code": "as.jokai"
         },
         {
-          "code": "as.lejai"
+          "code": "as.lezai"
         },
         {
           "code": "as.duliakakoti"
         },
         {
-          "code": "as.barbarua"
+          "code": "as.barbaruah"
         },
         {
           "code": "as.kalakhowa"
@@ -6586,7 +6655,7 @@
           "code": "as.bogibeel"
         },
         {
-          "code": "as.kololuwa"
+          "code": "as.kolakhowa"
         },
         {
           "code": "as.tinsukiagp"
@@ -6683,6 +6752,9 @@
         },
         {
           "code": "as.kumarparanizjoinagar"
+        },
+        {
+          "code": "as.khowangkololuwa"
         }
       ]
     },
@@ -6700,7 +6772,7 @@
           "code": "as.barpetamb"
         },
         {
-          "code": "as.dibrugarh"
+          "code": "as.dibrugarhmc"
         },
         {
           "code": "as.tinsukiamb"
@@ -6820,13 +6892,13 @@
           "code": "as.jokai"
         },
         {
-          "code": "as.lejai"
+          "code": "as.lezai"
         },
         {
           "code": "as.duliakakoti"
         },
         {
-          "code": "as.barbarua"
+          "code": "as.barbaruah"
         },
         {
           "code": "as.kalakhowa"
@@ -6838,7 +6910,7 @@
           "code": "as.bogibeel"
         },
         {
-          "code": "as.kololuwa"
+          "code": "as.kolakhowa"
         },
         {
           "code": "as.tinsukiagp"
@@ -6952,11 +7024,14 @@
         { "code": "as.nazirasimalugurida" },
         { "code": "as.sonariimbda" },
         { "code": "as.northlakhimpurda" },
-        { "code": "as.dibrugarhda" },
+        { "code": "as.dibrugarhmcda" },
         { "code": "as.tinsukiada" },
         { "code": "as.cacharda" },
         { "code": "as.sribhumida" },
-        { "code": "as.dhemajida" }
+        { "code": "as.dhemajida" },
+        {
+          "code": "as.khowangkololuwa"
+        }
       ]
     },
     {
@@ -6973,7 +7048,7 @@
           "code": "as.barpetamb"
         },
         {
-          "code": "as.dibrugarh"
+          "code": "as.dibrugarhmc"
         },
         {
           "code": "as.tinsukiamb"
@@ -7093,13 +7168,13 @@
           "code": "as.jokai"
         },
         {
-          "code": "as.lejai"
+          "code": "as.lezai"
         },
         {
           "code": "as.duliakakoti"
         },
         {
-          "code": "as.barbarua"
+          "code": "as.barbaruah"
         },
         {
           "code": "as.kalakhowa"
@@ -7111,7 +7186,7 @@
           "code": "as.bogibeel"
         },
         {
-          "code": "as.kololuwa"
+          "code": "as.kolakhowa"
         },
         {
           "code": "as.tinsukiagp"
@@ -7208,6 +7283,9 @@
         },
         {
           "code": "as.kumarparanizjoinagar"
+        },
+        {
+          "code": "as.khowangkololuwa"
         }
       ]
     },
@@ -7225,7 +7303,7 @@
           "code": "as.barpetamb"
         },
         {
-          "code": "as.dibrugarh"
+          "code": "as.dibrugarhmc"
         },
         {
           "code": "as.tinsukiamb"
@@ -7345,13 +7423,13 @@
           "code": "as.jokai"
         },
         {
-          "code": "as.lejai"
+          "code": "as.lezai"
         },
         {
           "code": "as.duliakakoti"
         },
         {
-          "code": "as.barbarua"
+          "code": "as.barbaruah"
         },
         {
           "code": "as.kalakhowa"
@@ -7363,7 +7441,7 @@
           "code": "as.bogibeel"
         },
         {
-          "code": "as.kololuwa"
+          "code": "as.kolakhowa"
         },
         {
           "code": "as.tinsukiagp"
@@ -7460,6 +7538,9 @@
         },
         {
           "code": "as.kumarparanizjoinagar"
+        },
+        {
+          "code": "as.khowangkololuwa"
         }
       ]
     },
@@ -7477,7 +7558,7 @@
           "code": "as.barpetamb"
         },
         {
-          "code": "as.dibrugarh"
+          "code": "as.dibrugarhmc"
         },
         {
           "code": "as.tinsukiamb"
@@ -7597,13 +7678,13 @@
           "code": "as.jokai"
         },
         {
-          "code": "as.lejai"
+          "code": "as.lezai"
         },
         {
           "code": "as.duliakakoti"
         },
         {
-          "code": "as.barbarua"
+          "code": "as.barbaruah"
         },
         {
           "code": "as.kalakhowa"
@@ -7615,7 +7696,7 @@
           "code": "as.bogibeel"
         },
         {
-          "code": "as.kololuwa"
+          "code": "as.kolakhowa"
         },
         {
           "code": "as.tinsukiagp"
@@ -7712,6 +7793,9 @@
         },
         {
           "code": "as.kumarparanizjoinagar"
+        },
+        {
+          "code": "as.khowangkololuwa"
         }
       ]
     },
@@ -7729,7 +7813,7 @@
           "code": "as.barpetamb"
         },
         {
-          "code": "as.dibrugarh"
+          "code": "as.dibrugarhmc"
         },
         {
           "code": "as.tinsukiamb"
@@ -7849,13 +7933,13 @@
           "code": "as.jokai"
         },
         {
-          "code": "as.lejai"
+          "code": "as.lezai"
         },
         {
           "code": "as.duliakakoti"
         },
         {
-          "code": "as.barbarua"
+          "code": "as.barbaruah"
         },
         {
           "code": "as.kalakhowa"
@@ -7867,7 +7951,7 @@
           "code": "as.bogibeel"
         },
         {
-          "code": "as.kololuwa"
+          "code": "as.kolakhowa"
         },
         {
           "code": "as.tinsukiagp"
@@ -7964,6 +8048,9 @@
         },
         {
           "code": "as.kumarparanizjoinagar"
+        },
+        {
+          "code": "as.khowangkololuwa"
         }
       ]
     },
@@ -7981,7 +8068,7 @@
           "code": "as.barpetamb"
         },
         {
-          "code": "as.dibrugarh"
+          "code": "as.dibrugarhmc"
         },
         {
           "code": "as.tinsukiamb"
@@ -8101,13 +8188,13 @@
           "code": "as.jokai"
         },
         {
-          "code": "as.lejai"
+          "code": "as.lezai"
         },
         {
           "code": "as.duliakakoti"
         },
         {
-          "code": "as.barbarua"
+          "code": "as.barbaruah"
         },
         {
           "code": "as.kalakhowa"
@@ -8119,7 +8206,7 @@
           "code": "as.bogibeel"
         },
         {
-          "code": "as.kololuwa"
+          "code": "as.kolakhowa"
         },
         {
           "code": "as.tinsukiagp"
@@ -8216,6 +8303,9 @@
         },
         {
           "code": "as.kumarparanizjoinagar"
+        },
+        {
+          "code": "as.khowangkololuwa"
         }
       ]
     },
@@ -8233,7 +8323,7 @@
           "code": "as.barpetamb"
         },
         {
-          "code": "as.dibrugarh"
+          "code": "as.dibrugarhmc"
         },
         {
           "code": "as.tinsukiamb"
@@ -8353,13 +8443,13 @@
           "code": "as.jokai"
         },
         {
-          "code": "as.lejai"
+          "code": "as.lezai"
         },
         {
           "code": "as.duliakakoti"
         },
         {
-          "code": "as.barbarua"
+          "code": "as.barbaruah"
         },
         {
           "code": "as.kalakhowa"
@@ -8371,7 +8461,7 @@
           "code": "as.bogibeel"
         },
         {
-          "code": "as.kololuwa"
+          "code": "as.kolakhowa"
         },
         {
           "code": "as.tinsukiagp"
@@ -8468,6 +8558,9 @@
         },
         {
           "code": "as.kumarparanizjoinagar"
+        },
+        {
+          "code": "as.khowangkololuwa"
         }
       ]
     },
@@ -8485,7 +8578,7 @@
           "code": "as.barpetamb"
         },
         {
-          "code": "as.dibrugarh"
+          "code": "as.dibrugarhmc"
         },
         {
           "code": "as.tinsukiamb"
@@ -8605,13 +8698,13 @@
           "code": "as.jokai"
         },
         {
-          "code": "as.lejai"
+          "code": "as.lezai"
         },
         {
           "code": "as.duliakakoti"
         },
         {
-          "code": "as.barbarua"
+          "code": "as.barbaruah"
         },
         {
           "code": "as.kalakhowa"
@@ -8623,7 +8716,7 @@
           "code": "as.bogibeel"
         },
         {
-          "code": "as.kololuwa"
+          "code": "as.kolakhowa"
         },
         {
           "code": "as.tinsukiagp"
@@ -8720,6 +8813,9 @@
         },
         {
           "code": "as.kumarparanizjoinagar"
+        },
+        {
+          "code": "as.khowangkololuwa"
         }
       ]
     },
@@ -8736,7 +8832,7 @@
           "code": "as.barpetamb"
         },
         {
-          "code": "as.dibrugarh"
+          "code": "as.dibrugarhmc"
         },
         {
           "code": "as.tinsukiamb"
@@ -8856,13 +8952,13 @@
           "code": "as.jokai"
         },
         {
-          "code": "as.lejai"
+          "code": "as.lezai"
         },
         {
           "code": "as.duliakakoti"
         },
         {
-          "code": "as.barbarua"
+          "code": "as.barbaruah"
         },
         {
           "code": "as.kalakhowa"
@@ -8874,7 +8970,7 @@
           "code": "as.bogibeel"
         },
         {
-          "code": "as.kololuwa"
+          "code": "as.kolakhowa"
         },
         {
           "code": "as.tinsukiagp"
@@ -8988,11 +9084,14 @@
         { "code": "as.nazirasimalugurida" },
         { "code": "as.sonariimbda" },
         { "code": "as.northlakhimpurda" },
-        { "code": "as.dibrugarhda" },
+        { "code": "as.dibrugarhmcda" },
         { "code": "as.tinsukiada" },
         { "code": "as.cacharda" },
         { "code": "as.sribhumida" },
-        { "code": "as.dhemajida" }
+        { "code": "as.dhemajida" },
+        {
+          "code": "as.khowangkololuwa"
+        }
       ]
     },
     {
@@ -9008,7 +9107,7 @@
           "code": "as.barpetamb"
         },
         {
-          "code": "as.dibrugarh"
+          "code": "as.dibrugarhmc"
         },
         {
           "code": "as.tinsukiamb"
@@ -9128,13 +9227,13 @@
           "code": "as.jokai"
         },
         {
-          "code": "as.lejai"
+          "code": "as.lezai"
         },
         {
           "code": "as.duliakakoti"
         },
         {
-          "code": "as.barbarua"
+          "code": "as.barbaruah"
         },
         {
           "code": "as.kalakhowa"
@@ -9146,7 +9245,7 @@
           "code": "as.bogibeel"
         },
         {
-          "code": "as.kololuwa"
+          "code": "as.kolakhowa"
         },
         {
           "code": "as.tinsukiagp"
@@ -9243,6 +9342,9 @@
         },
         {
           "code": "as.kumarparanizjoinagar"
+        },
+        {
+          "code": "as.khowangkololuwa"
         }
       ]
     },
@@ -9259,7 +9361,7 @@
           "code": "as.barpetamb"
         },
         {
-          "code": "as.dibrugarh"
+          "code": "as.dibrugarhmc"
         },
         {
           "code": "as.tinsukiamb"
@@ -9379,13 +9481,13 @@
           "code": "as.jokai"
         },
         {
-          "code": "as.lejai"
+          "code": "as.lezai"
         },
         {
           "code": "as.duliakakoti"
         },
         {
-          "code": "as.barbarua"
+          "code": "as.barbaruah"
         },
         {
           "code": "as.kalakhowa"
@@ -9397,7 +9499,7 @@
           "code": "as.bogibeel"
         },
         {
-          "code": "as.kololuwa"
+          "code": "as.kolakhowa"
         },
         {
           "code": "as.tinsukiagp"
@@ -9494,6 +9596,9 @@
         },
         {
           "code": "as.kumarparanizjoinagar"
+        },
+        {
+          "code": "as.khowangkololuwa"
         }
       ]
     },
@@ -9510,7 +9615,7 @@
           "code": "as.barpetamb"
         },
         {
-          "code": "as.dibrugarh"
+          "code": "as.dibrugarhmc"
         },
         {
           "code": "as.tinsukiamb"
@@ -9630,13 +9735,13 @@
           "code": "as.jokai"
         },
         {
-          "code": "as.lejai"
+          "code": "as.lezai"
         },
         {
           "code": "as.duliakakoti"
         },
         {
-          "code": "as.barbarua"
+          "code": "as.barbaruah"
         },
         {
           "code": "as.kalakhowa"
@@ -9648,7 +9753,7 @@
           "code": "as.bogibeel"
         },
         {
-          "code": "as.kololuwa"
+          "code": "as.kolakhowa"
         },
         {
           "code": "as.tinsukiagp"
@@ -9762,11 +9867,14 @@
         { "code": "as.nazirasimalugurida" },
         { "code": "as.sonariimbda" },
         { "code": "as.northlakhimpurda" },
-        { "code": "as.dibrugarhda" },
+        { "code": "as.dibrugarhmcda" },
         { "code": "as.tinsukiada" },
         { "code": "as.cacharda" },
         { "code": "as.sribhumida" },
-        { "code": "as.dhemajida" }
+        { "code": "as.dhemajida" },
+        {
+          "code": "as.khowangkololuwa"
+        }
       ]
     },
     {
@@ -9782,7 +9890,7 @@
           "code": "as.barpetamb"
         },
         {
-          "code": "as.dibrugarh"
+          "code": "as.dibrugarhmc"
         },
         {
           "code": "as.tinsukiamb"
@@ -9902,13 +10010,13 @@
           "code": "as.jokai"
         },
         {
-          "code": "as.lejai"
+          "code": "as.lezai"
         },
         {
           "code": "as.duliakakoti"
         },
         {
-          "code": "as.barbarua"
+          "code": "as.barbaruah"
         },
         {
           "code": "as.kalakhowa"
@@ -9920,7 +10028,7 @@
           "code": "as.bogibeel"
         },
         {
-          "code": "as.kololuwa"
+          "code": "as.kolakhowa"
         },
         {
           "code": "as.tinsukiagp"
@@ -10017,6 +10125,9 @@
         },
         {
           "code": "as.kumarparanizjoinagar"
+        },
+        {
+          "code": "as.khowangkololuwa"
         }
       ]
     },
@@ -10034,7 +10145,7 @@
           "code": "as.barpetamb"
         },
         {
-          "code": "as.dibrugarh"
+          "code": "as.dibrugarhmc"
         },
         {
           "code": "as.tinsukiamb"
@@ -10154,13 +10265,13 @@
           "code": "as.jokai"
         },
         {
-          "code": "as.lejai"
+          "code": "as.lezai"
         },
         {
           "code": "as.duliakakoti"
         },
         {
-          "code": "as.barbarua"
+          "code": "as.barbaruah"
         },
         {
           "code": "as.kalakhowa"
@@ -10172,7 +10283,7 @@
           "code": "as.bogibeel"
         },
         {
-          "code": "as.kololuwa"
+          "code": "as.kolakhowa"
         },
         {
           "code": "as.tinsukiagp"
@@ -10269,6 +10380,9 @@
         },
         {
           "code": "as.kumarparanizjoinagar"
+        },
+        {
+          "code": "as.khowangkololuwa"
         }
       ]
     },
@@ -10285,7 +10399,7 @@
           "code": "as.barpetamb"
         },
         {
-          "code": "as.dibrugarh"
+          "code": "as.dibrugarhmc"
         },
         {
           "code": "as.tinsukiamb"
@@ -10405,13 +10519,13 @@
           "code": "as.jokai"
         },
         {
-          "code": "as.lejai"
+          "code": "as.lezai"
         },
         {
           "code": "as.duliakakoti"
         },
         {
-          "code": "as.barbarua"
+          "code": "as.barbaruah"
         },
         {
           "code": "as.kalakhowa"
@@ -10423,7 +10537,7 @@
           "code": "as.bogibeel"
         },
         {
-          "code": "as.kololuwa"
+          "code": "as.kolakhowa"
         },
         {
           "code": "as.tinsukiagp"
@@ -10520,6 +10634,9 @@
         },
         {
           "code": "as.kumarparanizjoinagar"
+        },
+        {
+          "code": "as.khowangkololuwa"
         }
       ]
     },
@@ -10536,7 +10653,7 @@
           "code": "as.barpetamb"
         },
         {
-          "code": "as.dibrugarh"
+          "code": "as.dibrugarhmc"
         },
         {
           "code": "as.tinsukiamb"
@@ -10656,13 +10773,13 @@
           "code": "as.jokai"
         },
         {
-          "code": "as.lejai"
+          "code": "as.lezai"
         },
         {
           "code": "as.duliakakoti"
         },
         {
-          "code": "as.barbarua"
+          "code": "as.barbaruah"
         },
         {
           "code": "as.kalakhowa"
@@ -10674,7 +10791,7 @@
           "code": "as.bogibeel"
         },
         {
-          "code": "as.kololuwa"
+          "code": "as.kolakhowa"
         },
         {
           "code": "as.tinsukiagp"
@@ -10771,6 +10888,9 @@
         },
         {
           "code": "as.kumarparanizjoinagar"
+        },
+        {
+          "code": "as.khowangkololuwa"
         }
       ]
     },
@@ -10787,7 +10907,7 @@
           "code": "as.barpetamb"
         },
         {
-          "code": "as.dibrugarh"
+          "code": "as.dibrugarhmc"
         },
         {
           "code": "as.tinsukiamb"
@@ -10907,13 +11027,13 @@
           "code": "as.jokai"
         },
         {
-          "code": "as.lejai"
+          "code": "as.lezai"
         },
         {
           "code": "as.duliakakoti"
         },
         {
-          "code": "as.barbarua"
+          "code": "as.barbaruah"
         },
         {
           "code": "as.kalakhowa"
@@ -10925,7 +11045,7 @@
           "code": "as.bogibeel"
         },
         {
-          "code": "as.kololuwa"
+          "code": "as.kolakhowa"
         },
         {
           "code": "as.tinsukiagp"
@@ -11022,6 +11142,9 @@
         },
         {
           "code": "as.kumarparanizjoinagar"
+        },
+        {
+          "code": "as.khowangkololuwa"
         }
       ]
     },
@@ -11038,7 +11161,7 @@
           "code": "as.barpetamb"
         },
         {
-          "code": "as.dibrugarh"
+          "code": "as.dibrugarhmc"
         },
         {
           "code": "as.tinsukiamb"
@@ -11158,13 +11281,13 @@
           "code": "as.jokai"
         },
         {
-          "code": "as.lejai"
+          "code": "as.lezai"
         },
         {
           "code": "as.duliakakoti"
         },
         {
-          "code": "as.barbarua"
+          "code": "as.barbaruah"
         },
         {
           "code": "as.kalakhowa"
@@ -11176,7 +11299,7 @@
           "code": "as.bogibeel"
         },
         {
-          "code": "as.kololuwa"
+          "code": "as.kolakhowa"
         },
         {
           "code": "as.tinsukiagp"
@@ -11273,6 +11396,9 @@
         },
         {
           "code": "as.kumarparanizjoinagar"
+        },
+        {
+          "code": "as.khowangkololuwa"
         }
       ]
     },
@@ -11289,7 +11415,7 @@
           "code": "as.barpetamb"
         },
         {
-          "code": "as.dibrugarh"
+          "code": "as.dibrugarhmc"
         },
         {
           "code": "as.tinsukiamb"
@@ -11409,13 +11535,13 @@
           "code": "as.jokai"
         },
         {
-          "code": "as.lejai"
+          "code": "as.lezai"
         },
         {
           "code": "as.duliakakoti"
         },
         {
-          "code": "as.barbarua"
+          "code": "as.barbaruah"
         },
         {
           "code": "as.kalakhowa"
@@ -11427,7 +11553,7 @@
           "code": "as.bogibeel"
         },
         {
-          "code": "as.kololuwa"
+          "code": "as.kolakhowa"
         },
         {
           "code": "as.tinsukiagp"
@@ -11524,6 +11650,9 @@
         },
         {
           "code": "as.kumarparanizjoinagar"
+        },
+        {
+          "code": "as.khowangkololuwa"
         }
       ]
     },
@@ -11541,7 +11670,7 @@
           "code": "as.barpetamb"
         },
         {
-          "code": "as.dibrugarh"
+          "code": "as.dibrugarhmc"
         },
         {
           "code": "as.tinsukiamb"
@@ -11661,13 +11790,13 @@
           "code": "as.jokai"
         },
         {
-          "code": "as.lejai"
+          "code": "as.lezai"
         },
         {
           "code": "as.duliakakoti"
         },
         {
-          "code": "as.barbarua"
+          "code": "as.barbaruah"
         },
         {
           "code": "as.kalakhowa"
@@ -11679,7 +11808,7 @@
           "code": "as.bogibeel"
         },
         {
-          "code": "as.kololuwa"
+          "code": "as.kolakhowa"
         },
         {
           "code": "as.tinsukiagp"
@@ -12331,6 +12460,9 @@
         },
         {
           "code": "as.majirgaongp"
+        },
+        {
+          "code": "as.khowangkololuwa"
         }
       ]
     },
@@ -12348,7 +12480,7 @@
           "code": "as.barpetamb"
         },
         {
-          "code": "as.dibrugarh"
+          "code": "as.dibrugarhmc"
         },
         {
           "code": "as.tinsukiamb"
@@ -12468,13 +12600,13 @@
           "code": "as.jokai"
         },
         {
-          "code": "as.lejai"
+          "code": "as.lezai"
         },
         {
           "code": "as.duliakakoti"
         },
         {
-          "code": "as.barbarua"
+          "code": "as.barbaruah"
         },
         {
           "code": "as.kalakhowa"
@@ -12486,7 +12618,7 @@
           "code": "as.bogibeel"
         },
         {
-          "code": "as.kololuwa"
+          "code": "as.kolakhowa"
         },
         {
           "code": "as.tinsukiagp"
@@ -13138,6 +13270,9 @@
         },
         {
           "code": "as.majirgaongp"
+        },
+        {
+          "code": "as.khowangkololuwa"
         }
       ]
     }
