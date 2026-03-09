@@ -1,0 +1,50 @@
+{
+   "tenantId":"as.khowangkololuwa",
+   "moduleName":"egov-location",
+   "TenantBoundary":[
+      {
+         "hierarchyType":{
+            "code":"REVENUE",
+            "name":"REVENUE"
+         },
+         "boundary":{
+            "id":1,
+            "boundaryNum":1,
+            "name":"Khowang-kololuwa",
+            "localname":"Khowang-kololuwa",
+            "longitude":null,
+            "latitude":null,
+            "label":"City",
+            "code":"as.khowangkololuwa",
+            "children":[
+               {
+                  "id":"b65bf972-b3d4-421e-b327-747d3e3325c0",
+                  "boundaryNum":1,
+                  "name":"Kololuwa Habi",
+                  "localname":"Kololuwa Habi",
+                  "longitude":null,
+                  "latitude":null,
+                  "label":"Village",
+                  "code":"KhowangkololuwaV1",
+                  "children":[
+                     
+                  ]
+               },
+               {
+                  "id":"b65bf972-b3d4-421e-bi27-747d3e3325c1",
+                  "boundaryNum":1,
+                  "name":"Mohmari Gaon No.2",
+                  "localname":"Mohmari Gaon No.2",
+                  "longitude":null,
+                  "latitude":null,
+                  "label":"Village",
+                  "code":"KhowangkololuwaV2",
+                  "children":[
+                     
+                  ]
+               }
+            ]
+         }
+      }
+   ]
+}

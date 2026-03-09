@@ -42,8 +42,8 @@
           {
             "id": "dea47ce0-da0c-476a-81a7-ae7c9edd7d86",
             "boundaryNum": 1,
-            "name": "Mancotta T.E. 1/159 Rra(A)",
-            "localname": "Mancotta T.E. 1/159 Rra(A)",
+            "name": "Mankotta TE 1/159 RR(A) grant",
+            "localname": "Mankotta TE 1/159 RR(A) grant",
             "longitude": null,
             "latitude": null,
             "label": "Village",
@@ -53,8 +53,8 @@
           {
             "id": "dd25ef4b-9467-491d-84d4-16f997140323",
             "boundaryNum": 1,
-            "name": "Mankata T.E. 1/159 Rr(B) Grant",
-            "localname": "Mankata T.E. 1/159 Rr(B) Grant",
+            "name": "Mankotta T.E. 1/159 Rr(B) Grant",
+            "localname": "Mankotta T.E. 1/159 Rr(B) Grant",
             "longitude": null,
             "latitude": null,
             "label": "Village",
@@ -75,8 +75,8 @@
           {
             "id": "4d3cdfb2-eff7-4117-bebd-2676ec261e65",
             "boundaryNum": 1,
-            "name": "Suta Bogpar T.E. 10/165 O.R.(A) Grant",
-            "localname": "Suta Bogpar T.E. 10/165 O.R.(A) Grant",
+            "name": "Suto Bokpara 10/165 OR (A) grant",
+            "localname": "Suto Bokpara 10/165 OR (A) grant",
             "longitude": null,
             "latitude": null,
             "label": "Village",
@@ -92,6 +92,28 @@
             "latitude": null,
             "label": "Village",
             "code": "MankottaV7",
+            "children": []
+          },
+          {
+            "id": "4d3cdfb2-eff7-4117-bebd-2676ec271e66",
+            "boundaryNum": 1,
+            "name": "Suto Bokpara 10/165 (B)",
+            "localname": "Suto Bokpara 10/165 (B)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "MankottaV8",
+            "children": []
+          },
+          {
+            "id": "4d3cdfb2-eff7-4117-bebd-2676ec271e67",
+            "boundaryNum": 1,
+            "name": "Tepor gaon",
+            "localname": "Tepor gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "MankottaV9",
             "children": []
           }
         ]

@@ -1,5 +1,5 @@
 {
-  "tenantId": "as.lejai",
+  "tenantId": "as.lezai",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,12 +10,12 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Lejai",
-        "localname": "Lejai",
+        "name": "Lezai",
+        "localname": "Lezai",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "as.lejai",
+        "code": "as.lezai",
         "children": [
           {
             "id": "b65bf972-b3d4-421e-b327-747d3e3325c0",
@@ -42,8 +42,8 @@
           {
             "id": "b65bf972-b3d4-428e-b327-747d3e3325c0",
             "boundaryNum": 1,
-            "name": "Dewanbari Bagisha 24/ 149 Nir Grant",
-            "localname": "Dewanbari Bagisha 24/ 149 Nir Grant",
+            "name": "Dewanbari Bagisha 24/ 149 No. Grant",
+            "localname": "Dewanbari Bagisha 24/ 149 No. Grant",
             "longitude": null,
             "latitude": null,
             "label": "Village",
