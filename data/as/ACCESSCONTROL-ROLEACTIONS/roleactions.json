@@ -38787,6 +38787,294 @@
       "actionid": 3085,
       "actioncode": "",
       "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 1922,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+	{
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 1972,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+	{
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 2027,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+	{
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 2032,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+	{
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 2041,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+	{
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 2042,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+	{
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 2043,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+	 {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 2044,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+	 {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 2005,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+	{
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 2088,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+	{
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 2088,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+	{
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 2089,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+	{
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 2090,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+	{
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 2091,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+	{
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+	{
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 2317,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+	{
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 698,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+	{
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 1930,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 1931,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+	{
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 1950,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 1766,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 1972,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 1975,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 1989,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 1990,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 2027,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 2032,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 2041,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 2042,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 2043,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 2044,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 2005,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 2317,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 2002,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 2003,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 1863,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 1864,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 1865,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 3077,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 3078,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 3082,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 3084,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 3085,
+      "actioncode": "",
+      "tenantId": "as"
     }
 
   ]
