@@ -126,6 +126,17 @@
             "label": "Village",
             "code": "RongpuriaV10",
             "children": []
+          },
+          {
+            "id": "b65bf972-b3d4-421e-b317-747d3e3325c1",
+            "boundaryNum": 1,
+            "name": "Hukanpukhuri TE Patta Land",
+            "localname": "Hukanpukhuri TE Patta Land",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "RongpuriaV10",
+            "children": []
           }
         ]
       }

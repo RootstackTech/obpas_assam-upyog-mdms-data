@@ -49,6 +49,17 @@
             "label": "Village",
             "code": "PanitolaV3",
             "children": []
+          },
+          {
+            "id": "c4a57bb5-b679-485d-bcdb-68ad52834d96",
+            "boundaryNum": 1,
+            "name": "Panitola T.E - 68",
+            "localname": "Panitola T.E - 68",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "PanitolaV4",
+            "children": []
           }
         ]
       }
