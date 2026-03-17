@@ -754,7 +754,7 @@
               "id": 25,
               "planningAreaCode": "GUWAHATI_MP",
               "districtCode": "KAMRUP_METRO",
-              "ppAuthorityCode": "DEVELOPMENT_AUTHORITY",
+              "ppAuthorityCode": "GUWAHATI_METROPOLITAN_DEVELOPMENT_AUTHORITY",
               "ppAuthorityName": "Guwahati Metropolitan Development Authority",
               "active": true
             },
@@ -790,7 +790,7 @@
               "id": 26,
               "planningAreaCode": "GUWAHATI_MP",
               "districtCode": "KAMRUP",
-              "ppAuthorityCode": "DEVELOPMENT_AUTHORITY",
+              "ppAuthorityCode": "GUWAHATI_METROPOLITAN_DEVELOPMENT_AUTHORITY",
               "ppAuthorityName": "Guwahati Metropolitan Development Authority",
               "active": true
             },
