@@ -6147,7 +6147,7 @@
       "city": {
         "name": "Guwahati Metropolitan Development Authority",
         "districtName": "Kamrup (Metro)",
-        "ulbGrade": "DEVELOPMENT_AUTHORITY",
+        "ulbGrade": "GUWAHATI_METROPLITAN_DEVELOPMENT_AUTHORITY",
         "districtCode": "KAMRUP_METRO",
         "districtTenantCode": "as.gmda",
         "planningAreaCode": "GUWAHATI_MP",
