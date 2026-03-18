@@ -1,0 +1,44 @@
+{
+    "tenantId": "as.bangaragp",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "107 No. Bangara GP",
+                "localname": "107 No. Bangara GP",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.bangaragp",
+                "children": [
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c0",
+                        "boundaryNum": 1,
+                        "name": "Bagra Part 1",
+                        "localname": "Bagra Part 1",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "BangaraV1"
+                    },
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c1",
+                        "boundaryNum": 1,
+                        "name": "Bagra Part 2",
+                        "localname": "Bagra Part 2",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "BangaraV2"
+                    }
+                ]
+            }
+        }
+    ]
+}

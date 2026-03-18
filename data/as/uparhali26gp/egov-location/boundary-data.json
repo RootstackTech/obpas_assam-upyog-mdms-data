@@ -1,0 +1,33 @@
+{
+    "tenantId": "as.uparhali26gp",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "26 No. Uparhali GP",
+                "localname": "26 No. Uparhali GP",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.uparhali26gp",
+                "children": [
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c0",
+                        "boundaryNum": 1,
+                        "name": "Uporhali Part 1",
+                        "localname": "Uporhali Part 1",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "Uparhali26V1"
+                    }               ]
+            }
+        }
+    ]
+}

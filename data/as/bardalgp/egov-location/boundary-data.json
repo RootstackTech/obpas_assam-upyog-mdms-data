@@ -1,0 +1,44 @@
+{
+    "tenantId": "as.bardalgp",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Bardal GP",
+                "localname": "Bardal GP",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.bardalgp",
+                "children": [
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c0",
+                        "boundaryNum": 1,
+                        "name": "Kachari Salmari",
+                        "localname": "Kachari Salmari",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "BardalV1"
+                    },
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c1",
+                        "boundaryNum": 1,
+                        "name": "Gosai Salmari (Part-I)",
+                        "localname": "Gosai Salmari (Part-I)",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "BardalV2"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "tenantId": "as.parllyhudumpurgp",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Parlly - Hudumpur GP",
+                "localname": "Parlly - Hudumpur GP",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.parllyhudumpurgp",
+                "children": [
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c0",
+                        "boundaryNum": 1,
+                        "name": "Hudumpur Part 1",
+                        "localname": "Hudumpur Part 1",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "ParllyhudumpurV1"
+                    },
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c1",
+                        "boundaryNum": 1,
+                        "name": "Hudumpur Part 2",
+                        "localname": "Hudumpur Part 2",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "ParllyhudumpurV2"
+                    },
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c2",
+                        "boundaryNum": 1,
+                        "name": "Parli Part 3",
+                        "localname": "Parli Part 3",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "ParllyhudumpurV3"
+                    },
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c3",
+                        "boundaryNum": 1,
+                        "name": "Parli Part 2",
+                        "localname": "Parli Part 2",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "ParllyhudumpurV4"
+                    },
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c4",
+                        "boundaryNum": 1,
+                        "name": "Parli Part 1",
+                        "localname": "Parli Part 1",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "ParllyhudumpurV5"
+                    },
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c5",
+                        "boundaryNum": 1,
+                        "name": "Sadilapur",
+                        "localname": "Sadilapur",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "ParllyhudumpurV6"
+                    }
+                ]
+            }
+        }
+    ]
+}

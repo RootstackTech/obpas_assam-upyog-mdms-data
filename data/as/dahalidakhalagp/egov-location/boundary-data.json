@@ -1,0 +1,54 @@
+{
+    "tenantId": "as.dahalidakhalagp",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "24 No. Dahali Dakhala GP",
+                "localname": "24 No. Dahali Dakhala GP",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.dahalidakhalagp",
+                "children": [
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c0",
+                        "boundaryNum": 1,
+                        "name": "Daahali Gaon Part 2",
+                        "localname": "Daahali Gaon Part 2",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "DahalidakhalaV1"
+                    },
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c1",
+                        "boundaryNum": 1,
+                        "name": "Daahali Gaon Part 1",
+                        "localname": "Daahali Gaon Part 1",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "DahalidakhalaV2"
+                    },
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c2",
+                        "boundaryNum": 1,
+                        "name": "Dakhala Part 2",
+                        "localname": "Dakhala Part 2",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "DahalidakhalaV3"
+                    }
+                ]
+            }
+        }
+    ]
+}
