@@ -1,0 +1,74 @@
+{
+    "tenantId": "as.majhirgaongp",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "35 No. Majhirgaon GP",
+                "localname": "35 No. Majhirgaon GP",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.majhirgaongp",
+                "children": [
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c0",
+                        "boundaryNum": 1,
+                        "name": "Majhirgaon Part 1",
+                        "localname": "Majhirgaon Part 1",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "MajhirgaonV1"
+                    },
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c1",
+                        "boundaryNum": 1,
+                        "name": "Majhirgaon Part 2",
+                        "localname": "Majhirgaon Part 2",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "MajhirgaonV2"
+                    },
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c2",
+                        "boundaryNum": 1,
+                        "name": "Majhirgaon Part 3",
+                        "localname": "Majhirgaon Part 3",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "MajhirgaonV3"
+                    },
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c3",
+                        "boundaryNum": 1,
+                        "name": "Aagasia Part 1",
+                        "localname": "Aagasia Part 1",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "MajhirgaonV4"
+                    },
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c4",
+                        "boundaryNum": 1,
+                        "name": "Aagasia Part 1",
+                        "localname": "Aagasia Part 2",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "MajhirgaonV5"
+                    }
+                ]
+            }
+        }
+    ]
+}

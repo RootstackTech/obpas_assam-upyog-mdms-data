@@ -1,0 +1,94 @@
+{
+    "tenantId": "as.maliata108gp",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "108 No. Maliata GP",
+                "localname": "108 No. Maliata GP",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.maliata108gp",
+                "children": [
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c0",
+                        "boundaryNum": 1,
+                        "name": "Maliata Part 1",
+                        "localname": "Maliata Part 1",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "Maliata108V1"
+                    },
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c1",
+                        "boundaryNum": 1,
+                        "name": "Maliata Part 2",
+                        "localname": "Maliata Part 2",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "Maliata108V2"
+                    },
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c2",
+                        "boundaryNum": 1,
+                        "name": "Maliata Part 3",
+                        "localname": "Maliata Part 3",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "Maliata108V3"
+                    },
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c3",
+                        "boundaryNum": 1,
+                        "name": "Santala Part 2",
+                        "localname": "Santala Part 2",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "Maliata108V4"
+                    },
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c4",
+                        "boundaryNum": 1,
+                        "name": "Santala Part 1",
+                        "localname": "Santala Part 1",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "Maliata108V5"
+                    },
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c5",
+                        "boundaryNum": 1,
+                        "name": "Chayani Moniari",
+                        "localname": "Chayani Moniari",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "Maliata108V6"
+                    },
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c6",
+                        "boundaryNum": 1,
+                        "name": "Maliata Part 4",
+                        "localname": "Maliata Part 4",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "Maliata108V7"
+                    }
+                ]
+            }
+        }
+    ]
+}

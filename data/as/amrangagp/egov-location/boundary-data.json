@@ -1,0 +1,44 @@
+{
+    "tenantId": "as.amrangagp",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "109 No. Amranga GP",
+                "localname": "109 No. Amranga GP",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.amrangagp",
+                "children": [
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c0",
+                        "boundaryNum": 1,
+                        "name": "Urput Part 1",
+                        "localname": "Urput Part 1",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "AmrangaV1"
+                    },
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c1",
+                        "boundaryNum": 1,
+                        "name": "Urput Part 2",
+                        "localname": "Urput Part 2",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "AmrangaV2"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -16,7 +16,17 @@
         "latitude": null,
         "label": "City",
         "code": "as.dibrugarhmc",
-        "children": [
+        "children":[
+          {
+            "id": "7e9c1a00-11f0-4d8b-b001-11a7a001501",
+            "boundaryNum": 1,
+            "name": "Dibrugarh Town Mouza",
+            "localname": "Dibrugarh Town Mouza",
+            "longitude": null,
+            "latitude": null,
+            "label": "Mouza",
+            "code": "DibrugarhTownMouzaV1",
+             "children": [
           {
             "id": "f472012a-c8d3-4b35-b956-d8e55e93bbc5",
             "boundaryNum": 1,
@@ -896,6 +906,8 @@
                 "children": []
               }
             ]
+          }
+        ]
           }
         ]
       }

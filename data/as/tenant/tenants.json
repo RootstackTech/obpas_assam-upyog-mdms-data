@@ -97,7 +97,7 @@
         "name": "Dibrugarh",
         "districtName": "Dibrugarh",
         "districtCode": "DIBRUGARH",
-        "districtTenantCode": "as.dibrugarh",
+        "districtTenantCode": "as.dibrugarhmc",
         "planningAreaCode": "DIBRUGARH_MP",
         "ulbGrade": "MUNICIPAL_CORPORATION",
         "code": "1515",
@@ -4623,7 +4623,7 @@
       }
     },
     {
-      "code": "as.palashaniteliapahuakata",
+      "code": "as.palashaniteliapahukata",
       "name": "Palashani Telia Pahukata",
       "description": "Palashani Telia Pahukata",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
@@ -6595,6 +6595,426 @@
         "code": "2044",
         "ddrName": "Khowangkololuwa Gram Panchayat"
       }
-    }
+    },
+    {
+      "code": "as.palashbarimb",
+      "name": "Palashbari Municipal Board",
+      "description": "Palashbari Municipal Board",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": "info.palashbarimb@gmail.com",
+      "city": {
+        "name": "Palashbari Municipal Board",
+        "ulbGrade": "MUNICIPAL_BOARD",
+        "districtName": "Kamrup",
+        "districtCode": "KAMRUP",
+        "districtTenantCode": "as.palashbarimb",
+        "planningAreaCode": "PALASHBARIMIRZAVIJAYNAGAR_MP",
+        "code": "2045",
+        "ddrName": "Palashbari Municipal Board"
+      }
+    },
+    {
+      "code": "as.kochparagp",
+      "name": "105 No. Kochpara  GP",
+      "description": "105 No. Kochpara GP",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "105 No. Kochpara GP",
+        "districtName": "Kamrup",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "KAMRUP",
+        "districtTenantCode": "as.kochparagp",
+        "planningAreaCode": "PALASHBARIMIRZAVIJAYNAGAR_MP",
+        "code": "2046",
+        "ddrName": "105 No. Kochpara GP"
+      }
+      },
+      {
+      "code": "as.maliata108gp",
+      "name": "108 No. Maliata G.P.",
+      "description": "108 No. Maliata G.P.",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "108 No. Maliata G.P.",
+        "districtName": "Kamrup",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "KAMRUP",
+        "districtTenantCode": "as.maliata108gp",
+        "planningAreaCode": "PALASHBARIMIRZAVIJAYNAGAR_MP",
+        "code": "2047",
+        "ddrName": "108 No. Maliata G.P."
+      }
+      },
+      {
+      "code": "as.saraparagp",
+      "name": "26 No. Sarpara GP",
+      "description": "26 No. Sarpara GP",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "26 No. Sarpara GP",
+        "districtName": "Kamrup",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "KAMRUP",
+        "districtTenantCode": "as.saraparagp",
+        "planningAreaCode": "PALASHBARIMIRZAVIJAYNAGAR_MP",
+        "code": "2048",
+        "ddrName": "26 No. Sarpara GPP"
+      }
+      },
+      {
+      "code": "as.barantimoniariparakuchigp",
+      "name": "113 No. Baranti Moniari - Parakuchi Gaon Panchayat",
+      "description": "113 No. Baranti Moniari - Parakuchi Gaon Panchayat",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "113 No. Baranti Moniari - Parakuchi Gaon Panchayat",
+        "districtName": "Kamrup",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "KAMRUP",
+        "districtTenantCode": "as.barantimoniariparakuchigp",
+        "planningAreaCode": "PALASHBARIMIRZAVIJAYNAGAR_MP",
+        "code": "2049",
+        "ddrName": "113 No. Baranti Moniari - Parakuchi Gaon Panchayat"
+      }
+      },
+      {
+      "code": "as.amrangagp",
+      "name": "109 No. Amranga Gaon Panchayat",
+      "description": "109 No. Amranga Gaon Panchayat",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "109 No. Amranga Gaon Panchayat",
+        "districtName": "Kamrup",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "KAMRUP",
+        "districtTenantCode": "as.amrangagp",
+        "planningAreaCode": "PALASHBARIMIRZAVIJAYNAGAR_MP",
+        "code": "2050",
+        "ddrName": "109 No. Amranga Gaon Panchayat"
+      }
+      },
+      {
+      "code": "as.parllyhudumpurgp",
+      "name": "Parlly - Hudumpur GP",
+      "description": "Parlly - Hudumpur GP",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "Parlly - Hudumpur GP",
+        "districtName": "Kamrup",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "KAMRUP",
+        "districtTenantCode": "as.parllyhudumpurgp",
+        "planningAreaCode": "PALASHBARIMIRZAVIJAYNAGAR_MP",
+        "code": "2051",
+        "ddrName": "Parlly - Hudumpur GP"
+      }
+      },
+      {
+      "code": "as.bangaragp",
+      "name": "107 No. Bangara GP",
+      "description": "107 No. Bangara GP",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "107 No. Bangara GP",
+        "districtName": "Kamrup",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "KAMRUP",
+        "districtTenantCode": "as.bangaragp",
+        "planningAreaCode": "PALASHBARIMIRZAVIJAYNAGAR_MP",
+        "code": "2052",
+        "ddrName": "107 No. Bangara GP"
+      }
+      },
+      {
+      "code": "as.rajapukhuribarantirangamatigp",
+      "name": "23 No. Rajapukhuri - Baranti Rangamati GP",
+      "description": "23 No. Rajapukhuri - Baranti Rangamati GP",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "23 No. Rajapukhuri - Baranti Rangamati GP",
+        "districtName": "Kamrup",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "KAMRUP",
+        "districtTenantCode": "as.rajapukhuribarantirangamatigp",
+        "planningAreaCode": "PALASHBARIMIRZAVIJAYNAGAR_MP",
+        "code": "2053",
+        "ddrName": "23 No. Rajapukhuri - Baranti Rangamati GP"
+      }
+      },
+      {
+      "code": "as.nahiragp",
+      "name": "31 No. Nahira GP",
+      "description": "31 No. Nahira GP",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "31 No. Nahira GP",
+        "districtName": "Kamrup",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "KAMRUP",
+        "districtTenantCode": "as.nahiragp",
+        "planningAreaCode": "PALASHBARIMIRZAVIJAYNAGAR_MP",
+        "code": "2054",
+        "ddrName": "31 No. Nahira GP"
+      }
+      },
+      {
+      "code": "as.uparhali25gp",
+      "name": "25 No. Uparhali GP",
+      "description": "25 No. Uparhali GP",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "25 No. Uparhali GP",
+        "districtName": "Kamrup",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "KAMRUP",
+        "districtTenantCode": "as.uparhali25gp",
+        "planningAreaCode": "PALASHBARIMIRZAVIJAYNAGAR_MP",
+        "code": "2055",
+        "ddrName": "25 No. Uparhali GP"
+      }
+      },
+      {
+      "code": "as.uparhali26gp",
+      "name": "26 No. Uparhali GP",
+      "description": "26 No. Uparhali GP",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "26 No. Uparhali GP",
+        "districtName": "Kamrup",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "KAMRUP",
+        "districtTenantCode": "as.uparhali26gp",
+        "planningAreaCode": "PALASHBARIMIRZAVIJAYNAGAR_MP",
+        "code": "2056",
+        "ddrName": "26 No. Uparhali GP"
+      }
+      },
+      {
+      "code": "as.dahalidakhalagp",
+      "name": "24 No. Dahali Dakhala GP",
+      "description": "24 No. Dahali Dakhala GP",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "24 No. Dahali Dakhala GP",
+        "districtName": "Kamrup",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "KAMRUP",
+        "districtTenantCode": "as.dahalidakhalagp",
+        "planningAreaCode": "PALASHBARIMIRZAVIJAYNAGAR_MP",
+        "code": "2057",
+        "ddrName": "24 No. Dahali Dakhala GP"
+      }
+      },
+      {
+      "code": "as.majhirgaongp",
+      "name": "35 No. Majhirgaon GP",
+      "description": "35 No. Majhirgaon GP",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "35 No. Majhirgaon GP",
+        "districtName": "Kamrup",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "KAMRUP",
+        "districtTenantCode": "as.majhirgaongp",
+        "planningAreaCode": "PALASHBARIMIRZAVIJAYNAGAR_MP",
+        "code": "2058",
+        "ddrName": "35 No. Majhirgaon GP"
+      }
+      },
+      {
+      "code": "as.rangiamb",
+      "name": "Rangia Municipal Board",
+      "description": "Rangia Municipal Board",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": "info.rangiamb@gmail.com",
+      "city": {
+        "name": "Rangia Municipal Board",
+        "ulbGrade": "MUNICIPAL_BOARD",
+        "districtName": "Kamrup",
+        "districtCode": "KAMRUP",
+        "districtTenantCode": "as.rangiamb",
+        "planningAreaCode": "RANGIA_MP",
+        "code": "2059",
+        "ddrName": "Rangia Municipal Board"
+      }
+    },
+    {
+      "code": "as.padumkuwarigp",
+      "name": "Padum Kuwari GP",
+      "description": "Padum Kuwari GP",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "Padum Kuwari GP",
+        "districtName": "Kamrup",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "KAMRUP",
+        "districtTenantCode": "as.padumkuwarigp",
+        "planningAreaCode": "RANGIA_MP",
+        "code": "2060",
+        "ddrName": "Padum Kuwari GP"
+      }
+      },
+      {
+      "code": "as.buragohainarimattagp",
+      "name": "Buragohain(Arimatta) GP",
+      "description": "Buragohain(Arimatta) GP",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "Buragohain(Arimatta) GP",
+        "districtName": "Kamrup",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "KAMRUP",
+        "districtTenantCode": "as.buragohainarimattagp",
+        "planningAreaCode": "RANGIA_MP",
+        "code": "2061",
+        "ddrName": "Buragohain(Arimatta) GP"
+      }
+      },
+      {
+      "code": "as.moranjanagp",
+      "name": "Moranjana GP",
+      "description": "Moranjana GP",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "Moranjana GP",
+        "districtName": "Kamrup",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "KAMRUP",
+        "districtTenantCode": "as.moranjanagp",
+        "planningAreaCode": "RANGIA_MP",
+        "code": "2062",
+        "ddrName": "Moranjana GP"
+      }
+      },
+      {
+      "code": "as.bardalgp",
+      "name": "Bardal GP",
+      "description": "Bardal GP",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "Bardal GP",
+        "districtName": "Kamrup",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "KAMRUP",
+        "districtTenantCode": "as.bardalgp",
+        "planningAreaCode": "RANGIA_MP",
+        "code": "2063",
+        "ddrName": "Bardal GP"
+      }
+      },
+      {
+      "code": "as.madhyapandurigp",
+      "name": "Madhya Panduri GP",
+      "description": "Madhya Panduri GP",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "Madhya Panduri GP",
+        "districtName": "Kamrup",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "KAMRUP",
+        "districtTenantCode": "as.madhyapandurigp",
+        "planningAreaCode": "RANGIA_MP",
+        "code": "2064",
+        "ddrName": "Madhya Panduri GP"
+      }
+      }
   ]
 }

@@ -1,0 +1,355 @@
+{
+    "tenantId": "as.rangiamb",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Rangia Municipal Board",
+                "localname": "Rangia Municipal Board",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.rangiamb",
+                "children": [
+                    {
+                        "id": "7e9c1a00-11f0-4d8b-b001-11a7a001501",
+                        "boundaryNum": 1,
+                        "name": "WARD_1",
+                        "localname": "WARD_1",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "WardNo",
+                        "code": "RangiaW1",
+                        "children": [
+                            {
+                                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002516",
+                                "boundaryNum": 1,
+                                "name": "Rangia Town",
+                                "localname": "Rangia Town",
+                                "label": "RevenueVillage",
+                                "code": "RangiaW1V1",
+                                "children": []
+                            },
+                            {
+                                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002517",
+                                "boundaryNum": 1,
+                                "name": "Gurkuchi",
+                                "localname": "Gurkuchi",
+                                "label": "RevenueVillage",
+                                "code": "RangiaW1V2",
+                                "children": []
+                            },
+                            {
+                                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002518",
+                                "boundaryNum": 1,
+                                "name": "Dakshin Satra",
+                                "localname": "Dakshin Satra",
+                                "label": "RevenueVillage",
+                                "code": "RangiaW1V3",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "7e9c1a00-11f0-4d8b-b001-11a7a001519",
+                        "boundaryNum": 1,
+                        "name": "WARD_2",
+                        "localname": "WARD_2",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "WardNo",
+                        "code": "RangiaW2",
+                        "children": [
+                            {
+                                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002520",
+                                "boundaryNum": 1,
+                                "name": "Rangia Town",
+                                "localname": "Rangia Town",
+                                "label": "RevenueVillage",
+                                "code": "RangiaW2V1"
+                            },
+                            {
+                                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002521",
+                                "boundaryNum": 1,
+                                "name": "Gurkuchi",
+                                "localname": "Gurkuchi",
+                                "label": "RevenueVillage",
+                                "code": "RangiaW2V2"
+                            },
+                            {
+                                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002522",
+                                "boundaryNum": 1,
+                                "name": "Bongaon",
+                                "localname": "Bongaon",
+                                "label": "RevenueVillage",
+                                "code": "RangiaW2V3"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "7e9c1a00-11f0-4d8b-b001-11a7a001523",
+                        "boundaryNum": 1,
+                        "name": "WARD_3",
+                        "localname": "WARD_3",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "WardNo",
+                        "code": "RangiaW3",
+                        "children": [
+                            {
+                                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002524",
+                                "boundaryNum": 1,
+                                "name": "Rangia Town",
+                                "localname": "Rangia Town",
+                                "label": "RevenueVillage",
+                                "code": "RangiaW3V1"
+                            },
+                            {
+                                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002525",
+                                "boundaryNum": 1,
+                                "name": "Murara",
+                                "localname": "Murara",
+                                "label": "RevenueVillage",
+                                "code": "RangiaW3V2"
+                            },
+                            {
+                                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002526",
+                                "boundaryNum": 1,
+                                "name": "Bongaon",
+                                "localname": "Bongaon",
+                                "label": "RevenueVillage",
+                                "code": "RangiaW3V3"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "7e9c1a00-11f0-4d8b-b001-11a7a001527",
+                        "boundaryNum": 1,
+                        "name": "WARD_4",
+                        "localname": "WARD_4",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "WardNo",
+                        "code": "RangiaW4",
+                        "children": [
+                            {
+                                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002528",
+                                "boundaryNum": 1,
+                                "name": "Rangia Town",
+                                "localname": "Rangia Town",
+                                "label": "RevenueVillage",
+                                "code": "RangiaW4V1"
+                            },
+                            {
+                                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002529",
+                                "boundaryNum": 1,
+                                "name": "Murara",
+                                "localname": "Murara",
+                                "label": "RevenueVillage",
+                                "code": "RangiaW4V2"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "7e9c1a00-11f0-4d8b-b001-11a7a001530",
+                        "boundaryNum": 1,
+                        "name": "WARD_5",
+                        "localname": "WARD_5",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "WardNo",
+                        "code": "RangiaW5",
+                        "children": [
+                            {
+                                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002531",
+                                "boundaryNum": 1,
+                                "name": "Rangia Town",
+                                "localname": "Rangia Town",
+                                "label": "RevenueVillage",
+                                "code": "RangiaW5V1"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "7e9c1a00-11f0-4d8b-b001-11a7a001532",
+                        "boundaryNum": 1,
+                        "name": "WARD_6",
+                        "localname": "WARD_6",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "WardNo",
+                        "code": "RangiaW6",
+                        "children": [
+                            {
+                                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002533",
+                                "boundaryNum": 1,
+                                "name": "Rangia Town",
+                                "localname": "Rangia Town",
+                                "label": "RevenueVillage",
+                                "code": "RangiaW6V1"
+                            },
+                            {
+                                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002534",
+                                "boundaryNum": 1,
+                                "name": "Gogmalcha",
+                                "localname": "Gogmalcha",
+                                "label": "RevenueVillage",
+                                "code": "RangiaW6V2"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "7e9c1a00-11f0-4d8b-b001-11a7a001535",
+                        "boundaryNum": 1,
+                        "name": "WARD_7",
+                        "localname": "WARD_7",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "WardNo",
+                        "code": "RangiaW7",
+                        "children": [
+                            {
+                                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002536",
+                                "boundaryNum": 1,
+                                "name": "Rangia Town",
+                                "localname": "Rangia Town",
+                                "label": "RevenueVillage",
+                                "code": "RangiaW7V1"
+                            },
+                             {
+                                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002537",
+                                "boundaryNum": 1,
+                                "name": "Gogmalcha",
+                                "localname": "Gogmalcha",
+                                "label": "RevenueVillage",
+                                "code": "RangiaW7V2"
+                            },
+                             {
+                                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002538",
+                                "boundaryNum": 1,
+                                "name": "Dakshin Satra",
+                                "localname": "Dakshin Satra",
+                                "label": "RevenueVillage",
+                                "code": "RangiaW7V3"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "7e9c1a00-11f0-4d8b-b001-11a7a001539",
+                        "boundaryNum": 1,
+                        "name": "WARD_8",
+                        "localname": "WARD_8",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "WardNo",
+                        "code": "RangiaW8",
+                        "children": [
+                            {
+                                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002540",
+                                "boundaryNum": 1,
+                                "name": "Kachari solmari part 1",
+                                "localname": "Kachari solmari part 1",
+                                "label": "RevenueVillage",
+                                "code": "RangiaW8V1"
+                            },
+                            {
+                                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002541",
+                                "boundaryNum": 1,
+                                "name": "Kachari Solmari Part 2",
+                                "localname": "Kachari Solmari Part 2",
+                                "label": "RevenueVillage",
+                                "code": "RangiaW8V2"
+                            },
+                            {
+                                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002542",
+                                "boundaryNum": 1,
+                                "name": "Murara",
+                                "localname": "Murara",
+                                "label": "RevenueVillage",
+                                "code": "RangiaW8V3"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "7e9c1a00-11f0-4d8b-b001-11a7a001543",
+                        "boundaryNum": 1,
+                        "name": "WARD_9",
+                        "localname": "WARD_9",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "WardNo",
+                        "code": "RangiaW9",
+                        "children": [
+                            {
+                                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002544",
+                                "boundaryNum": 1,
+                                "name": "Rangia Town",
+                                "localname": "Rangia Town",
+                                "label": "RevenueVillage",
+                                "code": "RangiaW9V1"
+                            },
+                            {
+                                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002545",
+                                "boundaryNum": 1,
+                                "name": "Gogmalcha",
+                                "localname": "Gogmalcha",
+                                "label": "RevenueVillage",
+                                "code": "RangiaW9V2"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "7e9c1a00-11f0-4d8b-b001-11a7a001546",
+                        "boundaryNum": 1,
+                        "name": "WARD_10",
+                        "localname": "WARD_10",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "WardNo",
+                        "code": "RangiaW10",
+                        "children": [
+                            {
+                                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002547",
+                                "boundaryNum": 1,
+                                "name": "Rangia Town",
+                                "localname": "Rangia Town",
+                                "label": "RevenueVillage",
+                                "code": "RangiaW10V1"
+                            },
+                            {
+                                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002548",
+                                "boundaryNum": 1,
+                                "name": "Gogmalcha",
+                                "localname": "Gogmalcha",
+                                "label": "RevenueVillage",
+                                "code": "RangiaW10V2"
+                            },
+                            {
+                                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002549",
+                                "boundaryNum": 1,
+                                "name": "Sirakhundi Part 1",
+                                "localname": "Sirakhundi Part 1",
+                                "label": "RevenueVillage",
+                                "code": "RangiaW10V3"
+                            },
+                            {
+                                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002550",
+                                "boundaryNum": 1,
+                                "name": "Sirakhundi Part 2",
+                                "localname": "Sirakhundi Part 2",
+                                "label": "RevenueVillage",
+                                "code": "RangiaW10V4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}
