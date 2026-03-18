@@ -2233,7 +2233,7 @@
       "languagesSpoken": ["HN", "EN"]
     },
     {
-      "code": "as.palashanitelia",
+      "code": "as.palashaniteliapahukata",
       "districtCode": "PALASHANI_TELIA_PAHUKATA",
       "population": "37157",
       "malePopulation": "17883",
@@ -3121,6 +3121,206 @@
       "workingPopulation": "31.16",
       "literacyRate": "93.53",
       "languagesSpoken": ["HN", "EN"]
-    }
+    },
+    {
+      "code": "as.palashbarimb",
+      "districtCode": "KAMRUP",
+      "population": "406192",
+      "malePopulation": "6815",
+      "femalePopultion": "5700",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": ["HN", "EN"]
+    },
+    {
+      "code": "as.kochparagp",
+      "districtCode": "KAMRUP" ,
+      "population": "33632",
+      "malePopulation": "16510",
+      "femalePopulation": "17122",
+      "workingPopulation": "31.16",
+      "literacyRate": "93.53",
+      "languagesSpoken": ["HN", "EN"]
+    },
+    {
+      "code": "as.maliata108gp",
+      "districtCode": "KAMRUP" ,
+      "population": "33632",
+      "malePopulation": "16510",
+      "femalePopulation": "17122",
+      "workingPopulation": "31.16",
+      "literacyRate": "93.53",
+      "languagesSpoken": ["HN", "EN"]
+    },
+    {
+      "code": "as.saraparagp",
+      "districtCode": "KAMRUP" ,
+      "population": "33632",
+      "malePopulation": "16510",
+      "femalePopulation": "17122",
+      "workingPopulation": "31.16",
+      "literacyRate": "93.53",
+      "languagesSpoken": ["HN", "EN"]
+    },
+    {
+      "code": "as.barantimoniariparakuchigp",
+      "districtCode": "KAMRUP" ,
+      "population": "33632",
+      "malePopulation": "16510",
+      "femalePopulation": "17122",
+      "workingPopulation": "31.16",
+      "literacyRate": "93.53",
+      "languagesSpoken": ["HN", "EN"]
+      },
+      {
+      "code": "as.amrangagp",
+      "districtCode": "KAMRUP" ,
+      "population": "33632",
+      "malePopulation": "16510",
+      "femalePopulation": "17122",
+      "workingPopulation": "31.16",
+      "literacyRate": "93.53",
+      "languagesSpoken": ["HN", "EN"]
+      },
+      {
+       "code": "as.parllyhudumpurgp",
+      "districtCode": "KAMRUP" ,
+      "population": "33632",
+      "malePopulation": "16510",
+      "femalePopulation": "17122",
+      "workingPopulation": "31.16",
+      "literacyRate": "93.53",
+      "languagesSpoken": ["HN", "EN"]
+      },
+      {
+       "code": "as.bangaragp",
+      "districtCode": "KAMRUP" ,
+      "population": "33632",
+      "malePopulation": "16510",
+      "femalePopulation": "17122",
+      "workingPopulation": "31.16",
+      "literacyRate": "93.53",
+      "languagesSpoken": ["HN", "EN"]
+      },
+      {
+       "code": "as.rajapukhuribarantirangamatigp",
+      "districtCode": "KAMRUP" ,
+      "population": "33632",
+      "malePopulation": "16510",
+      "femalePopulation": "17122",
+      "workingPopulation": "31.16",
+      "literacyRate": "93.53",
+      "languagesSpoken": ["HN", "EN"]
+      },
+      {
+       "code": "as.nahiragp",
+      "districtCode": "KAMRUP" ,
+      "population": "33632",
+      "malePopulation": "16510",
+      "femalePopulation": "17122",
+      "workingPopulation": "31.16",
+      "literacyRate": "93.53",
+      "languagesSpoken": ["HN", "EN"]
+      },
+      {
+       "code": "as.uparhali25gp",
+      "districtCode": "KAMRUP" ,
+      "population": "33632",
+      "malePopulation": "16510",
+      "femalePopulation": "17122",
+      "workingPopulation": "31.16",
+      "literacyRate": "93.53",
+      "languagesSpoken": ["HN", "EN"]
+      },
+      {
+       "code": "as.uparhali26gp",
+      "districtCode": "KAMRUP" ,
+      "population": "33632",
+      "malePopulation": "16510",
+      "femalePopulation": "17122",
+      "workingPopulation": "31.16",
+      "literacyRate": "93.53",
+      "languagesSpoken": ["HN", "EN"]
+      },
+      {
+       "code": "as.dahalidakhalagp",
+      "districtCode": "KAMRUP" ,
+      "population": "33632",
+      "malePopulation": "16510",
+      "femalePopulation": "17122",
+      "workingPopulation": "31.16",
+      "literacyRate": "93.53",
+      "languagesSpoken": ["HN", "EN"]
+      },
+      {
+       "code": "as.majhirgaongp",
+      "districtCode": "KAMRUP" ,
+      "population": "33632",
+      "malePopulation": "16510",
+      "femalePopulation": "17122",
+      "workingPopulation": "31.16",
+      "literacyRate": "93.53",
+      "languagesSpoken": ["HN", "EN"]
+      },
+      {
+       "code": "as.rangiamb",
+      "districtCode": "KAMRUP" ,
+      "population": "33632",
+      "malePopulation": "16510",
+      "femalePopulation": "17122",
+      "workingPopulation": "31.16",
+      "literacyRate": "93.53",
+      "languagesSpoken": ["HN", "EN"]
+      },
+      {
+       "code": "as.padumkuwarigp",
+      "districtCode": "KAMRUP" ,
+      "population": "33632",
+      "malePopulation": "16510",
+      "femalePopulation": "17122",
+      "workingPopulation": "31.16",
+      "literacyRate": "93.53",
+      "languagesSpoken": ["HN", "EN"]
+      },
+      {
+       "code": "as.buragohainarimattagp",
+      "districtCode": "KAMRUP" ,
+      "population": "33632",
+      "malePopulation": "16510",
+      "femalePopulation": "17122",
+      "workingPopulation": "31.16",
+      "literacyRate": "93.53",
+      "languagesSpoken": ["HN", "EN"]
+      },
+      {
+       "code": "as.moranjanagp",
+      "districtCode": "KAMRUP" ,
+      "population": "33632",
+      "malePopulation": "16510",
+      "femalePopulation": "17122",
+      "workingPopulation": "31.16",
+      "literacyRate": "93.53",
+      "languagesSpoken": ["HN", "EN"]
+      },
+      {
+       "code": "as.bardalgp",
+      "districtCode": "KAMRUP" ,
+      "population": "33632",
+      "malePopulation": "16510",
+      "femalePopulation": "17122",
+      "workingPopulation": "31.16",
+      "literacyRate": "93.53",
+      "languagesSpoken": ["HN", "EN"]
+      },
+      {
+       "code": "as.madhyapandurigp",
+      "districtCode": "KAMRUP" ,
+      "population": "33632",
+      "malePopulation": "16510",
+      "femalePopulation": "17122",
+      "workingPopulation": "31.16",
+      "literacyRate": "93.53",
+      "languagesSpoken": ["HN", "EN"]
+      }
   ]
 }

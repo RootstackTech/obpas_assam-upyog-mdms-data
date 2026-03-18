@@ -1,0 +1,104 @@
+{
+    "tenantId": "as.buragohainarimattagp",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Buragohain(Arimatta) GP",
+                "localname": "Buragohain(Arimatta) GP",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.buragohainarimattagp",
+                "children": [
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c0",
+                        "boundaryNum": 1,
+                        "name": "Udiana",
+                        "localname": "Udiana",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "BuragohainarimattaV1"
+                    },
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c1",
+                        "boundaryNum": 1,
+                        "name": "Gurukuchi",
+                        "localname": "Gurukuchi",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "BuragohainarimattaV2"
+                    },
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c2",
+                        "boundaryNum": 1,
+                        "name": "Dakhin Sitara",
+                        "localname": "Dakhin Sitara",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "BuragohainarimattaV3"
+                    },
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c3",
+                        "boundaryNum": 1,
+                        "name": "Gogmalacha",
+                        "localname": "Gogmalacha",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "BuragohainarimattaV4"
+                    },
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c4",
+                        "boundaryNum": 1,
+                        "name": "Balagaon",
+                        "localname": "Balagaon",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "BuragohainarimattaV5"
+                    },
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c5",
+                        "boundaryNum": 1,
+                        "name": "Pub Sitara",
+                        "localname": "Pub Sitara",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "BuragohainarimattaV6"
+                    },
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c6",
+                        "boundaryNum": 1,
+                        "name": "Tatarkuchi",
+                        "localname": "Tatarkuchi",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "BuragohainarimattaV7"
+                    },
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c7",
+                        "boundaryNum": 1,
+                        "name": "Dalaigaon",
+                        "localname": "Dalaigaon",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "BuragohainarimattaV8"
+                    }
+                ]
+            }
+        }
+    ]
+}

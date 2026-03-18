@@ -1,0 +1,34 @@
+{
+    "tenantId": "as.moranjanagp",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Moranjana GP",
+                "localname": "Moranjana GP",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.moranjanagp",
+                "children": [
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c0",
+                        "boundaryNum": 1,
+                        "name": "Keknikuchi",
+                        "localname": "Keknikuchi",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "MoranjanaV1"
+                    }
+                ]
+            }
+        }
+    ]
+}

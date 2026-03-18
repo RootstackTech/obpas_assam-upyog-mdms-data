@@ -1,0 +1,64 @@
+{
+    "tenantId": "as.kochparagp",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "105 No. Kochpara GP",
+                "localname": "105 No. Kochpara GP",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.kochparagp",
+                "children": [
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c0",
+                        "boundaryNum": 1,
+                        "name": "Kochpara part 1",
+                        "localname": "Kochpara part 1",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "KochparaV1"
+                    },
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c0",
+                        "boundaryNum": 1,
+                        "name": "Kochpara part 2",
+                        "localname": "Kochpara part 2",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "KochparaV2"
+                    },
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c0",
+                        "boundaryNum": 1,
+                        "name": "Kochpara part 3",
+                        "localname": "Kochpara part 3",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "KochparaV3"
+                    },
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c0",
+                        "boundaryNum": 1,
+                        "name": "Kokjhar",
+                        "localname": "Kokjhar",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "KochparaV4"
+                    }
+                ]
+            }
+        }
+    ]
+}

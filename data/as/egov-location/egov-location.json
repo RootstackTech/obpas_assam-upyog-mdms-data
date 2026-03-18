@@ -808,6 +808,78 @@
             ]
           }
         ]
+      },
+      {
+        "id": 27,
+        "districtCode": "KAMRUP",
+        "districtName": "Kamrup",
+        "active": true,
+        "planningAreas": [
+          {
+            "id": 28,
+            "districtCode": "KAMRUP",
+            "planningAreaCode": "PALASHBARIMIRZAVIJAYNAGAR_MP",
+            "planningAreaName": "Palashbari Mirza VijayNagar Master Plan",
+            "planningAreaGisCode": "Palashbari",
+            "active": true,
+            "ppAuthority": {
+              "id": 29,
+              "planningAreaCode": "PALASHBARIMIRZAVIJAYNAGAR_MP",
+              "districtCode": "KAMRUP",
+              "ppAuthorityCode": "TOWN_AND_COUNTRY_PLANNING",
+              "ppAuthorityName": "Town and Country Planning",
+              "active": true
+            },
+            "bpAuthorities": [
+              {
+                "name": "MUNICIPAL_BOARD",
+                "code": "MUNICIPAL_BOARD",
+                "active": true
+              },
+               {
+                "name": "GRAM_PANCHAYAT",
+                "code": "GRAM_PANCHAYAT",
+                "active": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 30,
+        "districtCode": "KAMRUP",
+        "districtName": "Kamrup",
+        "active": true,
+        "planningAreas": [
+          {
+            "id": 31,
+            "districtCode": "KAMRUP",
+            "planningAreaCode": "RANGIA_MP",
+            "planningAreaName": "Rangia Master Plan",
+            "planningAreaGisCode": "Rangia",
+            "active": true,
+            "ppAuthority": {
+              "id": 32,
+              "planningAreaCode": "RANGIA_MP",
+              "districtCode": "KAMRUP",
+              "ppAuthorityCode": "TOWN_AND_COUNTRY_PLANNING",
+              "ppAuthorityName": "Town and Country Planning",
+              "active": true
+            },
+            "bpAuthorities": [
+              {
+                "name": "MUNICIPAL_BOARD",
+                "code": "MUNICIPAL_BOARD",
+                "active": true
+              },
+               {
+                "name": "GRAM_PANCHAYAT",
+                "code": "GRAM_PANCHAYAT",
+                "active": true
+              }
+            ]
+          }
+        ]
       }
         
       ]

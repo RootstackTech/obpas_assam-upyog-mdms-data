@@ -1,0 +1,34 @@
+{
+    "tenantId": "as.madhyapandurigp",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Madhya Panduri GP",
+                "localname": "Madhya Panduri GP",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.madhyapandurigp",
+                "children": [
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c0",
+                        "boundaryNum": 1,
+                        "name": "Paschim Sitara",
+                        "localname": "Paschim Sitara",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "MadhyapanduriV1"
+                    }
+                ]
+            }
+        }
+    ]
+}

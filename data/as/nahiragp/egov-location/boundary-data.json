@@ -1,0 +1,94 @@
+{
+    "tenantId": "as.nahiragp",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "31 No. Nahira GP",
+                "localname": "31 No. Nahira GP",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.nahiragp",
+                "children": [
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c0",
+                        "boundaryNum": 1,
+                        "name": "Nahira Part 3",
+                        "localname": "Nahira Part 3",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "NahiraV1"
+                    },
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c1",
+                        "boundaryNum": 1,
+                        "name": "Nahira Part 2",
+                        "localname": "Nahira Part 2",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "NahiraV2"
+                    },
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c2",
+                        "boundaryNum": 1,
+                        "name": "Nahira Part 1",
+                        "localname": "Nahira Part 1",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "NahiraV3"
+                    },
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c3",
+                        "boundaryNum": 1,
+                        "name": "No.2 Rampur",
+                        "localname": "No.2 Rampur",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "NahiraV4"
+                    },
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c4",
+                        "boundaryNum": 1,
+                        "name": "No.3 Rampur",
+                        "localname": "No.3 Rampur",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "NahiraV5"
+                    },
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c5",
+                        "boundaryNum": 1,
+                        "name": "No.1 Rampur Part 2",
+                        "localname": "No.1 Rampur Part 2",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "NahiraV6"
+                    },
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c6",
+                        "boundaryNum": 1,
+                        "name": "No.1 Rampur Part 1",
+                        "localname": "No.1 Rampur Part 1",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "NahiraV7"
+                    }
+                ]
+            }
+        }
+    ]
+}

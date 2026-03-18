@@ -1,0 +1,34 @@
+{
+    "tenantId": "as.saraparagp",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "26 No. Sarpara GP",
+                "localname": "26 No. Sarpara GP",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.saraparagp",
+                "children": [
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c0",
+                        "boundaryNum": 1,
+                        "name": "Sarapara",
+                        "localname": "Sarapara",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "SaraparaV1"
+                    }
+                ]
+            }
+        }
+    ]
+}
