@@ -1,5 +1,5 @@
 {
-  "tenantId": "as.lahowal",
+  "tenantId": "as.lahowalgp",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "as.lahowal",
+        "code": "as.lahowalgp",
         "children": [
           {
             "id": "de13c8fc-3427-4791-b326-66f3068d90ba",
@@ -70,6 +70,17 @@
             "latitude": null,
             "label": "Village",
             "code": "LahowalV5",
+            "children": []
+          },
+          {
+            "id": "97af1ae8-ebb6-4403-b0f4-36d019f22b9e",
+            "boundaryNum": 1,
+            "name": "Niz Moidomia",
+            "localname": "Niz Moidomia",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "LahowalV6",
             "children": []
           }
         ]

@@ -137,6 +137,17 @@
             "label": "Village",
             "code": "BorpotharV11",
             "children": []
+          },
+          {
+            "id": "97c7703c-3ce2-45cf-a4e3-e60f7a169d65",
+            "boundaryNum": 1,
+            "name": "Changamari Habi",
+            "localname": "Changamari Habi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BorpotharV12",
+            "children": []
           }
         ]
       }
