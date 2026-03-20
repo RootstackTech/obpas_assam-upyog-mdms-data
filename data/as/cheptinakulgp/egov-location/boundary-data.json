@@ -1,0 +1,64 @@
+{
+    "tenantId": "as.cheptinakulgp",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Chepti Nakul GP",
+                "localname": "Chepti Nakul GP",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.cheptinakulgp",
+                "children": [
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c0",
+                        "boundaryNum": 1,
+                        "name": "Nakul",
+                        "localname": "Nakul",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "CheptiNakulV1"
+                    },
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c1",
+                        "boundaryNum": 1,
+                        "name": "Garaka",
+                        "localname": "Garaka",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "CheptiNakulV2"
+                    },
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c2",
+                        "boundaryNum": 1,
+                        "name": "Chepti",
+                        "localname": "Chepti",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "CheptiNakulV3"
+                    },
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c3",
+                        "boundaryNum": 1,
+                        "name": "Murara",
+                        "localname": "Murara",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "CheptiNakulV4"
+                    }
+                ]
+            }
+        }
+    ]
+}
