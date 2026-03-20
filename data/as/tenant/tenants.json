@@ -126,7 +126,7 @@
       }
     },
     {
-      "code": "as.silchar",
+      "code": "as.silcharmc",
       "name": "Silchar",
       "description": "Silchar",
       "pincode": [
@@ -142,7 +142,7 @@
         "name": "Silchar",
         "districtCode": "CACHAR",
         "districtName": "Cachar",
-        "districtTenantCode": "as.silchar",
+        "districtTenantCode": "as.silcharmc",
         "planningAreaCode": "SILCHAR_MP",
         "ulbGrade": "MUNICIPAL_BOARD",
         "code": "1517",
@@ -843,9 +843,9 @@
       }
     },
     {
-      "code": "as.lahowal",
-      "name": "Lahowal",
-      "description": "Lahowal",
+      "code": "as.lahowalgp",
+      "name": "Lahowal Gram Panchayat",
+      "description": "Lahowal Gram Panchayat",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -1361,7 +1361,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "CACHAR",
         "districtName": "Cachar",
-        "districtTenantCode": "as.silchar",
+        "districtTenantCode": "as.silcharmc",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1659",
         "ddrName": "Madhur Bond Gram Panchayat"
@@ -1382,7 +1382,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "CACHAR",
         "districtName": "Cachar",
-        "districtTenantCode": "as.silchar",
+        "districtTenantCode": "as.silcharmc",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1660",
         "ddrName": "Berenga- Gram Panchayat"
@@ -1403,7 +1403,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "CACHAR",
         "districtName": "Cachar",
-        "districtTenantCode": "as.silchar",
+        "districtTenantCode": "as.silcharmc",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1661",
         "ddrName": "Bhagadhar Barjurai Gram Panchayat"
@@ -1424,7 +1424,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "CACHAR",
         "districtName": "Cachar",
-        "districtTenantCode": "as.silchar",
+        "districtTenantCode": "as.silcharmc",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1662",
         "ddrName": "Ambikapur Gram Panchayat"
@@ -1445,7 +1445,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "CACHAR",
         "districtName": "Cachar",
-        "districtTenantCode": "as.silchar",
+        "districtTenantCode": "as.silcharmc",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1663",
         "ddrName": "5 No Ghungoor Gram Panchayat"
@@ -1466,7 +1466,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "CACHAR",
         "districtName": "Cachar",
-        "districtTenantCode": "as.silchar",
+        "districtTenantCode": "as.silcharmc",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1664",
         "ddrName": "Bhanjantipur Gram Panchayat"
@@ -1487,7 +1487,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "CACHAR",
         "districtName": "Cachar",
-        "districtTenantCode": "as.silchar",
+        "districtTenantCode": "as.silcharmc",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1665",
         "ddrName": "Meherpur Gram Panchayat"
@@ -1508,7 +1508,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "CACHAR",
         "districtName": "Cachar",
-        "districtTenantCode": "as.silchar",
+        "districtTenantCode": "as.silcharmc",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1666",
         "ddrName": "Kanakpur Gram Panchayat"
@@ -1529,7 +1529,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "CACHAR",
         "districtName": "Cachar",
-        "districtTenantCode": "as.silchar",
+        "districtTenantCode": "as.silcharmc",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1667",
         "ddrName": "Rongpur Gram Panchayat"
@@ -1550,7 +1550,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "CACHAR",
         "districtName": "Cachar",
-        "districtTenantCode": "as.silchar",
+        "districtTenantCode": "as.silcharmc",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1668",
         "ddrName": "Uttar Krishnapur Gram Panchayat"
@@ -1571,7 +1571,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "CACHAR",
         "districtName": "Cachar",
-        "districtTenantCode": "as.silchar",
+        "districtTenantCode": "as.silcharmc",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1669",
         "ddrName": "Dakshin Krishnapur Gram Panchayat"
@@ -1592,7 +1592,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "CACHAR",
         "districtName": "Cachar",
-        "districtTenantCode": "as.silchar",
+        "districtTenantCode": "as.silcharmc",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1670",
         "ddrName": "Tupkhana Gram Panchayat"
@@ -1613,7 +1613,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "CACHAR",
         "districtName": "Cachar",
-        "districtTenantCode": "as.silchar",
+        "districtTenantCode": "as.silcharmc",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1671",
         "ddrName": "107 No. Ghoungoor Gram Panchayat"
@@ -1634,7 +1634,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "CACHAR",
         "districtName": "Cachar",
-        "districtTenantCode": "as.silchar",
+        "districtTenantCode": "as.silcharmc",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1672",
         "ddrName": "Bhorakhai Gram Panchayat"
@@ -1655,7 +1655,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "CACHAR",
         "districtName": "Cachar",
-        "districtTenantCode": "as.silchar",
+        "districtTenantCode": "as.silcharmc",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1673",
         "ddrName": "Tarutajabari Gram Panchayat"
@@ -1676,7 +1676,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "CACHAR",
         "districtName": "Cachar",
-        "districtTenantCode": "as.silchar",
+        "districtTenantCode": "as.silcharmc",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1674",
         "ddrName": "Chenkoori Gram Panchayat"
@@ -1697,7 +1697,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "CACHAR",
         "districtName": "Cachar",
-        "districtTenantCode": "as.silchar",
+        "districtTenantCode": "as.silcharmc",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1675",
         "ddrName": "Rajnagar Gram Panchayat"
@@ -1718,7 +1718,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "CACHAR",
         "districtName": "Cachar",
-        "districtTenantCode": "as.silchar",
+        "districtTenantCode": "as.silcharmc",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1676",
         "ddrName": "Kumarpara Nizjoinagar Gram Panchayat"
@@ -7015,6 +7015,69 @@
         "code": "2064",
         "ddrName": "Madhya Panduri GP"
       }
+      },
+      {
+      "code": "as.cheptinakulgp",
+      "name": "Chepti Nakul GP",
+      "description": "Chepti Nakul GP",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "Chepti Nakul GP",
+        "districtName": "Kamrup",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "KAMRUP",
+        "districtTenantCode": "as.cheptinakulgp",
+        "planningAreaCode": "RANGIA_MP",
+        "code": "2065",
+        "ddrName": "Chepti Nakul GP"
       }
+      },
+      {
+      "code": "as.palashbaritcp",
+      "name": "Palashbari Town and Country Planning",
+      "description": "Palashbari Town and Country Planning",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "Palashbari Town and Country Planning",
+        "districtName": "Kamrup",
+        "ulbGrade": "TOWN_AND_COUNTRY_PLANNING",
+        "districtCode": "KAMRUP",
+        "districtTenantCode": "as.palashbaritcp",
+        "planningAreaCode": "PALASHBARIMIRZAVIJAYNAGAR_MP",
+        "code": "2066",
+        "ddrName": "Palashbari Town and Country Planning"
+      }
+    },
+      {
+      "code": "as.rangiatcp",
+      "name": "Rangia Town and Country Planning",
+      "description": "Rangia Town and Country Planning",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "Rangia Town and Country Planning",
+        "districtName": "Kamrup",
+        "ulbGrade": "TOWN_AND_COUNTRY_PLANNING",
+        "districtCode": "KAMRUP",
+        "districtTenantCode": "as.rangiatcp",
+        "planningAreaCode": "RANGIA_MP",
+        "code": "2067",
+        "ddrName": "Rangia Town and Country Planning"
+      }
+    }
   ]
 }
