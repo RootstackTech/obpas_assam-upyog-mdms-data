@@ -1,0 +1,46 @@
+{
+  "tenantId": "as.chatladurgakonagp",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Chatla Durgakona GP",
+        "localname": "Chatla Durgakona GP",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.chatladurgakonagp",
+        "children": [
+          {
+            "id": "e4c697c1-5531-49e7-8315-5a4f277df593",
+            "boundaryNum": 1,
+            "name": "Silcoorie Grant",
+            "localname": "Silcoorie Grant",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "ChatladurgakonaV1",
+            "children": []
+          },
+          {
+            "id": "fe73d04a-4113-4bb5-b467-93a72e92dce4",
+            "boundaryNum": 1,
+            "name": "Turutajabari Pt-I",
+            "localname": "Turutajabari Pt-I",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "ChatladurgakonaV2",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

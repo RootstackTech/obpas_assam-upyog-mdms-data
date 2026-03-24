@@ -1,0 +1,79 @@
+{
+  "tenantId": "as.chincooriegp",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Chincoorie GP",
+        "localname": "Chincoorie GP",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.chincooriegp",
+        "children": [
+          {
+            "id": "e4c697c1-5531-49e7-8315-5a4f277df593",
+            "boundaryNum": 1,
+            "name": "Bagalaghat Part -II",
+            "localname": "Bagalaghat Pt-II",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "ChenkooriV1",
+            "children": []
+          },
+          {
+            "id": "fe73d04a-4113-4bb5-b467-93a72e92dce4",
+            "boundaryNum": 1,
+            "name": "Tarutajabar Pt-I",
+            "localname": "Tarutajabar Pt-I",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "ChenkooriV2",
+            "children": []
+          },
+          {
+            "id": "fe73d04a-4113-4bb5-b467-93a72e92dce4",
+            "boundaryNum": 1,
+            "name": "Chencoorie Grant",
+            "localname": "Chencoorie Grant",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "ChenkooriV3",
+            "children": []
+          },
+          {
+            "id": "fb699cfb-5ab3-43b0-bb04-dac2be036472",
+            "boundaryNum": 1,
+            "name": "Bhajantipur Pt-I",
+            "localname": "Bhajantipur Pt-I",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "ChenkooriV4",
+            "children": []
+          },
+          {
+            "id": "fb699cfb-5ab3-43b0-bb04-dac2be036472",
+            "boundaryNum": 1,
+            "name": "Bhajantipur Pt-II",
+            "localname": "Bhajantipur Pt-II",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "ChenkooriV4",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "tenantId": "as.kumarparanizjoinagar",
+  "tenantId": "as.kathalgp",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,44 +10,33 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Kumarpara Nizjoinagar GP",
-        "localname": "Kumarpara Nizjoinagar GP",
+        "name": "Kathal GP",
+        "localname": "Kathal GP",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "as.kumarparanizjoinagar",
+        "code": "as.kathalgp",
         "children": [
                   {
             "id": "e4c697c1-5531-49e7-8315-5a4f277df593",
             "boundaryNum": 1,
-            "name": "Balighat",
-            "localname": "Balighat",
+            "name": "Bhajantipur Pt-III",
+            "localname": "Bhajantipur Pt-III",
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "KumarparaV1",
+            "code": "KathalV1",
             "children": []
           },
           {
             "id": "fe73d04a-4113-4bb5-b467-93a72e92dce4",
             "boundaryNum": 1,
-            "name": "Kumarpara",
-            "localname": "Kumarpara",
+            "name": "Jaifarpar",
+            "localname": "Jaifarpar",
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "KumarparaV2",
-            "children": []
-          },
-          {
-            "id": "fe73d04a-4113-4bb5-b467-93a72e92dce4",
-            "boundaryNum": 1,
-            "name": "Niz-Joynagar",
-            "localname": "Niz-Joynagar",
-            "longitude": null,
-            "latitude": null,
-            "label": "Village",
-            "code": "KumarparaV3",
+            "code": "KathalV2",
             "children": []
           }
         ]

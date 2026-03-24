@@ -1620,24 +1620,24 @@
       }
     },
     {
-      "code": "as.bhorakhai",
-      "name": "Bhorakhai",
-      "description": "Bhorakhai",
+      "code": "as.borakhaighungurgp",
+      "name": "Borakhai Ghungur GP",
+      "description": "Borakhai Ghungur GP",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "obpas.assam.gov.in",
       "type": "CITY",
-      "emailId": "info.bhorakhaigp@gmail.com",
+      "emailId": "info.borakhaighungurgp@gmail.com",
       "city": {
-        "name": "Bhorakhai GP",
+        "name": "Borakhai Ghungur GP",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "CACHAR",
         "districtName": "Cachar",
-        "districtTenantCode": "as.silcharmc",
+        "districtTenantCode": "as.borakhaighungurgp",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1672",
-        "ddrName": "Bhorakhai Gram Panchayat"
+        "ddrName": "Borakhai Ghungur GP"
       }
     },
     {
@@ -1662,24 +1662,24 @@
       }
     },
     {
-      "code": "as.chenkoori",
-      "name": "Chenkoori",
-      "description": "Chenkoori",
+      "code": "as.chincooriegp",
+      "name": "Chincoorie GP",
+      "description": "Chincoorie GP",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "obpas.assam.gov.in",
       "type": "CITY",
-      "emailId": "info.chenkoorigp@gmail.com",
+      "emailId": "info.chincooriegp@gmail.com",
       "city": {
-        "name": "Chenkoori GP",
+        "name": "Chincoorie GP",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "CACHAR",
         "districtName": "Cachar",
-        "districtTenantCode": "as.silcharmc",
+        "districtTenantCode": "as.chincooriegp",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1674",
-        "ddrName": "Chenkoori Gram Panchayat"
+        "ddrName": "Chincoorie GP"
       }
     },
     {
@@ -7077,6 +7077,90 @@
         "planningAreaCode": "RANGIA_MP",
         "code": "2067",
         "ddrName": "Rangia Town and Country Planning"
+      }
+    },
+    {
+      "code": "as.rakhalkhalerpartarapurgp",
+      "name": "Rakhal Khalerpar Tarapur GP",
+      "description": "Rakhal Khalerpar Tarapur GP",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": "info.rakhalkhalerpartarapurgp@gmail.com",
+      "city": {
+        "name": "Rakhal Khalerpar Tarapur GP",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "CACHAR",
+        "districtName": "Cachar",
+        "districtTenantCode": "as.rakhalkhalerpartarapurgp",
+        "planningAreaCode": "SILCHAR_MP",
+        "code": "2068",
+        "ddrName": "Rakhal Khalerpar Tarapur GP"
+      }
+    },
+    {
+      "code": "as.krishnapurbhairabnagargp",
+      "name": "Krishnapur Bhairabnagar GP",
+      "description": "Krishnapur Bhairabnagar GP",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": "info.krishnapurbhairabnagargp@gmail.com",
+      "city": {
+        "name": "Krishnapur Bhairabnagar GP",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "CACHAR",
+        "districtName": "Cachar",
+        "districtTenantCode": "as.krishnapurbhairabnagargp",
+        "planningAreaCode": "SILCHAR_MP",
+        "code": "2069",
+        "ddrName": "Krishnapur Bhairabnagar GP"
+      }
+    },
+    {
+      "code": "as.kathalgp",
+      "name": "Kathal GP",
+      "description": "Kathal GP",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": "info.kathalgp@gmail.com",
+      "city": {
+        "name": "Kathal GP",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "CACHAR",
+        "districtName": "Cachar",
+        "districtTenantCode": "as.kathalgp",
+        "planningAreaCode": "SILCHAR_MP",
+        "code": "2070",
+        "ddrName": "Kathal GP"
+      }
+    },
+    {
+      "code": "as.chatladurgakonagp",
+      "name": "Chatla Durgakona GP",
+      "description": "Chatla Durgakona GP",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": "info.chatladurgakonagp@gmail.com",
+      "city": {
+        "name": "Chatla Durgakona GP",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "CACHAR",
+        "districtName": "Cachar",
+        "districtTenantCode": "as.chatladurgakonagp",
+        "planningAreaCode": "SILCHAR_MP",
+        "code": "2071",
+        "ddrName": "Chatla Durgakona GP"
       }
     }
   ]
