@@ -1,5 +1,5 @@
 {
-  "tenantId": "as.chenkoori",
+  "tenantId": "as.borakhaighungurgp",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,55 +10,55 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Chenkoori GP",
-        "localname": "Chenkoori GP",
+        "name": "Borakhai Ghungur GP",
+        "localname": "Borakhai Ghungur GP",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "as.chenkoori",
+        "code": "as.borakhaighungurgp",
         "children": [
           {
             "id": "e4c697c1-5531-49e7-8315-5a4f277df593",
             "boundaryNum": 1,
-            "name": "Bagalaghat Grant-I, II",
-            "localname": "Bagalaghat Grant-I, II",
+            "name": "Bhorakhai Grant",
+            "localname": "Bhorakhai Grant",
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "ChenkooriV1",
+            "code": "BhorakhaiV1",
+            "children": []
+          },
+          {
+            "id": "5b94f82d-e5c7-4a27-8004-9034d5c03d53",
+            "boundaryNum": 1,
+            "name": "Niz-Chatla Howar",
+            "localname": "Niz-Chatla Howar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BhorakhaiV2",
             "children": []
           },
           {
             "id": "fe73d04a-4113-4bb5-b467-93a72e92dce4",
             "boundaryNum": 1,
-            "name": "Bagalaghat Part-I, II",
-            "localname": "Bagalaghat Part-I, II",
+            "name": "Sabashpur",
+            "localname": "Sabashpur",
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "ChenkooriV2",
-            "children": []
-          },
-          {
-            "id": "fe73d04a-4113-4bb5-b467-93a72e92dce4",
-            "boundaryNum": 1,
-            "name": "Chengkuri Grant-I, II",
-            "localname": "Chengkuri Grant-I, II",
-            "longitude": null,
-            "latitude": null,
-            "label": "Village",
-            "code": "ChenkooriV3",
+            "code": "BhorakhaiV3",
             "children": []
           },
           {
             "id": "fb699cfb-5ab3-43b0-bb04-dac2be036472",
             "boundaryNum": 1,
-            "name": "Nijchatla Howar",
-            "localname": "Nijchatla Howar",
+            "name": "Uttar Krishnapur Pt-III",
+            "localname": "Uttar Krishnapur Pt-III",
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "ChenkooriV4",
+            "code": "BhorakhaiV4",
             "children": []
           }
         ]
