@@ -1410,7 +1410,7 @@
       }
     },
     {
-      "code": "as.ambikapur",
+      "code": "as.ambikapurgp",
       "name": "Ambikapur",
       "description": "Ambikapur",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
@@ -1424,7 +1424,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "CACHAR",
         "districtName": "Cachar",
-        "districtTenantCode": "as.silcharmc",
+        "districtTenantCode": "as.ambikapurgp",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1662",
         "ddrName": "Ambikapur Gram Panchayat"
