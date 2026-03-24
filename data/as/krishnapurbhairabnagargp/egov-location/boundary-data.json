@@ -1,5 +1,5 @@
 {
-  "tenantId": "as.kumarparanizjoinagar",
+  "tenantId": "as.krishnapurbhairabnagargp",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,44 +10,33 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Kumarpara Nizjoinagar GP",
-        "localname": "Kumarpara Nizjoinagar GP",
+        "name": "Krishnapur Bhairabnagar GP",
+        "localname": "Krishnapur Bhairabnagar GP",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "as.kumarparanizjoinagar",
+        "code": "as.krishnapurbhairabnagargp",
         "children": [
                   {
             "id": "e4c697c1-5531-49e7-8315-5a4f277df593",
             "boundaryNum": 1,
-            "name": "Balighat",
-            "localname": "Balighat",
+            "name": "Buribail",
+            "localname": "Buribail",
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "KumarparaV1",
+            "code": "KrishnapurbhairabnagarV1",
             "children": []
           },
           {
             "id": "fe73d04a-4113-4bb5-b467-93a72e92dce4",
             "boundaryNum": 1,
-            "name": "Kumarpara",
-            "localname": "Kumarpara",
+            "name": "Krishnapur",
+            "localname": "Krishnapur",
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "KumarparaV2",
-            "children": []
-          },
-          {
-            "id": "fe73d04a-4113-4bb5-b467-93a72e92dce4",
-            "boundaryNum": 1,
-            "name": "Niz-Joynagar",
-            "localname": "Niz-Joynagar",
-            "longitude": null,
-            "latitude": null,
-            "label": "Village",
-            "code": "KumarparaV3",
+            "code": "KrishnapurbhairabnagarV2",
             "children": []
           }
         ]
