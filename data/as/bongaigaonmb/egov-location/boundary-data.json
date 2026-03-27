@@ -10,8 +10,8 @@
       "boundary": {
         "id": "1e0b6d6c-decb-4da2-99e4-57e8020056db",
         "boundaryNum": 1,
-        "name": "Bongaigaon",
-        "localname": "Bongaigaon",
+        "name": "Bongaigaon Municipal Board",
+        "localname": "Bongaigaon Municipal Board",
         "longitude": null,
         "latitude": null,
         "label": "City",
@@ -415,12 +415,23 @@
               {
                 "id": "9d5e7095-8cb1-44a0-9583-7dd245b6c97c",
                 "boundaryNum": 4,
-                "name": "Kharija Dalaigaon 1",
-                "localname": "Kharija Dalaigaon 1",
+                "name": "Kharija",
+                "localname": "Kharija",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
                 "code": "BomgaigaonW12V4",
+                "children": []
+              },
+              {
+                "id": "9d5e7095-8cb1-44a0-9583-7dd245b6c97d",
+                "boundaryNum": 4,
+                "name": "Dalaigaon 1",
+                "localname": "Dalaigaon 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "BomgaigaonW12V5",
                 "children": []
               }
             ]
@@ -563,8 +574,8 @@
               {
                 "id": "29fde0c6-7f3d-4591-b7be-ee273039c9c8",
                 "boundaryNum": 2,
-                "name": "Bakharbhitha part 2",
-                "localname": "Bakharbhitha part 2",
+                "name": "Dalaigaon part 2",
+                "localname": "Dalaigaon part 2",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",

@@ -4665,7 +4665,7 @@
       }
     },
     {
-      "code": "as.mazgaongaonpanchayat",
+      "code": "as.mazgaongp",
       "name": "Mazgaon Gaon Panchayat",
       "description": "Mazgaon Gaon Panchayat",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
@@ -4679,10 +4679,10 @@
         "districtName": "Sonitpur",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "SONITPUR",
-        "districtTenantCode": "as.tezpurmb",
-        "planningAreaCode": "MANGALDOI_MP",
+        "districtTenantCode": "as.mazgaongp",
+        "planningAreaCode": "TEZPUR_MP",
         "code": "1828",
-        "ddrName": "Mazgaon Gaon Panchayat Gram Panchayat"
+        "ddrName": "Mazgaon Gaon Panchayat"
       }
     },
     {
@@ -4770,9 +4770,9 @@
       }
     },
     {
-      "code": "as.balipukhuri",
-      "name": "Balipukhuri",
-      "description": "Balipukhuri",
+      "code": "as.balipukhurigp",
+      "name": "Balipukhuri GP",
+      "description": "Balipukhuri GP",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -4780,12 +4780,12 @@
       "type": "CITY",
       "emailId": "info.balipukhuri@gmail.com",
       "city": {
-        "name": "Balipukhuri",
+        "name": "Balipukhuri GP",
         "districtName": "Sonitpur",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "SONITPUR",
-        "districtTenantCode": "as.tezpurmb",
-        "planningAreaCode": "MANGALDOI_MP",
+        "districtTenantCode": "as.balipukhurigp",
+        "planningAreaCode": "TEZPUR_MP",
         "code": "1833",
         "ddrName": "Balipukhuri Gram Panchayat"
       }
@@ -7161,6 +7161,48 @@
         "planningAreaCode": "SILCHAR_MP",
         "code": "2071",
         "ddrName": "Chatla Durgakona GP"
+      }
+    },
+    {
+      "code": "as.parbatiagp",
+      "name": "Parbatia GP",
+      "description": "Parbatia GP",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": "info.parbatiagp@gmail.com",
+      "city": {
+        "name": "Parbatia GP",
+        "districtName": "Sonitpur",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "SONITPUR",
+        "districtTenantCode": "as.parbatiagp",
+        "planningAreaCode": "TEZPUR_MP",
+        "code": "2072",
+        "ddrName": "Parbatia GP"
+      }
+    },
+    {
+      "code": "as.bessariagp",
+      "name": "Bessaria GP",
+      "description": "Bessaria GP",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": "info.bessariagp@gmail.com",
+      "city": {
+        "name": "Bessaria GP",
+        "districtName": "Sonitpur",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "SONITPUR",
+        "districtTenantCode": "as.bessariagp",
+        "planningAreaCode": "TEZPUR_MP",
+        "code": "2073",
+        "ddrName": "Bessaria GP"
       }
     }
   ]

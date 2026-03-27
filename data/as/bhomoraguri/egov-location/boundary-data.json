@@ -82,6 +82,17 @@
             "label": "Village",
             "code": "bhomoraguriV6",
             "children": []
+          },
+          {
+            "id": "21f0f4ae-76c8-4e27-9a60-0267084f6072",
+            "boundaryNum": 1,
+            "name": "Chatai Chapori",
+            "localname": "Chatai Chapori",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "bhomoraguriV7",
+            "children": []
           }
         ]
       }

@@ -1,5 +1,5 @@
  {
-    "tenantId": "as. rajapukhuribarantirangamatigp",
+    "tenantId": "as.rajapukhuribarantirangamatigp",
     "moduleName": "egov-location",
     "TenantBoundary": [
         {
@@ -15,7 +15,7 @@
                 "longitude": null,
                 "latitude": null,
                 "label": "City",
-                "code": "as. rajapukhuribarantirangamatigp",
+                "code": "as.rajapukhuribarantirangamatigp",
                 "children": [
                     {
                         "id": "b65bf972-b3d4-421e-b327-747d3e3325c0",

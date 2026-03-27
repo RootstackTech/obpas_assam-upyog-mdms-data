@@ -5392,7 +5392,7 @@
           "code": "as.panchmile"
         },
         {
-          "code": "as.mazgaongaonpanchayat"
+          "code": "as.mazgaongp"
         },
         {
           "code": "as.parbatia"
@@ -5407,7 +5407,7 @@
           "code": "as.dekargaon"
         },
         {
-          "code": "as.balipukhuri"
+          "code": "as.balipukhurigp"
         },
         {
           "code": "as.napam"
@@ -5865,6 +5865,12 @@
         },
         {
           "code": "as.chatladurgakonagp"
+        },
+        {
+          "code": "as.parbatiagp"
+        },
+        {
+          "code": "as.bessariagp"
         }
         
       ]
@@ -12910,7 +12916,7 @@
           "code": "as.panchmile"
         },
         {
-          "code": "as.mazgaongaonpanchayat"
+          "code": "as.mazgaongp"
         },
         {
           "code": "as.parbatia"
@@ -12925,7 +12931,7 @@
           "code": "as.dekargaon"
         },
         {
-          "code": "as.balipukhuri"
+          "code": "as.balipukhurigp"
         },
         {
           "code": "as.napam"
@@ -13394,6 +13400,12 @@
         },
         {
           "code": "as.chatladurgakonagp"
+        },
+        {
+          "code": "as.parbatiagp"
+        },
+        {
+          "code": "as.bessariagp"
         }
       ]
     },
@@ -13795,7 +13807,7 @@
           "code": "as.panchmile"
         },
         {
-          "code": "as.mazgaongaonpanchayat"
+          "code": "as.mazgaongp"
         },
         {
           "code": "as.parbatia"
@@ -13810,7 +13822,7 @@
           "code": "as.dekargaon"
         },
         {
-          "code": "as.balipukhuri"
+          "code": "as.balipukhurigp"
         },
         {
           "code": "as.napam"
@@ -14279,6 +14291,12 @@
         },
         {
           "code": "as.chatladurgakonagp"
+        },
+        {
+          "code": "as.parbatiagp"
+        },
+        {
+          "code": "as.bessariagp"
         }
       ]
     }
