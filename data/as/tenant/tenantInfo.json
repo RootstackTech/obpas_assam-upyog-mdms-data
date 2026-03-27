@@ -2253,7 +2253,7 @@
       "languagesSpoken": ["HN", "EN"]
     },
     {
-      "code": "as.mazgaongaonpanchayat",
+      "code": "as.mazgaongp",
       "districtCode": "SONITPUR",
       "population": "35329",
       "malePopulation": "18027",
@@ -2303,7 +2303,7 @@
       "languagesSpoken": ["HN", "EN"]
     },
     {
-      "code": "as.balipukhuri",
+      "code": "as.balipukhurigp",
       "districtCode": "SONITPUR",
       "population": "22402",
       "malePopulation": "11435",
@@ -3390,6 +3390,26 @@
       "femalePopultion": "5697",
       "workingPopulation": "33.70",
       "literacyRate": "57.41",
+      "languagesSpoken": ["HN", "EN"]
+    },
+    {
+      "code": "as.parbatiagp",
+      "districtCode": "SONITPUR",
+      "population": "46293",
+      "malePopulation": "23786",
+      "femalePopulation": "22507",
+      "workingPopulation": "44.94",
+      "literacyRate": "64.58",
+      "languagesSpoken": ["HN", "EN"]
+    },
+    {
+      "code": "as.bessariagp",
+      "districtCode": "SONITPUR",
+      "population": "46293",
+      "malePopulation": "23786",
+      "femalePopulation": "22507",
+      "workingPopulation": "44.94",
+      "literacyRate": "64.58",
       "languagesSpoken": ["HN", "EN"]
     }
   ]

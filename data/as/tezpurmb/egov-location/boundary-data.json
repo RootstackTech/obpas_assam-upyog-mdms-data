@@ -10,8 +10,8 @@
       "boundary": {
         "id": "830ab9ef-5ea5-4852-8435-045307f3afe3",
         "boundaryNum": 1,
-        "name": "Tezpur",
-        "localname": "Tezpur",
+        "name": "Tezpur Municipal Board",
+        "localname": "Tezpur Municipal Board",
         "longitude": null,
         "latitude": null,
         "label": "City",
@@ -346,6 +346,17 @@
                 "label": "RevenueVillage",
                 "code": "SonitpurW13V1",
                 "children": []
+              },
+              {
+                "id": "71b87b39-c498-4193-b700-261adc45c34d",
+                "boundaryNum": 1,
+                "name": "Tezpur Town part 3",
+                "localname": "Tezpur Town part 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonitpurW13V2",
+                "children": []
               }
             ]
           },
@@ -407,23 +418,12 @@
               {
                 "id": "7a525d9f-142c-4c44-a97d-e98f650cd1eb",
                 "boundaryNum": 2,
-                "name": "Tezpur Town part 3",
-                "localname": "Tezpur Town part 3",
+                "name": "Tezpur Town part 4",
+                "localname": "Tezpur Town part 4",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
                 "code": "SonitpurW15V2",
-                "children": []
-              },
-              {
-                "id": "7c63bfcb-58e5-4d32-a273-f487e7b43421",
-                "boundaryNum": 3,
-                "name": "Tezpur Town part 2",
-                "localname": "Tezpur Town part 2",
-                "longitude": null,
-                "latitude": null,
-                "label": "RevenueVillage",
-                "code": "SonitpurW15V3",
                 "children": []
               }
             ]
@@ -452,8 +452,8 @@
               {
                 "id": "ee9cf00a-f5e0-4742-a9ba-b59769a79627",
                 "boundaryNum": 2,
-                "name": "Tezpur Town part 2",
-                "localname": "Tezpur Town part 2",
+                "name": "Tezpur Town part 4",
+                "localname": "Tezpur Town part 4",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",

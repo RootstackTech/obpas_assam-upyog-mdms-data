@@ -60,6 +60,17 @@
             "label": "Village",
             "code": "panchmileV4",
             "children": []
+          },
+          {
+            "id": "7d34a9dc-8c99-4b3a-b8ba-a9b326b6a827",
+            "boundaryNum": 1,
+            "name": "Alichinga",
+            "localname": "Alichinga",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "panchmileV5",
+            "children": []
           }
         ]
       }

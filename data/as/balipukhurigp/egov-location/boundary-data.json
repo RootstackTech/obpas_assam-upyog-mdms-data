@@ -1,5 +1,5 @@
 {
-  "tenantId": "as.balipukhuri",
+  "tenantId": "as.balipukhurigp",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,12 +10,12 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Balipukhuri",
-        "localname": "Balipukhuri",
+        "name": "Balipukhuri GP",
+        "localname": "Balipukhuri Gp",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "as.balipukhuri",
+        "code": "as.balipukhurigp",
         "children": [
           {
             "id": "f6accf1d-eaaf-41a7-831b-1abd67d92370",
@@ -59,17 +59,6 @@
             "latitude": null,
             "label": "Village",
             "code": "balipukhuriV4",
-            "children": []
-          },
-          {
-            "id": "121fed44-7b0f-4b80-acba-65e68cf99a0f",
-            "boundaryNum": 1,
-            "name": "BhitarParowa",
-            "localname": "BhitarParowa",
-            "longitude": null,
-            "latitude": null,
-            "label": "Village",
-            "code": "balipukhuriV5",
             "children": []
           }
         ]

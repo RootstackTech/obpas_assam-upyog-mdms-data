@@ -192,6 +192,17 @@
             "label": "Village",
             "code": "napamV16",
             "children": []
+          },
+          {
+            "id": "f1002964-b385-4783-8d04-9fff3e01bd2e",
+            "boundaryNum": 1,
+            "name": "Bhalukjarani",
+            "localname": "Bhalukjarani",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "napamV17",
+            "children": []
           }
         ]
       }
