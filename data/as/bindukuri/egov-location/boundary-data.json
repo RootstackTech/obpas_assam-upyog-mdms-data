@@ -27,6 +27,17 @@
             "label": "Village",
             "code": "bindukuriV1",
             "children": []
+          },
+          {
+            "id": "459c00fd-9abd-4e9f-9353-42b2b12ef717",
+            "boundaryNum": 1,
+            "name": "Saikia Chuburi Borjhar",
+            "localname": "Saikia Chuburi Borjhar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "bindukuriV2",
+            "children": []
           }
         ]
       }

@@ -1,0 +1,66 @@
+{
+    "tenantId": "as.ambikapurgp",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Ambikapur GP",
+                "localname": "Ambikapur GP",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.ambikapurgp",
+                "children": [
+                    {
+                        "id": "b65bf972-b3d4-421e-b327-747d3e3325c0",
+                        "boundaryNum": 1,
+                        "name": "Ambikapur",
+                        "localname": "Ambikapur",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "AmbikapurV1",
+                        "children": [
+                            {
+                                "id": "7e9c1a00-11f0-4d8b-b001-11a7a001613",
+                                "boundaryNum": 1,
+                                "name": "Ambikapur Pt-III",
+                                "localname": "Ambikapur Pt-III",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "RevenueVillage",
+                                "code": "AmbikapurV1W1"
+                            },
+                            {
+                                "id": "7e9c1a00-11f0-4d8b-b001-11a7a001613",
+                                "boundaryNum": 1,
+                                "name": "Ambikapur Pt-IV",
+                                "localname": "Ambikapur Pt-IV",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "RevenueVillage",
+                                "code": "AmbikapurV1W2"
+                            },
+                            {
+                                "id": "7e9c1a00-11f0-4d8b-b001-11a7a001613",
+                                "boundaryNum": 1,
+                                "name": "Ambikapur Pt-V",
+                                "localname": "Ambikapur Pt-V",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "RevenueVillage",
+                                "code": "AmbikapurV1W3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}

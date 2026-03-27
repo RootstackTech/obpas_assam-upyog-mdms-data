@@ -1,5 +1,5 @@
 {
-  "tenantId": "as.mazgaongaonpanchayat",
+  "tenantId": "as.mazgaongp",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,12 +10,12 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Mazgaon Gaon Panchayat",
-        "localname": "Mazgaon Gaon Panchayat",
+        "name": "Mazgaon GP",
+        "localname": "Mazgaon GP",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "as.mazgaongaonpanchayat",
+        "code": "as.mazgaongp",
         "children": [
           {
             "id": "5026c0de-13dd-486f-ae28-289235a22131",
@@ -64,12 +64,12 @@
           {
             "id": "04db86e7-b8d7-4167-bd96-7abcba739932",
             "boundaryNum": 1,
-            "name": "Vitarsuti",
-            "localname": "Vitarsuti",
+            "name": "Tarajan Kumargaon",
+            "localname": "Tarajan Kumargaon",
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "mazgaongaonpanchayatV5",
+            "code": "mazgaongaonpanchayatV6",
             "children": []
           }
         ]

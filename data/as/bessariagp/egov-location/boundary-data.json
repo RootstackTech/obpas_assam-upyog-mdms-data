@@ -1,0 +1,57 @@
+{
+  "tenantId": "as.bessariagp",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Bessaria GP",
+        "localname": "Bessaria GP",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.bessariagp",
+        "children": [
+          {
+            "id": "b38fee22-add6-46e9-b712-0b4f86022091",
+            "boundaryNum": 1,
+            "name": "Bebejia",
+            "localname": "Bebejia",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "bessariaV1",
+            "children": []
+          },
+          {
+            "id": "2bc10f7d-9e59-4fed-bac4-0b4f86022092",
+            "boundaryNum": 1,
+            "name": "Kakati Chuburi",
+            "localname": "Kakati Chuburi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "bessariaV2",
+            "children": []
+          },
+          {
+            "id": "4cf1f713-be1c-4188-b881-0b4f86022093",
+            "boundaryNum": 1,
+            "name": "Da-Gaon Pukhuria",
+            "localname": "Da-Gaon Pukhuria",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "bessariaV3",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}
