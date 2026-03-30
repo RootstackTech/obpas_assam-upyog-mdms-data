@@ -105,6 +105,12 @@
           "required": true,
           "allow": true,
           "order": 17
+        },
+        {
+          "code": "APPL.GEOTAGGEDPHOTO",
+          "required": true,
+          "allow": true,
+          "order": 18
         }
       ]
     }
