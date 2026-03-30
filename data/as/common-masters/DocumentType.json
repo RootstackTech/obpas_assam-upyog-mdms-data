@@ -336,6 +336,10 @@
         {
           "code": "APPL.APPENDIX5",
           "active": true
+        },
+        {
+          "code": "APPL.GEOTAGGEDPHOTO",
+          "active": true
         }
   ]
 }
