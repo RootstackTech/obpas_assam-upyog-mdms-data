@@ -196,6 +196,15 @@
           "mandatory": true
         },
         {
+          "name": "Upload Geo Tagged Photograph",
+          "code": "GEO_TAGGED_PHOTO",
+          "dataType": "fileInput",
+          "i18nKey": "GEO_TAGGED_PHOTO",
+          "fieldKey": "geoTaggedPhotoFilestoreId",
+          "active": true,
+          "mandatory": true
+        },
+        {
           "name": "Comments on Proposal",
           "code": "COMMENTS_ON_PROPOSAL",
           "dataType": "textArea",
