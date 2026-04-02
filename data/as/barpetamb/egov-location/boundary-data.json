@@ -71,17 +71,7 @@
             "label": "WardNo",
             "code": "BarpetaW2",
             "children": [
-              {
-                "id": "5bc3a77c-8bfe-4bb1-be86-657957dbb202",
-                "boundaryNum": 1,
-                "name": "Barpeta Town",
-                "localname": "Barpeta Town",
-                "longitude": null,
-                "latitude": null,
-                "label": "RevenueVillage",
-                "code": "BarpetaW2V1",
-                "children": []
-              },
+
               {
                 "id": "5bc3a77c-8bfe-4ub1-be86-657957dbb202",
                 "boundaryNum": 1,
@@ -513,8 +503,8 @@
               {
                 "id": "5bc3a77c-8bfe-4bb1-be86-657957dbb212",
                 "boundaryNum": 1,
-                "name": "Barpeta toan Part 6",
-                "localname": "Barpeta toan Part 6",
+                "name": "Barpeta town Part 6",
+                "localname": "Barpeta town Part 6",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
@@ -805,8 +795,8 @@
               {
                 "id": "5bc3a77c-0ioe-4bb1-be86-657957dbb305",
                 "boundaryNum": 1,
-                "name": "sunkuchi",
-                "localname": "sunkuchi",
+                "name": "Sunkuchi",
+                "localname": "Sunkuchi",
                 "label": "RevenueVillage",
                 "code": "BarpetaW15V5",
                 "children": []
@@ -858,8 +848,8 @@
             "children": [
               {
                 "id": "5bc3a77c-0ioe-4bb1-be86-657957dbb501",
-                "name": "Motuakuchi town Part, 2",
-                "localname": "Motuakuchi town Part, 2",
+                "name": "Motuakuchi town Part 2",
+                "localname": "Motuakuchi town Part 2",
                 "label": "RevenueVillage",
                 "code": "BarpetaW17V1",
                 "children": []

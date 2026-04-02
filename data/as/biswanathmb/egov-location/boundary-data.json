@@ -30,8 +30,8 @@
               {
                 "id": "7fe7a3e9-81db-43fa-9242-f185f7082ec0",
                 "boundaryNum": 1,
-                "name": "Bishwanath Town Block 1 sheet 1",
-                "localname": "Bishwanath Town Block 1 sheet 1",
+                "name": "Kochgaon",
+                "localname": "Kochgaon",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
@@ -41,8 +41,8 @@
               {
                 "id": "bf7ae551-1248-4426-b16d-b441df6b3911",
                 "boundaryNum": 2,
-                "name": "Bishwanath Town Block 1 Sheet 2",
-                "localname": "Bishwanath Town Block 1 Sheet 2",
+                "name": "Komargaon",
+                "localname": "Komargaon",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
@@ -64,34 +64,12 @@
               {
                 "id": "bc3b5b4b-f06a-4f2d-9f06-148d104bd84f",
                 "boundaryNum": 1,
-                "name": "Bishwanath Town Block 1 sheet 2",
-                "localname": "Bishwanath Town Block 1 sheet 2",
+                "name": "Kochgaon",
+                "localname": "Kochgaon",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
                 "code": "BiswanathW2V1",
-                "children": []
-              },
-              {
-                "id": "cce94bfa-a423-41f4-a67f-5a2db1fdbdb5",
-                "boundaryNum": 2,
-                "name": "Konch Gaon",
-                "localname": "Konch Gaon",
-                "longitude": null,
-                "latitude": null,
-                "label": "RevenueVillage",
-                "code": "BiswanathW2V2",
-                "children": []
-              },
-              {
-                "id": "446fa9b6-4bbf-483d-985d-f7cb8623ffac",
-                "boundaryNum": 3,
-                "name": "Kumar Gaon",
-                "localname": "Kumar Gaon",
-                "longitude": null,
-                "latitude": null,
-                "label": "RevenueVillage",
-                "code": "BiswanathW2V3",
                 "children": []
               }
             ]
@@ -109,12 +87,23 @@
               {
                 "id": "31f1427e-2ed0-48ab-b1bb-9302a670bcf6",
                 "boundaryNum": 1,
-                "name": "Kumar Gaon",
-                "localname": "Kumar Gaon",
+                "name": "Komargaon",
+                "localname": "Komargaon",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
                 "code": "BiswanathW3V1",
+                "children": []
+              },
+              {
+                "id": "31f1427e-2ed0-48ab-b1bb-9302a670bcf7",
+                "boundaryNum": 1,
+                "name": "Ambari",
+                "localname": "Ambari",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "BiswanathW3V2",
                 "children": []
               }
             ]
@@ -132,23 +121,12 @@
               {
                 "id": "c123830f-ea58-473e-91cd-aacb5b561178",
                 "boundaryNum": 1,
-                "name": "Bishwanath Town Block 4 sheet 1",
-                "localname": "Bishwanath Town Block 4 sheet 1",
+                "name": "Bamgaon",
+                "localname": "Bamgaon",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
                 "code": "BiswanathW4V1",
-                "children": []
-              },
-              {
-                "id": "19eeac7b-8e2c-4ecf-bcf8-4c299e3a7d3e",
-                "boundaryNum": 2,
-                "name": "Bishwanath Town Block 4 sheet 2",
-                "localname": "Bishwanath Town Block 4 sheet 2",
-                "longitude": null,
-                "latitude": null,
-                "label": "RevenueVillage",
-                "code": "BiswanathW4V2",
                 "children": []
               }
             ]
@@ -166,8 +144,8 @@
               {
                 "id": "68b26b56-f1a8-42ad-afb5-9404992fc2d1",
                 "boundaryNum": 1,
-                "name": "Bishwanath Town Block 5 sheet 2",
-                "localname": "Bishwanath Town Block 5 sheet 2",
+                "name": "Santipur",
+                "localname": "Santipur",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
@@ -189,34 +167,12 @@
               {
                 "id": "dd5b452a-ed06-4fb9-a83b-216185b2108b",
                 "boundaryNum": 1,
-                "name": "Bishwanath Town Block 5 sheet 1",
-                "localname": "Bishwanath Town Block 5 sheet 1",
+                "name": "College Road",
+                "localname": "College Road",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
                 "code": "BiswanathW6V1",
-                "children": []
-              },
-              {
-                "id": "78b2d935-de30-4fc5-9d6c-9c534d2d36ab",
-                "boundaryNum": 2,
-                "name": "Bishwanath Town Block 5 Sheet 2",
-                "localname": "Bishwanath Town Block 5 Sheet 2",
-                "longitude": null,
-                "latitude": null,
-                "label": "RevenueVillage",
-                "code": "BiswanathW6V2",
-                "children": []
-              },
-              {
-                "id": "fd5d4ef7-7562-401f-a7fa-a6cd242ddd7b",
-                "boundaryNum": 3,
-                "name": "Bishwanath Town Block 5 sheet 3",
-                "localname": "Bishwanath Town Block 5 sheet 3",
-                "longitude": null,
-                "latitude": null,
-                "label": "RevenueVillage",
-                "code": "BiswanathW6V3",
                 "children": []
               }
             ]
@@ -234,23 +190,12 @@
               {
                 "id": "2b7f26ce-aeda-449b-9dd2-20d696300a4c",
                 "boundaryNum": 1,
-                "name": "Bishwanath Town Block 6",
-                "localname": "Bishwanath Town Block 6",
+                "name": "Madhupur",
+                "localname": "Madhupur",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
                 "code": "BiswanathW7V1",
-                "children": []
-              },
-              {
-                "id": "89e33453-1e62-48c5-b0c1-63c773e8cd33",
-                "boundaryNum": 2,
-                "name": "Garihagi",
-                "localname": "Garihagi",
-                "longitude": null,
-                "latitude": null,
-                "label": "RevenueVillage",
-                "code": "BiswanathW7V2",
                 "children": []
               }
             ]
@@ -268,8 +213,8 @@
               {
                 "id": "d9689922-baae-46f0-ad8d-a3d9a41055c3",
                 "boundaryNum": 1,
-                "name": "Bishwanath Town Block 7",
-                "localname": "Bishwanath Town Block 7",
+                "name": "Nabapur",
+                "localname": "Nabapur",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
@@ -279,8 +224,8 @@
               {
                 "id": "045f0ef3-ed13-4ab4-aedf-45a2f2ecd828",
                 "boundaryNum": 2,
-                "name": "Aarabari",
-                "localname": "Aarabari",
+                "name": "Bamgaon",
+                "localname": "Bamgaon",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
@@ -290,34 +235,12 @@
               {
                 "id": "d2017116-bbb9-493d-9266-4289a4983057",
                 "boundaryNum": 3,
-                "name": "Bishwanath Town Block 4 sheet 1",
-                "localname": "Bishwanath Town Block 4 sheet 1",
+                "name": "Golia",
+                "localname": "Golia",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
                 "code": "BiswanathW8V3",
-                "children": []
-              },
-              {
-                "id": "37147b8f-4073-42e2-bfa5-1156f04c4cd2",
-                "boundaryNum": 4,
-                "name": "Bishwanath Town Block 4 sheet 2",
-                "localname": "Bishwanath Town Block 4 sheet 2",
-                "longitude": null,
-                "latitude": null,
-                "label": "RevenueVillage",
-                "code": "BiswanathW8V4",
-                "children": []
-              },
-              {
-                "id": "0fe1479a-7b69-448c-b8c3-963e63c6cfe6",
-                "boundaryNum": 5,
-                "name": "Bishwanath Town Block 3 sheet 2",
-                "localname": "Bishwanath Town Block 3 sheet 2",
-                "longitude": null,
-                "latitude": null,
-                "label": "RevenueVillage",
-                "code": "BiswanathW8V5",
                 "children": []
               }
             ]
@@ -335,23 +258,12 @@
               {
                 "id": "1d85c907-7e85-4200-83e8-b9c68887736a",
                 "boundaryNum": 1,
-                "name": "Bishwanath Town Block 3 sheet 1",
-                "localname": "Bishwanath Town Block 3 sheet 1",
+                "name": "Bamgaon",
+                "localname": "Bamgaon",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
                 "code": "BiswanathW9V1",
-                "children": []
-              },
-              {
-                "id": "d0333e03-2700-41f4-9f54-97e8804a27d8",
-                "boundaryNum": 2,
-                "name": "Bishwanath Town Block 4 sheet 2",
-                "localname": "Bishwanath Town Block 4 sheet 2",
-                "longitude": null,
-                "latitude": null,
-                "label": "RevenueVillage",
-                "code": "BiswanathW9V2",
                 "children": []
               }
             ]
@@ -369,8 +281,8 @@
               {
                 "id": "21e4cbeb-1625-4996-a9cf-b97113141654",
                 "boundaryNum": 1,
-                "name": "Bishwanath Town Block 5 sheet 2",
-                "localname": "Bishwanath Town Block 5 sheet 2",
+                "name": "Santipur",
+                "localname": "Santipur",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
@@ -392,8 +304,8 @@
               {
                 "id": "9bf2c553-9cb3-4475-aa99-c1f48bc3f872",
                 "boundaryNum": 1,
-                "name": "Gaon Chaiali",
-                "localname": "Gaon Chaiali",
+                "name": "Kalyanpur",
+                "localname": "Kalyanpur",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
@@ -403,8 +315,8 @@
               {
                 "id": "fbc97e71-fde3-4ee0-a3e8-3e9a57b36a7b",
                 "boundaryNum": 2,
-                "name": "Bishwanath Town Block 5 sheet 3",
-                "localname": "Bishwanath Town Block 5 sheet 3",
+                "name": "Nilpur",
+                "localname": "Nilpur",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
@@ -414,8 +326,8 @@
               {
                 "id": "712b19df-46b0-47f0-8df6-3a35dd28bd19",
                 "boundaryNum": 3,
-                "name": "Bishwanath Town Block 5 sheet 2",
-                "localname": "Bishwanath Town Block 5 sheet 2",
+                "name": "Dighalipukhuri",
+                "localname": "Dighalipukhuri",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
@@ -437,23 +349,12 @@
               {
                 "id": "483f6413-1510-4b68-bfe8-2f9b21e0be2b",
                 "boundaryNum": 1,
-                "name": "Bishwanath Town Block 3 sheet 1",
-                "localname": "Bishwanath Town Block 3 sheet 1",
+                "name": "Bamgaon",
+                "localname": "Bamgaon",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
                 "code": "BiswanathW12V1",
-                "children": []
-              },
-              {
-                "id": "5f9aab8e-26e8-4ad0-9380-04604c8dbd05",
-                "boundaryNum": 2,
-                "name": "BBishwanath Town lock 3 sheet 2.",
-                "localname": "BBishwanath Town lock 3 sheet 2.",
-                "longitude": null,
-                "latitude": null,
-                "label": "RevenueVillage",
-                "code": "BiswanathW12V2",
                 "children": []
               }
             ]

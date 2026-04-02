@@ -1,0 +1,177 @@
+{
+    "tenantId": "as.narayanpurmb",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Narayanpur Municipal Board",
+                "localname": "Narayanpur Municipal Board",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.narayanpurmb",
+                "children": [
+                    {
+                        "id": "7e9c1a00-11f0-4d8b-b001-11a7a001501",
+                        "boundaryNum": 1,
+                        "name": "WARD_1",
+                        "localname": "WARD_1",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "WardNo",
+                        "code": "narayanpurW1",
+                        "children": [
+                            {
+                                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002516",
+                                "boundaryNum": 1,
+                                "name": "Badulahati gaon",
+                                "localname": "Badulahati gaon",
+                                "label": "RevenueVillage",
+                                "code": "narayanpurW1V1",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "7e9c1a00-11f0-4d8b-b001-11a7a001519",
+                        "boundaryNum": 1,
+                        "name": "WARD_2",
+                        "localname": "WARD_2",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "WardNo",
+                        "code": "narayanpurW2",
+                        "children": [
+                            {
+                                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002520",
+                                "boundaryNum": 1,
+                                "name": "Chaukuchigaon",
+                                "localname": "Chaukuchigaon",
+                                "label": "RevenueVillage",
+                                "code": "narayanpurW2V1"
+                            },
+                            {
+                                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002521",
+                                "boundaryNum": 1,
+                                "name": "Narayanpur",
+                                "localname": "Narayanpur",
+                                "label": "RevenueVillage",
+                                "code": "narayanpurW2V2"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "7e9c1a00-11f0-4d8b-b001-11a7a001521",
+                        "boundaryNum": 1,
+                        "name": "WARD_3",
+                        "localname": "WARD_3",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "WardNo",
+                        "code": "narayanpurW3",
+                        "children": [
+                            {
+                                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002522",
+                                "boundaryNum": 1,
+                                "name": "Borkhamti gaon",
+                                "localname": "Borkhamti gaon",
+                                "label": "RevenueVillage",
+                                "code": "narayanpurW3V1"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "7e9c1a00-11f0-4d8b-b001-11a7a001524",
+                        "boundaryNum": 1,
+                        "name": "WARD_4",
+                        "localname": "WARD_4",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "WardNo",
+                        "code": "narayanpurW4",
+                        "children": [
+                            {
+                                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002525",
+                                "boundaryNum": 1,
+                                "name": "Sakrahi 2No.",
+                                "localname": "Sakrahi 2No.",
+                                "label": "RevenueVillage",
+                                "code": "narayanpurW4V1"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "7e9c1a00-11f0-4d8b-b001-11a7a001526",
+                        "boundaryNum": 1,
+                        "name": "WARD_5",
+                        "localname": "WARD_5",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "WardNo",
+                        "code": "narayanpurW5",
+                        "children": [
+                            {
+                                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002527",
+                                "boundaryNum": 1,
+                                "name": "Sakrahi 2 no.",
+                                "localname": "Sakrahi 2 no.",
+                                "label": "RevenueVillage",
+                                "code": "narayanpurW5V1"
+                            },
+                            {
+                                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002528",
+                                "boundaryNum": 1,
+                                "name": "Majgaon",
+                                "localname": "Majgaon",
+                                "label": "RevenueVillage",
+                                "code": "narayanpurW5V2"
+                            },
+                            {
+                                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002529",
+                                "boundaryNum": 1,
+                                "name": "Sakrahi gaon No 1 khanda",
+                                "localname": "Sakrahi gaon No 1 khanda",
+                                "label": "RevenueVillage",
+                                "code": "narayanpurW5V3"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "7e9c1a00-11f0-4d8b-b001-11a7a001528",
+                        "boundaryNum": 1,
+                        "name": "WARD_6",
+                        "localname": "WARD_6",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "WardNo",
+                        "code": "narayanpurW6",
+                        "children": [
+                            {
+                                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002529",
+                                "boundaryNum": 1,
+                                "name": "Majgaon",
+                                "localname": "Majgaon",
+                                "label": "RevenueVillage",
+                                "code": "narayanpurW6V1"
+                            },
+                            {
+                                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002530",
+                                "boundaryNum": 1,
+                                "name": "Panbaria",
+                                "localname": "Panbaria",
+                                "label": "RevenueVillage",
+                                "code": "narayanpurW6V2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}

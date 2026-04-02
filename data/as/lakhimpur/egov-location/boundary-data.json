@@ -31,8 +31,8 @@
           {
             "id": "ad5733ab-b378-4c29-9220-a83d4ec6c6bb",
             "boundaryNum": 1,
-            "name": "Moidomia",
-            "localname": "Moidomia",
+            "name": "Maidomia",
+            "localname": "Maidomia",
             "longitude": null,
             "latitude": null,
             "label": "Village",
@@ -42,8 +42,8 @@
           {
             "id": "6f2fb4fc-7076-432e-8e6e-f2060d8d0426",
             "boundaryNum": 1,
-            "name": "Borpukhuri Part-I",
-            "localname": "Borpukhuri Part-I",
+            "name": "Barpukhuri (A Part only)",
+            "localname": "Barpukhuri (A Part only)",
             "longitude": null,
             "latitude": null,
             "label": "Village",
@@ -53,8 +53,8 @@
           {
             "id": "3f79b736-b7de-47f6-be50-ec3b56cc02f1",
             "boundaryNum": 1,
-            "name": "Borpukhuri Part-II",
-            "localname": "Borpukhuri Part-II",
+            "name": "Khutakatia",
+            "localname": "Khutakatia",
             "longitude": null,
             "latitude": null,
             "label": "Village",
@@ -75,8 +75,8 @@
           {
             "id": "6177e79f-d4aa-4ad1-9183-fcaeb8d312ac",
             "boundaryNum": 1,
-            "name": "Chabukdhara Gohain",
-            "localname": "Chabukdhara Gohain",
+            "name": "Ahuchaul Konwar Gaon",
+            "localname": "Ahuchaul Konwar Gaon",
             "longitude": null,
             "latitude": null,
             "label": "Village",
@@ -86,45 +86,12 @@
           {
             "id": "35e38451-2ab0-41c3-be33-9b1ecfe80c84",
             "boundaryNum": 1,
-            "name": "Gharmara",
-            "localname": "Gharmara",
+            "name": "Chabukdhara Gohain Gaon",
+            "localname": "Chabukdhara Gohain Gaon",
             "longitude": null,
             "latitude": null,
             "label": "Village",
             "code": "lakhimpurV47",
-            "children": []
-          },
-          {
-            "id": "6b875c1e-939d-43d4-8020-d4f926eebdfb",
-            "boundaryNum": 1,
-            "name": "Boicha Garumoria",
-            "localname": "Boicha Garumoria",
-            "longitude": null,
-            "latitude": null,
-            "label": "Village",
-            "code": "lakhimpurV48",
-            "children": []
-          },
-          {
-            "id": "b23e2ff4-eaad-4189-9af8-8cad13b86ae8",
-            "boundaryNum": 1,
-            "name": "Debera Doloni",
-            "localname": "Debera Doloni",
-            "longitude": null,
-            "latitude": null,
-            "label": "Village",
-            "code": "lakhimpurV49",
-            "children": []
-          },
-          {
-            "id": "07bd7e64-a2f4-42ef-90e5-4d600edd4e1c",
-            "boundaryNum": 1,
-            "name": "Hindu NC No.1",
-            "localname": "Hindu NC No.1",
-            "longitude": null,
-            "latitude": null,
-            "label": "Village",
-            "code": "lakhimpurV67",
             "children": []
           }
         ]

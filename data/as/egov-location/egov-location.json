@@ -661,6 +661,62 @@
                   "active": true
                 }
               ]
+            },
+            {
+              "id": 29,
+              "districtCode": "NORTH_LAKHIMPUR",
+              "planningAreaCode": "BIHPURIA_MP",
+              "planningAreaName": "Bihpuria Master Plan",
+              "planningAreaGisCode": "North Lakhimpur",
+              "active": true,
+              "ppAuthority": {
+                "id": 29,
+                "planningAreaCode": "BIHPURIA_MP",
+                "districtCode": "NORTH_LAKHIMPUR",
+                "ppAuthorityCode": "TOWN_AND_COUNTRY_PLANNING",
+                "ppAuthorityName": "Town and Country Planning",
+                "active": true
+              },
+              "bpAuthorities": [
+                {
+                  "name": "GRAM_PANCHAYAT",
+                  "code": "GRAM_PANCHAYAT",
+                  "active": true
+                },
+                {
+                  "name": "MUNICIPAL_BOARD",
+                  "code": "MUNICIPAL_BOARD",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": 30,
+              "districtCode": "NORTH_LAKHIMPUR",
+              "planningAreaCode": "NARAYANPUR_MP",
+              "planningAreaName": "Narayanpur Master Plan",
+              "planningAreaGisCode": "North Lakhimpur",
+              "active": true,
+              "ppAuthority": {
+                "id": 30,
+                "planningAreaCode": "NARAYANPUR_MP",
+                "districtCode": "NORTH_LAKHIMPUR",
+                "ppAuthorityCode": "TOWN_AND_COUNTRY_PLANNING",
+                "ppAuthorityName": "Town and Country Planning",
+                "active": true
+              },
+              "bpAuthorities": [
+                {
+                  "name": "GRAM_PANCHAYAT",
+                  "code": "GRAM_PANCHAYAT",
+                  "active": true
+                },
+                {
+                  "name": "MUNICIPAL_BOARD",
+                  "code": "MUNICIPAL_BOARD",
+                  "active": true
+                }
+              ]
             }
           ]
         },

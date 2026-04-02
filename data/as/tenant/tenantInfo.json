@@ -294,7 +294,7 @@
     },
     {
       "code": "as.sundaridia",
-      "districtCode": "SUNDARIDIA",
+      "districtCode": "BARPETA",
       "population": "11768",
       "malePopulation": "5894",
       "femalePopulation": "5874",
@@ -1054,7 +1054,7 @@
     },
     {
       "code": "as.chapai",
-      "districtCode": "CHAPAI",
+      "districtCode": "DARANG",
       "population": "19010",
       "malePopulation": "9737",
       "femalePopulation": "9273",
@@ -1064,7 +1064,7 @@
     },
     {
       "code": "as.nagarbahi",
-      "districtCode": "NAGARBAHI",
+      "districtCode": "DARANG",
       "population": "40407",
       "malePopulation": "19779",
       "femalePopulation": "20628",
@@ -1074,7 +1074,7 @@
     },
     {
       "code": "as.mowamari",
-      "districtCode": "MOWAMARI",
+      "districtCode": "DARANG",
       "population": "12457",
       "malePopulation": "6466",
       "femalePopulation": "5991",
@@ -1084,7 +1084,7 @@
     },
     {
       "code": "as.upahupara",
-      "districtCode": "UPAHUPARA",
+      "districtCode": "DARANG",
       "population": "24220",
       "malePopulation": "12186",
       "femalePopulation": "12034",
@@ -1104,7 +1104,7 @@
     },
     {
       "code": "as.chamuapara",
-      "districtCode": "CHAMUAPARA",
+      "districtCode": "DARANG",
       "population": "48702",
       "malePopulation": "23928",
       "femalePopulation": "24774",
@@ -3410,6 +3410,116 @@
       "femalePopulation": "22507",
       "workingPopulation": "44.94",
       "literacyRate": "64.58",
+      "languagesSpoken": ["HN", "EN"]
+    },
+    {
+      "code": "as.ramharigp",
+      "districtCode": "DARANG",
+      "population": "48702",
+      "malePopulation": "23928",
+      "femalePopulation": "24774",
+      "workingPopulation": "42.46",
+      "literacyRate": "93.39",
+      "languagesSpoken": ["HN", "EN"]
+    },
+    {
+      "code": "as.northlakhimpurbihpuriatcp",
+      "districtCode": "NORTH_LAKHIMPUR",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": ["HN", "EN"]
+    },
+    {
+      "code": "as.bihpuriamb",
+      "districtCode": "NORTH_LAKHIMPUR",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": ["HN", "EN"]
+    },
+    {
+      "code": "as.bihpuriagp",
+      "districtCode": "NORTH_LAKHIMPUR",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": ["HN", "EN"]
+    },
+    {
+      "code": "as.pubdikronggp",
+      "districtCode": "NORTH_LAKHIMPUR",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": ["HN", "EN"]
+    },
+    {
+      "code": "as.northlakhimpurnarayanpurtcp",
+      "districtCode": "NORTH_LAKHIMPUR",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": ["HN", "EN"]
+    },
+    {
+      "code": "as.narayanpurmb",
+      "districtCode": "NORTH_LAKHIMPUR",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": ["HN", "EN"]
+    },
+    {
+      "code": "as.panbarigp",
+      "districtCode": "NORTH_LAKHIMPUR",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": ["HN", "EN"]
+    },
+    {
+      "code": "as.narayanpurgp",
+      "districtCode": "NORTH_LAKHIMPUR",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": ["HN", "EN"]
+    },
+    {
+      "code": "as.pubnarayanpurgp",
+      "districtCode": "NORTH_LAKHIMPUR",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": ["HN", "EN"]
+    },
+    {
+      "code": "as.pichalagp",
+      "districtCode": "NORTH_LAKHIMPUR",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
       "languagesSpoken": ["HN", "EN"]
     }
   ]

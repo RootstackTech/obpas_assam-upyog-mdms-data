@@ -41,8 +41,8 @@
               {
                 "id": "5bc9a77c-8bee-4bb1-be86-657956dbb2b2",
                 "boundaryNum": 1,
-                "name": "Sandhakairara",
-                "localname": "Sandhakairara",
+                "name": "Bolakuchi",
+                "localname": "Bolakuchi",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
@@ -188,23 +188,12 @@
               {
                 "id": "5op3a77c-8bfe-4bb8-be86-657957dbb2b2",
                 "boundaryNum": 1,
-                "name": "Kotla",
-                "localname": "Kotla",
+                "name": "Kotla Borkuchi",
+                "localname": "Kotla Borkuchi",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
                 "code": "NalbariW5V4",
-                "children": []
-              },
-              {
-                "id": "5ic3a77c-8bfe-4bb8-be86-657957poi2b2",
-                "boundaryNum": 1,
-                "name": "Borkuchi",
-                "localname": "Borkuchi",
-                "longitude": null,
-                "latitude": null,
-                "label": "RevenueVillage",
-                "code": "NalbariW5V5",
                 "children": []
               }
             ]

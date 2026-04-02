@@ -93,6 +93,17 @@
             "label": "Village",
             "code": "DariduriV7",
             "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-b0id-41baf1e71172",
+            "boundaryNum": 1,
+            "name": "Pancharatna NC",
+            "localname": "Pancharatna NC",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "DariduriV8",
+            "children": []
           }
         ]
       }

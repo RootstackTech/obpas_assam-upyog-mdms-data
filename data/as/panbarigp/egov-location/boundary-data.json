@@ -1,0 +1,57 @@
+{
+  "tenantId": "as.panbarigp",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Panbari GP",
+        "localname": "Panbari GP",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.panbarigp",
+        "children": [
+          {
+            "id": "e4c697c1-5531-49e7-8315-5a4f277df593",
+            "boundaryNum": 1,
+            "name": "Panbari",
+            "localname": "Panbari",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "panbariV1",
+            "children": []
+          },
+          {
+            "id": "fe73d04a-4113-4bb5-b467-93a72e92dce4",
+            "boundaryNum": 1,
+            "name": "Mazgaon",
+            "localname": "Mazgaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "panbariV2",
+            "children": []
+          },
+          {
+            "id": "fe73d04a-4113-4bb5-b467-93a72e92dce5",
+            "boundaryNum": 1,
+            "name": "Borkhamti Gaon",
+            "localname": "Borkhamti Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "panbariV3",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}
