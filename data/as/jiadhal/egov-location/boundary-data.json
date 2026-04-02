@@ -40,17 +40,6 @@
             "children": []
           },
           {
-            "id": "7fe7a3e9-81db-43fa-9242-f185f7082h03",
-            "boundaryNum": 3,
-            "name": "Gopak",
-            "localname": "Gopak",
-            "longitude": null,
-            "latitude": null,
-            "label": "RevenueVillage",
-            "code": "JiadhalV3",
-            "children": []
-          },
-          {
             "id": "7fe7a3e9-81db-43fa-9242-f185f7082h04",
             "boundaryNum": 4,
             "name": "2 No. Gopak Sonowal",
@@ -81,17 +70,6 @@
             "latitude": null,
             "label": "RevenueVillage",
             "code": "JiadhalV6",
-            "children": []
-          },
-          {
-            "id": "7fe7a3e9-81db-43fa-9242-f185f7082h07",
-            "boundaryNum": 7,
-            "name": "Kulapathar",
-            "localname": "Kulapathar",
-            "longitude": null,
-            "latitude": null,
-            "label": "RevenueVillage",
-            "code": "JiadhalV7",
             "children": []
           },
           {

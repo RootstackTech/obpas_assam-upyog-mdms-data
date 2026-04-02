@@ -1,0 +1,46 @@
+{
+  "tenantId": "as.pichalagp",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Pichala GP",
+        "localname": "Pichala GP",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.pichalagp",
+        "children": [
+          {
+            "id": "e4c697c1-5531-49e7-8315-5a4f277df593",
+            "boundaryNum": 1,
+            "name": "Makuwari Gaon",
+            "localname": "Makuwari Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "pichalaV1",
+            "children": []
+          },
+          {
+            "id": "e4c697c1-5531-49e7-8315-5a4f277df594",
+            "boundaryNum": 1,
+            "name": "No. 1 Notgaon",
+            "localname": "No. 1 Notgaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "pichalaV2",
+            "children": []
+          }         
+         ]
+      }
+    }
+  ]
+}

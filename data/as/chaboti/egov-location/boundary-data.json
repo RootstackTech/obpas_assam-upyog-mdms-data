@@ -53,8 +53,8 @@
           {
             "id": "905644e5-6cd0-4467-90f9-14f307294cf4",
             "boundaryNum": 1,
-            "name": "Cherapbhati",
-            "localname": "Cherapbhati",
+            "name": "Serapbhati",
+            "localname": "Serapbhati",
             "longitude": null,
             "latitude": null,
             "label": "Village",
@@ -97,8 +97,8 @@
           {
             "id": "15d0bad8-6309-4933-b6a6-f7f386bccbdd",
             "boundaryNum": 1,
-            "name": "Borimuri",
-            "localname": "Borimuri",
+            "name": "Barimuri",
+            "localname": "Barimuri",
             "longitude": null,
             "latitude": null,
             "label": "Village",
@@ -108,8 +108,8 @@
           {
             "id": "d9aa88dc-4405-4639-a736-9c3ec8ea6227",
             "boundaryNum": 1,
-            "name": "Borbocha",
-            "localname": "Borbocha",
+            "name": "Bahatia",
+            "localname": "Bahatia",
             "longitude": null,
             "latitude": null,
             "label": "Village",
@@ -130,8 +130,8 @@
           {
             "id": "6dc20e8c-16d3-4e27-8112-799734194aa3",
             "boundaryNum": 1,
-            "name": "Borbil",
-            "localname": "Borbil",
+            "name": "Rawnapur (A part only)",
+            "localname": "Rawnapur (A part only)",
             "longitude": null,
             "latitude": null,
             "label": "Village",
@@ -141,8 +141,8 @@
           {
             "id": "d97488fc-5e81-4bca-a70f-2e4fb6d1d0ae",
             "boundaryNum": 1,
-            "name": "2 No. Rangajan Part-I",
-            "localname": "2 No. Rangajan Part-I",
+            "name": "Bantow Bangali Gaon",
+            "localname": "Bantow Bangali Gaon",
             "longitude": null,
             "latitude": null,
             "label": "Village",
@@ -152,12 +152,23 @@
           {
             "id": "607ca17f-ee31-480b-82aa-5522c220ca94",
             "boundaryNum": 1,
-            "name": "2 No. Rangajan Part-II",
-            "localname": "2 No. Rangajan Part-II",
+            "name": "Chandmari",
+            "localname": "Chandmari",
             "longitude": null,
             "latitude": null,
             "label": "Village",
             "code": "chabotiV65",
+            "children": []
+          },
+          {
+            "id": "607ca17f-ee31-480b-82aa-5522c220ca95",
+            "boundaryNum": 1,
+            "name": "Niz Santipur (Cinatolia)",
+            "localname": "Niz Santipur (Cinatolia)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "chabotiV66",
             "children": []
           }
         ]

@@ -62,17 +62,6 @@
             "children": []
           },
           {
-            "id": "7fe7a3e9-81db-43fa-9242-f185f7082e05",
-            "boundaryNum": 5,
-            "name": "Gohain gaon",
-            "localname": "Gohain gaon",
-            "longitude": null,
-            "latitude": null,
-            "label": "RevenueVillage",
-            "code": "GohaingaonV5",
-            "children": []
-          },
-          {
             "id": "7fe7a3e9-81db-43fa-9242-f185f7082e06",
             "boundaryNum": 6,
             "name": "Gowal gaon",
@@ -108,8 +97,8 @@
           {
             "id": "7fe7a3e9-81db-43fa-9242-f185f7082e09",
             "boundaryNum": 9,
-            "name": "Gohain Gaon",
-            "localname": "Gohain Gaon",
+            "name": "Bakal Gaon",
+            "localname": "Bakal Gaon",
             "longitude": null,
             "latitude": null,
             "label": "RevenueVillage",
@@ -213,17 +202,6 @@
             "latitude": null,
             "label": "RevenueVillage",
             "code": "GohaingaonV18",
-            "children": []
-          },
-          {
-            "id": "7fe7a3e9-81db-43fa-9242-f185f7082e19",
-            "boundaryNum": 19,
-            "name": "Gowal Gaon",
-            "localname": "Gowal Gaon",
-            "longitude": null,
-            "latitude": null,
-            "label": "RevenueVillage",
-            "code": "GohaingaonV19",
             "children": []
           }
         ]

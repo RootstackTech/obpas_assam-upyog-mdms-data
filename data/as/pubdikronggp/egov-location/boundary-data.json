@@ -1,0 +1,46 @@
+{
+  "tenantId": "as.pubdikronggp",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Pub Dikrong GP",
+        "localname": "Pub Dikrong GP",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.pubdikronggp",
+        "children": [
+          {
+            "id": "e4c697c1-5531-49e7-8315-5a4f277df593",
+            "boundaryNum": 1,
+            "name": "Mornoi Part-I",
+            "localname": "Mornoi Part-I",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "pubdikrongV1",
+            "children": []
+          },
+          {
+            "id": "fe73d04a-4113-4bb5-b467-93a72e92dce4",
+            "boundaryNum": 1,
+            "name": "Mornoi Part-II",
+            "localname": "Mornoi Part-II",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "pubdikrongV2",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

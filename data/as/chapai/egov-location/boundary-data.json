@@ -73,17 +73,6 @@
             "children": []
           },
           {
-            "id": "49e52351-be4c-474c-b3cd-41baf1e71171",
-            "boundaryNum": 1,
-            "name": "Bezpara Part A only",
-            "localname": "Bezpara Part A only",
-            "longitude": null,
-            "latitude": null,
-            "label": "Village",
-            "code": "ChapaiV6",
-            "children": []
-          },
-          {
             "id": "49c52351-be4c-474c-b0id-41baf1e71171",
             "boundaryNum": 1,
             "name": "Tengabari",

@@ -1,0 +1,90 @@
+{
+  "tenantId": "as.narayanpurgp",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Narayanpur GP",
+        "localname": "Narayanpur GP",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.narayanpurgp",
+        "children": [
+          {
+            "id": "e4c697c1-5531-49e7-8315-5a4f277df593",
+            "boundaryNum": 1,
+            "name": "Bengena-ati Khat",
+            "localname": "Bengena-ati Khat",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "narayanpurV1",
+            "children": []
+          },
+          {
+            "id": "fe73d04a-4113-4bb5-b467-93a72e92dce4",
+            "boundaryNum": 1,
+            "name": "Saukuchi Gaon",
+            "localname": "Saukuchi Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "narayanpurV2",
+            "children": []
+          },
+          {
+            "id": "fe73d04a-4113-4bb5-b467-93a72e92dce5",
+            "boundaryNum": 1,
+            "name": "Narayanpur Gaon",
+            "localname": "Narayanpur Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "narayanpurV3",
+            "children": []
+          },
+          {
+            "id": "fe73d04a-4113-4bb5-b467-93a72e92dce6",
+            "boundaryNum": 1,
+            "name": "Dongia Gaon",
+            "localname": "Dongia Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "narayanpurV4",
+            "children": []
+          },
+          {
+            "id": "fe73d04a-4113-4bb5-b467-93a72e92dce7",
+            "boundaryNum": 1,
+            "name": "1 No. Harmoti Part - I",
+            "localname": "1 No. Harmoti Part - I",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "narayanpurV5",
+            "children": []
+          },
+          {
+            "id": "fe73d04a-4113-4bb5-b467-93a72e92dce8",
+            "boundaryNum": 1,
+            "name": "1 No. Harmoti Part - II",
+            "localname": "1 No. Harmoti Part - II",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "narayanpurV6",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

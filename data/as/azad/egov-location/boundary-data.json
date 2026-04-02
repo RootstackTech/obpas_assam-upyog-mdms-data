@@ -20,8 +20,8 @@
           {
             "id": "9b94aabf-0f89-4bb6-ae98-a667e8093d8f",
             "boundaryNum": 1,
-            "name": "Japisajia",
-            "localname": "Japisajia",
+            "name": "Japisojia",
+            "localname": "Japisojia",
             "longitude": null,
             "latitude": null,
             "label": "Village",
@@ -75,23 +75,12 @@
           {
             "id": "929a2756-f657-430d-91c3-d25bfd8809e1",
             "boundaryNum": 1,
-            "name": "Dhenudharia Karchan",
-            "localname": "Dhenudharia Karchan",
+            "name": "Gharmara (A part only)",
+            "localname": "Gharmara (A part only)",
             "longitude": null,
             "latitude": null,
             "label": "Village",
             "code": "azadV66",
-            "children": []
-          },
-          {
-            "id": "1a8b6132-bfe9-4195-980b-053cfecb4a8c",
-            "boundaryNum": 1,
-            "name": "Kharkhari Bakal",
-            "localname": "Kharkhari Bakal",
-            "longitude": null,
-            "latitude": null,
-            "label": "Village",
-            "code": "azadV69",
             "children": []
           }
         ]

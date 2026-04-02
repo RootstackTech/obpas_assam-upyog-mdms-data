@@ -20,8 +20,8 @@
           {
             "id": "cb84425e-ecf9-40ed-a41e-b0aeaf45f1dc",
             "boundaryNum": 1,
-            "name": "Nalkata Bowalguri",
-            "localname": "Nalkata Bowalguri",
+            "name": "Nalkata Buwalguri",
+            "localname": "Nalkata Buwalguri",
             "longitude": null,
             "latitude": null,
             "label": "Village",
@@ -31,8 +31,8 @@
           {
             "id": "5299fad5-8625-4cae-a9f6-192fc1013e0e",
             "boundaryNum": 1,
-            "name": "Cinatolia",
-            "localname": "Cinatolia",
+            "name": "Hatilung",
+            "localname": "Hatilung",
             "longitude": null,
             "latitude": null,
             "label": "Village",
@@ -42,8 +42,8 @@
           {
             "id": "01b3ae3e-c83f-4aa8-8657-4182aee9f283",
             "boundaryNum": 1,
-            "name": "Guburihali Part-I",
-            "localname": "Guburihali Part-I",
+            "name": "Guburihali No.I (A Part only)",
+            "localname": "Guburihali No.I (A Part only)",
             "longitude": null,
             "latitude": null,
             "label": "Village",
@@ -51,69 +51,14 @@
             "children": []
           },
           {
-            "id": "365b9bb9-de62-4125-8644-a9a13b7eac31",
-            "boundaryNum": 1,
-            "name": "Guburihali Part-II",
-            "localname": "Guburihali Part-II",
-            "longitude": null,
-            "latitude": null,
-            "label": "Village",
-            "code": "bogolijanV27",
-            "children": []
-          },
-          {
-            "id": "4d37704a-1601-40dd-b886-72b1e5c41bb7",
-            "boundaryNum": 1,
-            "name": "Hatilung",
-            "localname": "Hatilung",
-            "longitude": null,
-            "latitude": null,
-            "label": "Village",
-            "code": "bogolijanV35",
-            "children": []
-          },
-          {
             "id": "6746a310-69ed-4afa-84cf-4ff2e92ae4ce",
             "boundaryNum": 1,
-            "name": "Pahumora Ujanimiri",
-            "localname": "Pahumora Ujanimiri",
+            "name": "Pahumara Ujanimiri",
+            "localname": "Pahumara Ujanimiri",
             "longitude": null,
             "latitude": null,
             "label": "Village",
             "code": "bogolijanV36",
-            "children": []
-          },
-          {
-            "id": "1cc642ed-431d-41e5-baed-9cb7eca94a06",
-            "boundaryNum": 1,
-            "name": "Bantow Bangali",
-            "localname": "Bantow Bangali",
-            "longitude": null,
-            "latitude": null,
-            "label": "Village",
-            "code": "bogolijanV46",
-            "children": []
-          },
-          {
-            "id": "b56ac6de-0912-4523-af6f-4cb33c13c92f",
-            "boundaryNum": 1,
-            "name": "Bagalijan",
-            "localname": "Bagalijan",
-            "longitude": null,
-            "latitude": null,
-            "label": "Village",
-            "code": "bogolijanV50",
-            "children": []
-          },
-          {
-            "id": "a0e7134d-243f-4ccf-87d6-874e5fa471b7",
-            "boundaryNum": 1,
-            "name": "Kulamon Miri",
-            "localname": "Kulamon Miri",
-            "longitude": null,
-            "latitude": null,
-            "label": "Village",
-            "code": "bogolijanV52",
             "children": []
           }
         ]

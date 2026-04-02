@@ -1,0 +1,35 @@
+{
+  "tenantId": "as.pubnarayanpurgp",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Pub Narayanpur GP",
+        "localname": "Pub Narayanpur GP",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.pubnarayanpurgp",
+        "children": [
+          {
+            "id": "e4c697c1-5531-49e7-8315-5a4f277df593",
+            "boundaryNum": 1,
+            "name": "Jalbharia Gaon",
+            "localname": "Jalbharia Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "pubnarayanpurV1",
+            "children": []
+          }      
+         ]
+      }
+    }
+  ]
+}
