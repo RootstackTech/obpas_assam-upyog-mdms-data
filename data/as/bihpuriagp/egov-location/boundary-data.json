@@ -1,0 +1,101 @@
+{
+  "tenantId": "as.bihpuriagp",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Bihpuria GP",
+        "localname": "Bihpuria GP",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.bihpuriagp",
+        "children": [
+          {
+            "id": "e4c697c1-5531-49e7-8315-5a4f277df593",
+            "boundaryNum": 1,
+            "name": "Rajbari",
+            "localname": "Rajbari",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BihpuriaV1",
+            "children": []
+          },
+          {
+            "id": "fe73d04a-4113-4bb5-b467-93a72e92dce4",
+            "boundaryNum": 1,
+            "name": "1 No. Gosai Pather",
+            "localname": "1 No. Gosai Pather",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BihpuriaV2",
+            "children": []
+          },
+          {
+            "id": "fe73d04a-4113-4bb5-b467-93a72e92dce4",
+            "boundaryNum": 1,
+            "name": "2 No. Gosai Pather Part-I",
+            "localname": "2 No. Gosai Pather Part-I",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BihpuriaV3",
+            "children": []
+          },
+          {
+            "id": "fe73d04a-4113-4bb5-b467-93a72e92dce4",
+            "boundaryNum": 1,
+            "name": "2 No. Gosai Pather Part-II",
+            "localname": "2 No. Gosai Pather Part-II",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BihpuriaV4",
+            "children": []
+          },
+          {
+            "id": "fe73d04a-4113-4bb5-b467-93a72e92dce4",
+            "boundaryNum": 1,
+            "name": "Kawoimari Gaon",
+            "localname": "Kawoimari Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BihpuriaV5",
+            "children": []
+          },
+          {
+            "id": "fe73d04a-4113-4bb5-b467-93a72e92dce4",
+            "boundaryNum": 1,
+            "name": "Morisha Pathar",
+            "localname": "Morisha Pathar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BihpuriaV6",
+            "children": []
+          },
+          {
+            "id": "fe73d04a-4113-4bb5-b467-93a72e92dce4",
+            "boundaryNum": 1,
+            "name": "Bihpuria Gaon",
+            "localname": "Bihpuria Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BihpuriaV7",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

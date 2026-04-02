@@ -18,17 +18,6 @@
         "code": "as.chamuapara",
         "children": [
           {
-            "id": "49c52357-be4c-474c-b3cd-41baf1e71171",
-            "boundaryNum": 1,
-            "name": "Lankapuri",
-            "localname": "Lankapuri",
-            "longitude": null,
-            "latitude": null,
-            "label": "Village",
-            "code": "ChamuaparaV1",
-            "children": []
-          },
-          {
             "id": "49c52351-be4c-474c-b3cd-41baf1e71171",
             "boundaryNum": 1,
             "name": "Saloipara-1",

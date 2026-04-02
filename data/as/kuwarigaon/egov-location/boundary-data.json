@@ -20,8 +20,8 @@
           {
             "id": "a4691f3d-0cd2-4c75-9fdb-642d48b7e2e7",
             "boundaryNum": 1,
-            "name": "Kumargaon",
-            "localname": "Kumargaon",
+            "name": "Kumargaon Part (2)",
+            "localname": "Kumargaon Part (2)",
             "longitude": null,
             "latitude": null,
             "label": "Village",
@@ -42,8 +42,8 @@
           {
             "id": "d304ce1e-ba3f-4dd6-8e9a-beae143151d8",
             "boundaryNum": 1,
-            "name": "Japaubari",
-            "localname": "Japaubari",
+            "name": "Falfali",
+            "localname": "Falfali",
             "longitude": null,
             "latitude": null,
             "label": "Village",
@@ -64,8 +64,8 @@
           {
             "id": "7f4794c1-d120-4079-afcc-c03cd4fc655b",
             "boundaryNum": 1,
-            "name": "Ghopsadharu",
-            "localname": "Ghopsadharu",
+            "name": "Japaubari",
+            "localname": "Japaubari",
             "longitude": null,
             "latitude": null,
             "label": "Village",
@@ -75,12 +75,23 @@
           {
             "id": "c784e989-fc5f-4549-a891-81f64d1b7348",
             "boundaryNum": 1,
-            "name": "Kuori Gaon",
-            "localname": "Kuori Gaon",
+            "name": "KuworiGaon",
+            "localname": "KuworiGaon",
             "longitude": null,
             "latitude": null,
             "label": "Village",
             "code": "kuwarigaonV6",
+            "children": []
+          },
+          {
+            "id": "c784e989-fc5f-4549-a891-81f64d1b7349",
+            "boundaryNum": 1,
+            "name": "Haidabari",
+            "localname": "Haidabari",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "kuwarigaonV7",
             "children": []
           }
         ]

@@ -31,8 +31,8 @@
           {
             "id": "f61a10f9-0697-494f-afd7-ebb45bc29c66",
             "boundaryNum": 1,
-            "name": "Maralgaon",
-            "localname": "Maralgaon",
+            "name": "S Maralgaon",
+            "localname": "S Maralgaon",
             "longitude": null,
             "latitude": null,
             "label": "Village",
@@ -40,14 +40,36 @@
             "children": []
           },
           {
-            "id": "4468f6e8-9d51-4e7d-9b73-62a6351933a2",
+            "id": "4468f6e8-9d51-4e7d-9b73-62a6351933a3",
             "boundaryNum": 1,
-            "name": "Japariguri",
-            "localname": "Japariguri",
+            "name": "Bhagmari",
+            "localname": "Bhagmari",
             "longitude": null,
             "latitude": null,
             "label": "Village",
             "code": "burigangV3",
+            "children": []
+          },
+          {
+            "id": "4468f6e8-9d51-4e7d-9b73-62a6351933a4",
+            "boundaryNum": 1,
+            "name": "Kubaigorha",
+            "localname": "Kubaigorha",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "burigangV4",
+            "children": []
+          },
+          {
+            "id": "4468f6e8-9d51-4e7d-9b73-62a6351933a5",
+            "boundaryNum": 1,
+            "name": "Samarikhua",
+            "localname": "Samarikhua",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "burigangV5",
             "children": []
           }
         ]

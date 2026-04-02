@@ -126,6 +126,17 @@
             "label": "RevenueVillage",
             "code": "HatigarhV10",
             "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082f11",
+            "boundaryNum": 10,
+            "name": "Chengelipathar Gaon Pt-III",
+            "localname": "Chengelipathar Gaon Pt-III",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "HatigarhV11",
+            "children": []
           }
         ]
       }

@@ -20,23 +20,12 @@
           {
             "id": "cb678beb-1c41-450f-a795-3b5d0cc54b57",
             "boundaryNum": 1,
-            "name": "Nilpur",
-            "localname": "Nilpur",
+            "name": "Nilpur Part",
+            "localname": "Nilpur Part",
             "longitude": null,
             "latitude": null,
             "label": "Village",
             "code": "mukhargarhV1",
-            "children": []
-          },
-          {
-            "id": "5b347796-159d-4e61-9ea9-08b7e5ab4c56",
-            "boundaryNum": 1,
-            "name": "Pratapgarh",
-            "localname": "Pratapgarh",
-            "longitude": null,
-            "latitude": null,
-            "label": "Village",
-            "code": "mukhargarhV2",
             "children": []
           }
         ]

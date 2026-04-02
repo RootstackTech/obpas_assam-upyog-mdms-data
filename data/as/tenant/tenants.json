@@ -37,8 +37,8 @@
     },
     {
       "code": "as.nalbarimb",
-      "name": "Nalbari Municipal Corporation",
-      "description": "Nalbari Municipal Corporation",
+      "name": "Nalbari Municipal Board",
+      "description": "Nalbari Municipal Board",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -2075,8 +2075,8 @@
         "districtName": "Darang",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "DARANG",
-        "districtTenantCode": "as.mangaldoimb",
-        "planningAreaCode": "MANGOLDAI_MP",
+        "districtTenantCode": "as.chapai",
+        "planningAreaCode": "MANGALDOI_MP",
         "code": "1700",
         "ddrName": "Chapai Gram Panchayat"
       }
@@ -2096,8 +2096,8 @@
         "districtName": "Darang",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "DARANG",
-        "districtTenantCode": "as.mangaldoimb",
-        "planningAreaCode": "MANGOLDAI_MP",
+        "districtTenantCode": "as.nagarbahi",
+        "planningAreaCode": "MANGALDOI_MP",
         "code": "1701",
         "ddrName": "Nagarbahi Gram Panchayat"
       }
@@ -2117,8 +2117,8 @@
         "districtName": "Darang",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "DARANG",
-        "districtTenantCode": "as.mangaldoimb",
-        "planningAreaCode": "MANGOLDAI_MP",
+        "districtTenantCode": "as.mowamari",
+        "planningAreaCode": "MANGALDOI_MP",
         "code": "1702",
         "ddrName": "Mowamari Gram Panchayat"
       }
@@ -2138,8 +2138,8 @@
         "districtName": "Darang",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "DARANG",
-        "districtTenantCode": "as.mangaldoimb",
-        "planningAreaCode": "MANGOLDAI_MP",
+        "districtTenantCode": "as.upahupara",
+        "planningAreaCode": "MANGALDOI_MP",
         "code": "1703",
         "ddrName": "Upahupara Gram Panchayat"
       }
@@ -2159,8 +2159,8 @@
         "districtName": "Darang",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "DARANG",
-        "districtTenantCode": "as.mangaldoimb",
-        "planningAreaCode": "MANGOLDAI_MP",
+        "districtTenantCode": "as.bandia",
+        "planningAreaCode": "MANGALDOI_MP",
         "code": "1704",
         "ddrName": "Bandia Gram Panchayat"
       }
@@ -2180,8 +2180,8 @@
         "districtName": "Darang",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "DARANG",
-        "districtTenantCode": "as.mangaldoimb",
-        "planningAreaCode": "MANGOLDAI_MP",
+        "districtTenantCode": "as.chamuapara",
+        "planningAreaCode": "MANGALDOI_MP",
         "code": "1705",
         "ddrName": "Chamuapara Gram Panchayat"
       }
@@ -2411,7 +2411,7 @@
         "districtName": "Goalpara",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "GOALPARA",
-        "districtTenantCode": "as.goalparamb",
+        "districtTenantCode": "as.dariduri",
         "planningAreaCode": "GOALPARA_MP",
         "code": "1716",
         "ddrName": "Dariduri Gram Panchayat"
@@ -2432,7 +2432,7 @@
         "districtName": "Goalpara",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "GOALPARA",
-        "districtTenantCode": "as.goalparamb",
+        "districtTenantCode": "as.hashila",
         "planningAreaCode": "GOALPARA_MP",
         "code": "1717",
         "ddrName": "Hashila Gram Panchayat"
@@ -2453,7 +2453,7 @@
         "districtName": "Goalpara",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "GOALPARA",
-        "districtTenantCode": "as.goalparamb",
+        "districtTenantCode": "as.kumri",
         "planningAreaCode": "GOALPARA_MP",
         "code": "1718",
         "ddrName": "Kumri Gram Panchayat"
@@ -2474,7 +2474,7 @@
         "districtName": "Goalpara",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "GOALPARA",
-        "districtTenantCode": "as.goalparamb",
+        "districtTenantCode": "as.bhalukdubi",
         "planningAreaCode": "GOALPARA_MP",
         "code": "1719",
         "ddrName": "Bhalukdubi Gram Panchayat"
@@ -2831,7 +2831,7 @@
         "districtName": "North Lakhimpur",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "NORTH_LAKHIMPUR",
-        "districtTenantCode": "as.northlakhimpurmb",
+        "districtTenantCode": "as.lakhimpur",
         "planningAreaCode": "NORTH_LAKHIMPUR_MP",
         "code": "1740",
         "ddrName": "Lakhimpur Gram Panchayat"
@@ -2852,7 +2852,7 @@
         "districtName": "North Lakhimpur",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "NORTH_LAKHIMPUR",
-        "districtTenantCode": "as.northlakhimpurmb",
+        "districtTenantCode": "as.ujjalpur",
         "planningAreaCode": "NORTH_LAKHIMPUR_MP",
         "code": "1741",
         "ddrName": "Ujjalpur Gram Panchayat"
@@ -2873,7 +2873,7 @@
         "districtName": "North Lakhimpur",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "NORTH_LAKHIMPUR",
-        "districtTenantCode": "as.northlakhimpurmb",
+        "districtTenantCode": "as.chaboti",
         "planningAreaCode": "NORTH_LAKHIMPUR_MP",
         "code": "1742",
         "ddrName": "Chaboti Gram Panchayat"
@@ -2894,7 +2894,7 @@
         "districtName": "North Lakhimpur",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "NORTH_LAKHIMPUR",
-        "districtTenantCode": "as.northlakhimpurmb",
+        "districtTenantCode": "as.bogolijan",
         "planningAreaCode": "NORTH_LAKHIMPUR_MP",
         "code": "1743",
         "ddrName": "Bogolijan Gram Panchayat"
@@ -2936,7 +2936,7 @@
         "districtName": "North Lakhimpur",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "NORTH_LAKHIMPUR",
-        "districtTenantCode": "as.northlakhimpurmb",
+        "districtTenantCode": "as.kamalaboria",
         "planningAreaCode": "NORTH_LAKHIMPUR_MP",
         "code": "1745",
         "ddrName": "Kamalaboria Gram Panchayat"
@@ -2957,7 +2957,7 @@
         "districtName": "North Lakhimpur",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "NORTH_LAKHIMPUR",
-        "districtTenantCode": "as.northlakhimpurmb",
+        "districtTenantCode": "as.azad",
         "planningAreaCode": "NORTH_LAKHIMPUR_MP",
         "code": "1746",
         "ddrName": "Azad Gram Panchayat"
@@ -3062,7 +3062,7 @@
         "districtName": "Dhemaji",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "DHEMAJI",
-        "districtTenantCode": "as.dhemajimb",
+        "districtTenantCode": "as.bishnupur",
         "planningAreaCode": "DHEMAJI_MP",
         "code": "1751",
         "ddrName": "Bishnupur Gram Panchayat"
@@ -3104,7 +3104,7 @@
         "districtName": "Dhemaji",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "DHEMAJI",
-        "districtTenantCode": "as.dhemajimb",
+        "districtTenantCode": "as.gohaingaon",
         "planningAreaCode": "DHEMAJI_MP",
         "code": "1753",
         "ddrName": "Gohain Gaon Gram Panchayat"
@@ -3125,7 +3125,7 @@
         "districtName": "Dhemaji",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "DHEMAJI",
-        "districtTenantCode": "as.dhemajimb",
+        "districtTenantCode": "as.hatigarh",
         "planningAreaCode": "DHEMAJI_MP",
         "code": "1754",
         "ddrName": "Hatigarh Gram Panchayat"
@@ -3146,7 +3146,7 @@
         "districtName": "Dhemaji",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "DHEMAJI",
-        "districtTenantCode": "as.dhemajimb",
+        "districtTenantCode": "as.dakhindhemaji",
         "planningAreaCode": "DHEMAJI_MP",
         "code": "1755",
         "ddrName": "Dakhin Dhemaji Gram Panchayat"
@@ -3167,7 +3167,7 @@
         "districtName": "Dhemaji",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "DHEMAJI",
-        "districtTenantCode": "as.dhemajimb",
+        "districtTenantCode": "as.jiadhal",
         "planningAreaCode": "DHEMAJI_MP",
         "code": "1756",
         "ddrName": "Jiadhal Gram Panchayat"
@@ -3188,7 +3188,7 @@
         "districtName": "Dhemaji",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "DHEMAJI",
-        "districtTenantCode": "as.dhemajimb",
+        "districtTenantCode": "as.moridhal",
         "planningAreaCode": "DHEMAJI_MP",
         "code": "1757",
         "ddrName": "Moridhal Gram Panchayat"
@@ -5603,7 +5603,7 @@
         "districtName": "Goalpara",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "GOALPARA",
-        "districtTenantCode": "as.goalparamb",
+        "districtTenantCode": "as.kalyanpur",
         "planningAreaCode": "GOALPARA_MP",
         "code": "1872",
         "ddrName": "Kalyanpur Gram Panchayat"
@@ -7204,6 +7204,237 @@
         "planningAreaCode": "TEZPUR_MP",
         "code": "2073",
         "ddrName": "Bessaria GP"
+      }
+    },
+    {
+      "code": "as.ramharigp",
+      "name": "Ramhari Gram Panchayat",
+      "description": "Ramhari Gram Panchayat",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": "info.ramharigp@gmail.com",
+      "city": {
+        "name": "Ramhari Gram Panchayat",
+        "districtName": "Darang",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "DARANG",
+        "districtTenantCode": "as.ramharigp",
+        "planningAreaCode": "MANGALDOI_MP",
+        "code": "2074",
+        "ddrName": "Ramhari Gram Panchayat"
+      }
+    },
+        {
+      "code": "as.northlakhimpurbihpuriatcp",
+      "name": "North Lakimpur(Bihpuria) Town and Country Planning",
+      "description": "North Lakimpur(Bihpuria) Town and Country Planning",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "North Lakimpur(Bihpuria) Town and Country Planning",
+        "districtName": "North Lakhimpur",
+        "ulbGrade": "TOWN_AND_COUNTRY_PLANNING",
+        "districtCode": "NORTH_LAKHIMPUR",
+        "districtTenantCode": "as.northlakhimpurbihpuriatcp",
+        "planningAreaCode": "BIHPURIA_MP",
+        "code": "2075",
+        "ddrName": "North Lakimpur(Bihpuria) Town and Country Planning"
+      }
+    },
+        {
+      "code": "as.bihpuriamb",
+      "name": "Bihpuria Municipal Board",
+      "description": "Bihpuria Municipal Board",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "Bihpuria Municipal Board",
+        "districtName": "North Lakhimpur",
+        "ulbGrade": "MUNICIPAL_BOARD",
+        "districtCode": "NORTH_LAKHIMPUR",
+        "districtTenantCode": "as.bihpuriamb",
+        "planningAreaCode": "BIHPURIA_MP",
+        "code": "2076",
+        "ddrName": "Bihpuria Municipal Board"
+      }
+    },
+        {
+      "code": "as.bihpuriagp",
+      "name": "Bihpuria Gram Panchayat",
+      "description": "Bihpuria Gram Panchayat",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "Bihpuria Gram Panchayat",
+        "districtName": "North Lakhimpur",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "NORTH_LAKHIMPUR",
+        "districtTenantCode": "as.bihpuriagp",
+        "planningAreaCode": "BIHPURIA_MP",
+        "code": "2077",
+        "ddrName": "Bihpuria Gram Panchayat"
+      }
+    },
+    {
+      "code": "as.pubdikronggp",
+      "name": "Pub Dikrong Gram Panchayat",
+      "description": "Pub Dikrong Gram Panchayat",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "Pub Dikrong Gram Panchayat",
+        "districtName": "North Lakhimpur",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "NORTH_LAKHIMPUR",
+        "districtTenantCode": "as.pubdikronggp",
+        "planningAreaCode": "BIHPURIA_MP",
+        "code": "2078",
+        "ddrName": "Pub Dikrong Gram Panchayat"
+      }
+    },
+    {
+      "code": "as.northlakhimpurnarayanpurtcp",
+      "name": "North Lakimpur(Narayanpur) Town and Country Planning",
+      "description": "North Lakimpur(Narayanpur) Town and Country Planning",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "North Lakimpur(Narayanpur) Town and Country Planning",
+        "districtName": "North Lakhimpur",
+        "ulbGrade": "TOWN_AND_COUNTRY_PLANNING",
+        "districtCode": "NORTH_LAKHIMPUR",
+        "districtTenantCode": "as.northlakhimpurnarayanpurtcp",
+        "planningAreaCode": "NARAYANPUR_MP",
+        "code": "2079",
+        "ddrName": "North Lakimpur(Narayanpur) Town and Country Planning"
+      }
+    },
+    {
+      "code": "as.narayanpurmb",
+      "name": "Narayanpur Municipal Board",
+      "description": "Narayanpur Municipal Board",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "Narayanpur Municipal Board",
+        "districtName": "North Lakhimpur",
+        "ulbGrade": "MUNICIPAL_BOARD",
+        "districtCode": "NORTH_LAKHIMPUR",
+        "districtTenantCode": "as.narayanpurmb",
+        "planningAreaCode": "NARAYANPUR_MP",
+        "code": "2080",
+        "ddrName": "Narayanpur Municipal Board"
+      }
+    },
+    {
+      "code": "as.panbarigp",
+      "name": "Panbari Gram Panchayat",
+      "description": "Panbari Gram Panchayat",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "Panbari Gram Panchayat",
+        "districtName": "North Lakhimpur",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "NORTH_LAKHIMPUR",
+        "districtTenantCode": "as.panbarigp",
+        "planningAreaCode": "NARAYANPUR_MP",
+        "code": "2081",
+        "ddrName": "Panbari Gram Panchayat"
+      }
+    },
+    {
+      "code": "as.narayanpurgp",
+      "name": "Narayanpur Gram Panchayat",
+      "description": "Narayanpur Gram Panchayat",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "Narayanpur Gram Panchayat",
+        "districtName": "North Lakhimpur",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "NORTH_LAKHIMPUR",
+        "districtTenantCode": "as.narayanpurgp",
+        "planningAreaCode": "NARAYANPUR_MP",
+        "code": "2082",
+        "ddrName": "Narayanpur Gram Panchayat"
+      }
+    },
+    {
+      "code": "as.pubnarayanpurgp",
+      "name": "Pub Narayanpur Gram Panchayat",
+      "description": "Pub Narayanpur Gram Panchayat",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "Pub Narayanpur Gram Panchayat",
+        "districtName": "North Lakhimpur",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "NORTH_LAKHIMPUR",
+        "districtTenantCode": "as.pubnarayanpurgp",
+        "planningAreaCode": "NARAYANPUR_MP",
+        "code": "2083",
+        "ddrName": "Pub Narayanpur Gram Panchayat"
+      }
+    },
+    {
+      "code": "as.pichalagp",
+      "name": "Pichala Gram Panchayat",
+      "description": "Pichala Gram Panchayat",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "Pichala Gram Panchayat",
+        "districtName": "North Lakhimpur",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "NORTH_LAKHIMPUR",
+        "districtTenantCode": "as.pichalagp",
+        "planningAreaCode": "NARAYANPUR_MP",
+        "code": "2084",
+        "ddrName": "Pichala Gram Panchayat"
       }
     }
   ]

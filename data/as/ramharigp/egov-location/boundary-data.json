@@ -1,0 +1,35 @@
+{
+  "tenantId": "as.ramharigp",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Ramhari GP",
+        "localname": "Ramhari GP",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.ramharigp",
+        "children": [
+          {
+            "id": "49c52351-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Lankapuri",
+            "localname": "Lankapuri",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "RamhariV1",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -20,8 +20,8 @@
           {
             "id": "aafc7230-3761-46a8-8285-df289abec158",
             "boundaryNum": 1,
-            "name": "Dhalnoi Chapori",
-            "localname": "Dhalnoi Chapori",
+            "name": "Dhalnai Chapari",
+            "localname": "Dhalnai Chapari",
             "longitude": null,
             "latitude": null,
             "label": "Village",
@@ -31,8 +31,8 @@
           {
             "id": "3ce72916-b812-443d-ad74-c594cefbff4f",
             "boundaryNum": 1,
-            "name": "Charaimoria",
-            "localname": "Charaimoria",
+            "name": "Charaimaria",
+            "localname": "Charaimaria",
             "longitude": null,
             "latitude": null,
             "label": "Village",
@@ -42,8 +42,8 @@
           {
             "id": "9ae552e9-f193-42b1-9265-50843b25cad7",
             "boundaryNum": 1,
-            "name": "Bihuapam Part-I",
-            "localname": "Bihuapam Part-I",
+            "name": "Bihuapam (A part only)",
+            "localname": "Bihuapam (A part only)",
             "longitude": null,
             "latitude": null,
             "label": "Village",
@@ -51,21 +51,10 @@
             "children": []
           },
           {
-            "id": "ee73796b-fad4-41e5-aeb2-ba7253182f63",
-            "boundaryNum": 1,
-            "name": "Bihuapam Part-II",
-            "localname": "Bihuapam Part-II",
-            "longitude": null,
-            "latitude": null,
-            "label": "Village",
-            "code": "nakadamV31",
-            "children": []
-          },
-          {
             "id": "01ec3bb1-24d5-4a15-875b-af2945575357",
             "boundaryNum": 1,
-            "name": "Tipukial",
-            "localname": "Tipukial",
+            "name": "Tipukial (A part only)",
+            "localname": "Tipukial (A part only)",
             "longitude": null,
             "latitude": null,
             "label": "Village",
@@ -75,23 +64,12 @@
           {
             "id": "3e9e44be-a259-4104-98ba-0b00aff7049a",
             "boundaryNum": 1,
-            "name": "Nagaon",
-            "localname": "Nagaon",
+            "name": "Tipukial",
+            "localname": "Tipukial",
             "longitude": null,
             "latitude": null,
             "label": "Village",
             "code": "nakadamV58",
-            "children": []
-          },
-          {
-            "id": "617f9151-5f7c-4c2d-9679-325097ec63a3",
-            "boundaryNum": 1,
-            "name": "Nagaon Pathar",
-            "localname": "Nagaon Pathar",
-            "longitude": null,
-            "latitude": null,
-            "label": "Village",
-            "code": "nakadamV59",
             "children": []
           }
         ]

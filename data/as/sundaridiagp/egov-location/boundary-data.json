@@ -20,8 +20,8 @@
           {
             "id": "54edf265-6fe3-4ed8-9054-030af4a6b6a0",
             "boundaryNum": 1,
-            "name": "Sundaridiya",
-            "localname": "Sundaridiya",
+            "name": "Sundaridia",
+            "localname": "Sundaridia",
             "longitude": null,
             "latitude": null,
             "label": "Village",
@@ -31,8 +31,19 @@
           {
             "id": "6fb471d8-48f6-44bb-99b5-2b7d9a007f22",
             "boundaryNum": 1,
-            "name": "Dangarkuchi",
-            "localname": "Dangarkuchi",
+            "name": "Dangarkuchi Gaon",
+            "localname": "Dangarkuchi Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "SundaridiaV2",
+            "children": []
+          },
+          {
+            "id": "6fb471d8-48f6-44bb-99b5-2b7d9a007f22",
+            "boundaryNum": 1,
+            "name": "Joti Gaon",
+            "localname": "Joti Gaon",
             "longitude": null,
             "latitude": null,
             "label": "Village",

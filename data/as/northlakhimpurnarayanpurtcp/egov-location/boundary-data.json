@@ -1,0 +1,23 @@
+{
+  "tenantId": "as.northlakhimpurnarayanpurtcp",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "North Lakimpur(Narayanpur) Town and Country Planning",
+        "localname": "North Lakimpur(Narayanpur) Town and Country Planning",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.northlakhimpurnarayanpurtcp",
+        "children": []
+      }
+    }
+  ]
+}
