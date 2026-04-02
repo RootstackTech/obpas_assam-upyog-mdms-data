@@ -6102,6 +6102,7 @@
       "domainUrl": "obpas.assam.gov.in",
       "type": "CITY",
       "emailId": null,
+	  "parentTenantId": "as.gmda",
       "city": {
         "name": "Guwahati",
         "districtName": "Kamrup (Metro)",
