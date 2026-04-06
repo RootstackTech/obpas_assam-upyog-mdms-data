@@ -31,8 +31,8 @@
           {
             "id": "dac58d5b-9bb4-4d5e-bc39-6b318dd405bb",
             "boundaryNum": 1,
-            "name": "Sundbacha Handiq",
-            "localname": "Sundbacha Handiq",
+            "name": "Chanbosa Handique",
+            "localname": "Chanbosa Handique",
             "longitude": null,
             "latitude": null,
             "label": "Village",
@@ -40,21 +40,10 @@
             "children": []
           },
           {
-            "id": "9f59ee0b-b447-494f-ab09-d0a33ee34b5b",
-            "boundaryNum": 1,
-            "name": "Hulang Kata",
-            "localname": "Hulang Kata",
-            "longitude": null,
-            "latitude": null,
-            "label": "Village",
-            "code": "anaziraV3",
-            "children": []
-          },
-          {
             "id": "a4592f6d-8b47-4e63-9568-0334777c098c",
             "boundaryNum": 1,
-            "name": "Licksan Gaon",
-            "localname": "Licksan Gaon",
+            "name": "Liksan Gaon",
+            "localname": "Liksan Gaon",
             "longitude": null,
             "latitude": null,
             "label": "Village",

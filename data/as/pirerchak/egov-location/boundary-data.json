@@ -20,8 +20,8 @@
           {
             "id": "7fe7a3e9-81db-43fa-9242-f185f7082w01",
             "boundaryNum": 1,
-            "name": "KAIBARTAKAPON",
-            "localname": "KAIBARTAKAPON",
+            "name": "Kaibortokapon",
+            "localname": "Kaibortokapon",
             "longitude": null,
             "latitude": null,
             "label": "RevenueVillage",
@@ -31,8 +31,8 @@
           {
             "id": "7fe7a3e9-81db-43fa-9242-f185f7082w02",
             "boundaryNum": 2,
-            "name": "MEDAL PT-I",
-            "localname": "MEDAL PT-I",
+            "name": "Medol Pt-I",
+            "localname": "Medol Pt-I",
             "longitude": null,
             "latitude": null,
             "label": "RevenueVillage",
@@ -42,8 +42,8 @@
           {
             "id": "7fe7a3e9-81db-43fa-9242-f185f7082w03",
             "boundaryNum": 3,
-            "name": "MEDAL PT-II",
-            "localname": "MEDAL PT-II",
+            "name": "Medol Pt-II",
+            "localname": "Medol Pt-II",
             "longitude": null,
             "latitude": null,
             "label": "RevenueVillage",
@@ -53,8 +53,8 @@
           {
             "id": "7fe7a3e9-81db-43fa-9242-f185f7082w04",
             "boundaryNum": 4,
-            "name": "MEDAL PT-III",
-            "localname": "MEDAL PT-III",
+            "name": "Medol Pt-III",
+            "localname": "Medol Pt-III",
             "longitude": null,
             "latitude": null,
             "label": "RevenueVillage",

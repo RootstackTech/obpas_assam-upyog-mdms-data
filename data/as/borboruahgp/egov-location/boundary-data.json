@@ -1,5 +1,5 @@
 {
-  "tenantId": "as.tawkak",
+  "tenantId": "as.borboruahgp",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,22 +10,22 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Tawkak G.P.",
-        "localname": "Tawkak G.P.",
+        "name": "Borboruah G.P.",
+        "localname": "Borboruah G.P.",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "as.tawkak",
+        "code": "as.borboruahgp",
         "children": [
           {
-            "id": "8119bea3-012c-47b2-89a0-856796212c00",
+            "id": "72297736-39ee-4f2e-9a23-a57aa3709f0a",
             "boundaryNum": 1,
-            "name": "Joboka Chah Bagisa",
-            "localname": "Joboka Chah Bagisa",
+            "name": "Hulung Katani",
+            "localname": "Hulung Katani",
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "tawkakV18",
+            "code": "borboruahV13",
             "children": []
           }
         ]

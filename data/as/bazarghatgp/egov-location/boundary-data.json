@@ -1,5 +1,5 @@
 {
-  "tenantId": "as.longaighatbazarghatgp",
+  "tenantId": "as.bazarghatgp",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,77 +10,66 @@
       "boundary": {
         "id": "4f98db8d-d2fd-426a-a060-88d8d4975402",
         "boundaryNum": 1,
-        "name": "Longaighat Bazarghat",
-        "localname": "Longaighat Bazarghat",
+        "name": "Bazarghat GP",
+        "localname": "Bazarghat GP",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "as.longaighatbazarghatgp",
+        "code": "as.bazarghatgp",
         "children": [
           {
             "id": "7fe7a3e9-81db-43fa-9242-f185f7082m01",
             "boundaryNum": 1,
-            "name": "AMBARKHANA",
-            "localname": "AMBARKHANA",
+            "name": "Karnamadhu Part II",
+            "localname": "Karnamadhu Part II",
             "longitude": null,
             "latitude": null,
             "label": "RevenueVillage",
-            "code": "LongaighatV1",
+            "code": "bazarghatV1",
             "children": []
           },
           {
             "id": "7fe7a3e9-81db-43fa-9242-f185f7082m02",
-            "boundaryNum": 2,
-            "name": "INATHPUR",
-            "localname": "INATHPUR",
+            "boundaryNum": 1,
+            "name": "Karnamadhu Part III",
+            "localname": "Karnamadhu Part III",
             "longitude": null,
             "latitude": null,
             "label": "RevenueVillage",
-            "code": "LongaighatV2",
+            "code": "bazarghatV2",
             "children": []
           },
           {
             "id": "7fe7a3e9-81db-43fa-9242-f185f7082m03",
-            "boundaryNum": 3,
-            "name": "KARNAMADHU PART – III",
-            "localname": "KARNAMADHU PART – III",
+            "boundaryNum": 1,
+            "name": "Karnamadhu Part IV",
+            "localname": "Karnamadhu Part IV",
             "longitude": null,
             "latitude": null,
             "label": "RevenueVillage",
-            "code": "LongaighatV3",
+            "code": "bazarghatV3",
             "children": []
           },
           {
             "id": "7fe7a3e9-81db-43fa-9242-f185f7082m04",
-            "boundaryNum": 4,
-            "name": "KARNAMADHU PART – IV",
-            "localname": "KARNAMADHU PART – IV",
+            "boundaryNum": 1,
+            "name": "Chandpur",
+            "localname": "Chandpur",
             "longitude": null,
             "latitude": null,
             "label": "RevenueVillage",
-            "code": "LongaighatV4",
+            "code": "bazarghatV4",
             "children": []
           },
           {
             "id": "7fe7a3e9-81db-43fa-9242-f185f7082m05",
-            "boundaryNum": 5,
-            "name": "KARNAMADHU PART – V",
-            "localname": "KARNAMADHU PART – V",
+            "boundaryNum": 1,
+            "name": "Karnamadhu Part V",
+            "localname": "Karnamadhu Part V",
             "longitude": null,
             "latitude": null,
             "label": "RevenueVillage",
-            "code": "LongaighatV5",
-            "children": []
-          },
-          {
-            "id": "7fe7a3e9-81db-43fa-9242-f185f7082m06",
-            "boundaryNum": 6,
-            "name": "UMAPATI",
-            "localname": "UMAPATI",
-            "longitude": null,
-            "latitude": null,
-            "label": "RevenueVillage",
-            "code": "LongaighatV6",
+            "code": "bazarghatV5",
             "children": []
           }
         ]

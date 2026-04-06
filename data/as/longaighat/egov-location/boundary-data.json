@@ -1,5 +1,5 @@
 {
-  "tenantId": "as.sarishacharkuri",
+  "tenantId": "as.longaighat",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -8,46 +8,46 @@
         "name": "REVENUE"
       },
       "boundary": {
-        "id": "4f98db8d-d2fd-426a-a060-88d8d4975401",
+        "id": "4f98db8d-d2fd-426a-a060-88d8d4975402",
         "boundaryNum": 1,
-        "name": "Sarisha Charakuri",
-        "localname": "Sarisha Charakuri",
+        "name": "Longaighat GP",
+        "localname": "Longaighat GP",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "as.sarishacharkuri",
+        "code": "as.longaighat",
         "children": [
           {
-            "id": "7fe7a3e9-81db-43fa-9242-f185f7082l01",
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082m01",
             "boundaryNum": 1,
-            "name": "Alongjuri",
-            "localname": "Alongjuri",
+            "name": "Inathpur",
+            "localname": "Inathpur",
             "longitude": null,
             "latitude": null,
             "label": "RevenueVillage",
-            "code": "SarishacharkuriV1",
+            "code": "LongaighatV1",
             "children": []
           },
           {
-            "id": "7fe7a3e9-81db-43fa-9242-f185f7082l02",
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082m02",
             "boundaryNum": 2,
-            "name": "Charakuri",
-            "localname": "Charakuri",
+            "name": "Amobokana",
+            "localname": "Amobokana",
             "longitude": null,
             "latitude": null,
             "label": "RevenueVillage",
-            "code": "SarishacharkuriV2",
+            "code": "LongaighatV2",
             "children": []
           },
           {
-            "id": "7fe7a3e9-81db-43fa-9242-f185f7082l03",
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082m03",
             "boundaryNum": 3,
-            "name": "Sarisha",
-            "localname": "Sarisha",
+            "name": "Umapati",
+            "localname": "Umapati",
             "longitude": null,
             "latitude": null,
             "label": "RevenueVillage",
-            "code": "SarishacharkuriV3",
+            "code": "LongaighatV3",
             "children": []
           }
         ]

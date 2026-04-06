@@ -1,5 +1,5 @@
 {
-  "tenantId": "as.tawkak",
+  "tenantId": "as.maizgramgp",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -8,24 +8,24 @@
         "name": "REVENUE"
       },
       "boundary": {
-        "id": 1,
+        "id": "4f98db8d-d2fd-426a-a060-88d8d4975402",
         "boundaryNum": 1,
-        "name": "Tawkak G.P.",
-        "localname": "Tawkak G.P.",
+        "name": "Maizgram GP",
+        "localname": "Maizgram GP",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "as.tawkak",
+        "code": "as.maizgramgp",
         "children": [
           {
-            "id": "8119bea3-012c-47b2-89a0-856796212c00",
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082m01",
             "boundaryNum": 1,
-            "name": "Joboka Chah Bagisa",
-            "localname": "Joboka Chah Bagisa",
+            "name": "Tajpur",
+            "localname": "Tajpur",
             "longitude": null,
             "latitude": null,
-            "label": "Village",
-            "code": "tawkakV18",
+            "label": "RevenueVillage",
+            "code": "LongaighatV1",
             "children": []
           }
         ]

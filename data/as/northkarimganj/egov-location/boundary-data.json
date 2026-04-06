@@ -20,8 +20,8 @@
           {
             "id": "7fe7a3e9-81db-43fa-9242-f185f7082n01",
             "boundaryNum": 1,
-            "name": "BATORASHI PT-I",
-            "localname": "BATORASHI PT-I",
+            "name": "Dhit Chak Pt-IV",
+            "localname": "Dhit Chak Pt-IV",
             "longitude": null,
             "latitude": null,
             "label": "RevenueVillage",
@@ -31,8 +31,8 @@
           {
             "id": "7fe7a3e9-81db-43fa-9242-f185f7082n02",
             "boundaryNum": 2,
-            "name": "BATORASHI PT-II",
-            "localname": "BATORASHI PT-II",
+            "name": "Dhit Chak Pt-VIII",
+            "localname": "Dhit Chak Pt-VIII",
             "longitude": null,
             "latitude": null,
             "label": "RevenueVillage",
@@ -42,8 +42,8 @@
           {
             "id": "7fe7a3e9-81db-43fa-9242-f185f7082n03",
             "boundaryNum": 3,
-            "name": "CHANDSRIKUNA",
-            "localname": "CHANDSRIKUNA",
+            "name": "Chandsrikona Chak",
+            "localname": "Chandsrikona Chak",
             "longitude": null,
             "latitude": null,
             "label": "RevenueVillage",
@@ -53,8 +53,8 @@
           {
             "id": "7fe7a3e9-81db-43fa-9242-f185f7082n04",
             "boundaryNum": 4,
-            "name": "CHANDSRIKUNA CHAK – V",
-            "localname": "CHANDSRIKUNA CHAK – V",
+            "name": "Chandsrikona",
+            "localname": "Chandsrikona",
             "longitude": null,
             "latitude": null,
             "label": "RevenueVillage",
@@ -64,8 +64,8 @@
           {
             "id": "7fe7a3e9-81db-43fa-9242-f185f7082n05",
             "boundaryNum": 5,
-            "name": "DHIT CHAK PT-IV",
-            "localname": "DHIT CHAK PT-IV",
+            "name": "Kholachera",
+            "localname": "Kholachera",
             "longitude": null,
             "latitude": null,
             "label": "RevenueVillage",
@@ -75,8 +75,8 @@
           {
             "id": "7fe7a3e9-81db-43fa-9242-f185f7082n06",
             "boundaryNum": 6,
-            "name": "DHIT CHAK PT-VIII",
-            "localname": "DHIT CHAK PT-VIII",
+            "name": "Botoroshi Pt-I",
+            "localname": "Botoroshi Pt-I",
             "longitude": null,
             "latitude": null,
             "label": "RevenueVillage",
@@ -86,23 +86,12 @@
           {
             "id": "7fe7a3e9-81db-43fa-9242-f185f7082n07",
             "boundaryNum": 7,
-            "name": "DHIT KITTE RAM NAGAR",
-            "localname": "DHIT KITTE RAM NAGAR",
+            "name": "Botoroshi Pt-II",
+            "localname": "Botoroshi Pt-II",
             "longitude": null,
             "latitude": null,
             "label": "RevenueVillage",
             "code": "NorthkarimganjV7",
-            "children": []
-          },
-          {
-            "id": "7fe7a3e9-81db-43fa-9242-f185f7082n08",
-            "boundaryNum": 8,
-            "name": "KALACHORA",
-            "localname": "KALACHORA",
-            "longitude": null,
-            "latitude": null,
-            "label": "RevenueVillage",
-            "code": "NorthkarimganjV8",
             "children": []
           }
         ]

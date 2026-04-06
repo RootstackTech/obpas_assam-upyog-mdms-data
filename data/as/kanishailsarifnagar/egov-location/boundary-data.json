@@ -20,8 +20,8 @@
           {
             "id": "7fe7a3e9-81db-43fa-9242-f185f7082s01",
             "boundaryNum": 1,
-            "name": "BONOMALI PT-I",
-            "localname": "BONOMALI PT-I",
+            "name": "Bonomali Pt-I",
+            "localname": "Bonomali Pt-I",
             "longitude": null,
             "latitude": null,
             "label": "RevenueVillage",
@@ -31,8 +31,8 @@
           {
             "id": "7fe7a3e9-81db-43fa-9242-f185f7082s02",
             "boundaryNum": 2,
-            "name": "BONOMALI PT-II",
-            "localname": "BONOMALI PT-II",
+            "name": "Bonomali Pt-II",
+            "localname": "Bonomali Pt-II",
             "longitude": null,
             "latitude": null,
             "label": "RevenueVillage",
@@ -42,8 +42,8 @@
           {
             "id": "7fe7a3e9-81db-43fa-9242-f185f7082s03",
             "boundaryNum": 3,
-            "name": "KANISHAIL PT-I",
-            "localname": "KANISHAIL PT-I",
+            "name": "Kanishail Pt-I",
+            "localname": "Kanishail Pt-I",
             "longitude": null,
             "latitude": null,
             "label": "RevenueVillage",
@@ -53,12 +53,23 @@
           {
             "id": "7fe7a3e9-81db-43fa-9242-f185f7082s04",
             "boundaryNum": 4,
-            "name": "KANISHAIL PT-II",
-            "localname": "KANISHAIL PT-II",
+            "name": "Kanishail Pt-II",
+            "localname": "Kanishail Pt-II",
             "longitude": null,
             "latitude": null,
             "label": "RevenueVillage",
             "code": "KanishailsarifnagarV4",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082s05",
+            "boundaryNum": 4,
+            "name": "Bagon",
+            "localname": "Bagon",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "KanishailsarifnagarV5",
             "children": []
           }
         ]

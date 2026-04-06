@@ -744,7 +744,7 @@
     },
     {
       "code": "as.rongpur",
-      "districtCode": "RONGPUR",
+      "districtCode": "SIVASAGAR",
       "population": "8013",
       "malePopulation": "3901",
       "femalePopulation": "4112",
@@ -1024,7 +1024,7 @@
     },
     {
       "code": "as.abhaipur",
-      "districtCode": "ABHAIPUR",
+      "districtCode": "SIVASAGAR",
       "population": "7200",
       "malePopulation": "3650",
       "femalePopulation": "3550",
@@ -1034,7 +1034,7 @@
     },
     {
       "code": "as.longpotia",
-      "districtCode": "LONGPOTIA",
+      "districtCode": "SIVASAGAR",
       "population": "6800",
       "malePopulation": "3400",
       "femalePopulation": "3400",
@@ -1044,7 +1044,7 @@
     },
     {
       "code": "as.bhoju",
-      "districtCode": "BHOJU",
+      "districtCode": "SIVASAGAR",
       "population": "5900",
       "malePopulation": "3000",
       "femalePopulation": "2900",
@@ -1613,16 +1613,6 @@
       "languagesSpoken": ["HN", "EN"]
     },
     {
-      "code": "as.sarishacharakuri",
-      "districtCode": "SRIBHUMI",
-      "population": "21383",
-      "malePopulation": "10398",
-      "femalePopulation": "10985",
-      "workingPopulation": "32.23",
-      "literacyRate": "60.57",
-      "languagesSpoken": ["HN", "EN"]
-    },
-    {
       "code": "as.longaighat",
       "districtCode": "SRIBHUMI",
       "population": "18337",
@@ -1974,7 +1964,7 @@
     },
     {
       "code": "as.rudrasagar",
-      "districtCode": "RUDRASAGAR",
+      "districtCode": "SIVASAGAR",
       "population": "18850",
       "malePopulation": "9783",
       "femalePopulation": "9067",
@@ -1984,7 +1974,7 @@
     },
     {
       "code": "as.salaguri",
-      "districtCode": "SALAGURI",
+      "districtCode": "SIVASAGAR",
       "population": "20305",
       "malePopulation": "10150",
       "femalePopulation": "10155",
@@ -1994,7 +1984,7 @@
     },
     {
       "code": "as.desangpar",
-      "districtCode": "DESANGPAR",
+      "districtCode": "SIVASAGAR",
       "population": "23363",
       "malePopulation": "11712",
       "femalePopulation": "11651",
@@ -2004,7 +1994,7 @@
     },
     {
       "code": "as.lachit",
-      "districtCode": "LACHIT",
+      "districtCode": "SIVASAGAR",
       "population": "26139",
       "malePopulation": "13580",
       "femalePopulation": "12559",
@@ -2014,7 +2004,7 @@
     },
     {
       "code": "as.betbari",
-      "districtCode": "BETBARI",
+      "districtCode": "SIVASAGAR",
       "population": "33323",
       "malePopulation": "17117",
       "femalePopulation": "16206",
@@ -2084,7 +2074,7 @@
     },
     {
       "code": "as.tawkak",
-      "districtCode": "TAWKAK",
+      "districtCode": "SIVASAGAR",
       "population": "41407",
       "malePopulation": "19956",
       "femalePopulation": "21451",
@@ -2094,7 +2084,7 @@
     },
     {
       "code": "as.safrai",
-      "districtCode": "SAFRAI",
+      "districtCode": "SIVASAGAR",
       "population": "28567",
       "malePopulation": "14810",
       "femalePopulation": "13757",
@@ -2104,7 +2094,7 @@
     },
     {
       "code": "as.rajapukhuri",
-      "districtCode": "RAJAPUKHURI",
+      "districtCode": "SIVASAGAR",
       "population": "8249",
       "malePopulation": "4185",
       "femalePopulation": "4064",
@@ -2554,7 +2544,7 @@
     },
     {
       "code": "as.bakharshalnairgram",
-      "districtCode": "BAKHARSHAL_NAIRGRAM_GP",
+      "districtCode": "SRIBHUMI",
       "population": "16299",
       "malePopulation": "8433",
       "femalePopulation": "7866",
@@ -3520,6 +3510,126 @@
       "femalePopultion": "5697",
       "workingPopulation": "33.70",
       "literacyRate": "57.41",
+      "languagesSpoken": ["HN", "EN"]
+    },
+    {
+      "code": "as.akbarpurgp",
+      "districtCode": "SRIBHUMI",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": ["HN", "EN"]
+    },
+    {
+      "code": "as.maizgramgp",
+      "districtCode": "SRIBHUMI",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": ["HN", "EN"]
+    },
+    {
+      "code": "as.bazarghatgp",
+      "districtCode": "SRIBHUMI",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": ["HN", "EN"]
+    },
+    {
+      "code": "as.nagarmahalgp",
+      "districtCode": "SIVASAGAR",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": ["HN", "EN"]
+    },
+    {
+      "code": "as.nagarmahalgp",
+      "districtCode": "SIVASAGAR",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": ["HN", "EN"]
+    },
+    {
+      "code": "as.naziragp",
+      "districtCode": "SIVASAGAR",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": ["HN", "EN"]
+    },
+    {
+      "code": "as.simalugurigp",
+      "districtCode": "SIVASAGAR",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": ["HN", "EN"]
+    },
+    {
+      "code": "as.phulpaniboruah",
+      "districtCode": "SIVASAGAR",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": ["HN", "EN"]
+    },
+    {
+      "code": "as.khatkhati",
+      "districtCode": "SIVASAGAR",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": ["HN", "EN"]
+    },
+    {
+      "code": "as.gargaon",
+      "districtCode": "SIVASAGAR",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": ["HN", "EN"]
+    },
+    {
+      "code": "as.borboruahgp",
+      "districtCode": "SIVASAGAR",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": ["HN", "EN"]
+    },
+    {
+      "code": "as.sonarigp",
+      "districtCode": "SIVASAGAR",
+      "population": "7200",
+      "malePopulation": "3650",
+      "femalePopulation": "3550",
+      "workingPopulation": "42.0",
+      "literacyRate": "72.3",
       "languagesSpoken": ["HN", "EN"]
     }
   ]
