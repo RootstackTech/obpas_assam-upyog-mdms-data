@@ -1,5 +1,5 @@
 {
-  "tenantId": "as.sitalpathar",
+  "tenantId": "as.utargurujogoniagp",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,44 +10,44 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Sitalpathar G.P",
-        "localname": "Sitalpathar G.P",
+        "name": "Uttar Gurujogonia G.P",
+        "localname": "Uttar Gurujogonia G.P",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "as.sitalpathar",
+        "code": "as.utargurujogoniagp",
         "children": [
           {
-            "id": "f1c382e8-e2e6-4ad4-85c6-f1fa6fc80a2c",
+            "id": "d4fdebb0-088d-44fb-be21-c6086543c704",
             "boundaryNum": 1,
-            "name": "129 No. Nahar Donga Grant",
-            "localname": "129 No. Nahar Donga Grant",
+            "name": "Dhodang Garia Gaon",
+            "localname": "Dhodang Garia Gaon",
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "sitalpatharV5",
+            "code": "utargurujogoniaV16",
             "children": []
           },
           {
-            "id": "5cca7be3-5754-4f03-9b96-5ee6555a2b32",
+            "id": "d9ad5874-1f44-439a-893d-dbfe273bdc34",
             "boundaryNum": 1,
-            "name": "215 No. Negheriting Grant",
-            "localname": "215 No. Negheriting Grant",
+            "name": "Batiporia Lukumai Gaon",
+            "localname": "Batiporia Lukumai Gaon",
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "sitalpatharV11",
+            "code": "utargurujogoniaV17",
             "children": []
           },
           {
-            "id": "1b0e5769-dd1d-48ff-a425-83eaa4c7b3f5",
+            "id": "f33f9fa5-dca5-4033-b286-789f606afb72",
             "boundaryNum": 1,
-            "name": "Sitalpathar",
-            "localname": "Sitalpathar",
+            "name": "Dumjoria Kosolial",
+            "localname": "Dumjoria Kosolial",
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "sitalpatharV14",
+            "code": "utargurujogoniaV20",
             "children": []
           }
         ]

@@ -1,0 +1,46 @@
+{
+  "tenantId": "as.madhusoulmaritiamarigp",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "4f98db8d-d2fd-426a-a060-88d8d4975402",
+        "boundaryNum": 1,
+        "name": "Madhusoulmari Tiamari GP",
+        "localname": "Madhusoulmari Tiamari GP",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.madhusoulmaritiamarigp",
+        "children": [
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082m01",
+            "boundaryNum": 1,
+            "name": "Khudimari Part-II",
+            "localname": "Khudimari Part-II",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "madhusoulmaritiamariV1",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082m02",
+            "boundaryNum": 2,
+            "name": "Rowa Part-III",
+            "localname": "Rowa Part-III",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "madhusoulmaritiamariV2",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

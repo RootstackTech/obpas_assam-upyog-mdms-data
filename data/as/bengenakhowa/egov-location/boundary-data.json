@@ -20,12 +20,34 @@
           {
             "id": "515d13aa-1d46-40e0-9a75-e27130e91925",
             "boundaryNum": 1,
-            "name": "Bengenakhowa Grant and Gaon",
-            "localname": "Bengenakhowa Grant and Gaon",
+            "name": "Bengenakhowa Gaon",
+            "localname": "Bengenakhowa Gaon",
             "longitude": null,
             "latitude": null,
             "label": "Village",
             "code": "bengenakhowaV7",
+            "children": []
+          },
+          {
+            "id": "515d13aa-1d46-40e0-9a75-e27130e91926",
+            "boundaryNum": 1,
+            "name": "Bengenakhowa Grant Gaon",
+            "localname": "Bengenakhowa Grant Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "bengenakhowaV8",
+            "children": []
+          },
+          {
+            "id": "515d13aa-1d46-40e0-9a75-e27130e91927",
+            "boundaryNum": 1,
+            "name": "Amolapatty Gaon",
+            "localname": "Amolapatty Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "bengenakhowaV9",
             "children": []
           }
         ]

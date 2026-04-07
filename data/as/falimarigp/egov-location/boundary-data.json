@@ -1,5 +1,5 @@
 {
-  "tenantId": "as.sitalpathar",
+  "tenantId": "as.falimarigp",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,44 +10,44 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Sitalpathar G.P",
-        "localname": "Sitalpathar G.P",
+        "name": "Falimari G.P",
+        "localname": "Falimari G.P",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "as.sitalpathar",
+        "code": "as.falimarigp",
         "children": [
           {
             "id": "f1c382e8-e2e6-4ad4-85c6-f1fa6fc80a2c",
             "boundaryNum": 1,
-            "name": "129 No. Nahar Donga Grant",
-            "localname": "129 No. Nahar Donga Grant",
+            "name": "Falimari Part-I",
+            "localname": "Falimari Part-I",
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "sitalpatharV5",
+            "code": "falimariV5",
             "children": []
           },
           {
             "id": "5cca7be3-5754-4f03-9b96-5ee6555a2b32",
             "boundaryNum": 1,
-            "name": "215 No. Negheriting Grant",
-            "localname": "215 No. Negheriting Grant",
+            "name": "Falimari Part-II",
+            "localname": "Falimari Part-II",
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "sitalpatharV11",
+            "code": "falimariV11",
             "children": []
           },
           {
             "id": "1b0e5769-dd1d-48ff-a425-83eaa4c7b3f5",
             "boundaryNum": 1,
-            "name": "Sitalpathar",
-            "localname": "Sitalpathar",
+            "name": "Dhubirchar",
+            "localname": "Dhubirchar",
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "sitalpatharV14",
+            "code": "falimariV14",
             "children": []
           }
         ]

@@ -1,0 +1,68 @@
+{
+  "tenantId": "as.adabarigp",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "4f98db8d-d2fd-426a-a060-88d8d4975402",
+        "boundaryNum": 1,
+        "name": "Adabari GP",
+        "localname": "Adabari GP",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.adabarigp",
+        "children": [
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082m01",
+            "boundaryNum": 1,
+            "name": "Chotobasjani",
+            "localname": "Chotobasjani",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "adabariV1",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082m02",
+            "boundaryNum": 2,
+            "name": "Chagolchora Part-II",
+            "localname": "Chagolchora Part-II",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "adabariV2",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082m03",
+            "boundaryNum": 2,
+            "name": "Rowa Part-II",
+            "localname": "Rowa Part-II",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "adabariV3",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082m04",
+            "boundaryNum": 2,
+            "name": "Chagolchora Part-III",
+            "localname": "Chagolchora Part-III",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "adabariV4",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

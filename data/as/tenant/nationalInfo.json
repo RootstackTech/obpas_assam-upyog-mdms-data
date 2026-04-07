@@ -19701,8 +19701,8 @@
     {
       "stateCode": "Assam",
       "stateName": "Assam",
-      "code": "as.golaghat",
-      "name": "as.golaghat",
+      "code": "golaghatgp",
+      "name": "as.golaghatgp",
       "active": true,
       "module": "NationalDashboard"
     },

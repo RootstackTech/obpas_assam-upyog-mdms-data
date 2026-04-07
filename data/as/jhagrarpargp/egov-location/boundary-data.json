@@ -1,5 +1,5 @@
 {
-  "tenantId": "as.baruahbamungaon",
+  "tenantId": "as.jhagrarpargp",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,66 +10,66 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Baruah Bamun Gaon G.P",
-        "localname": "Baruah Bamun Gaon G.P",
+        "name": "Jhagrarpar G.P",
+        "localname": "Jhagrarpar G.P",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "as.baruahbamungaon",
+        "code": "as.jhagrarpargp",
         "children": [
           {
-            "id": "174756a3-085d-4a7f-b540-6abbdff2580b",
+            "id": "f1c382e8-e2e6-4ad4-85c6-f1fa6fc80a2c",
             "boundaryNum": 1,
-            "name": "Baruabamun Gaon",
-            "localname": "Baruabamun Gaon",
+            "name": "Jhagrarpar Part-I",
+            "localname": "Jhagrarpar Part-I",
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "baruahbamungaonV1",
+            "code": "jhagrarparV5",
             "children": []
           },
           {
-            "id": "4c9ea706-f938-48d2-810a-013dcdaca994",
+            "id": "5cca7be3-5754-4f03-9b96-5ee6555a2b32",
             "boundaryNum": 1,
-            "name": "Khangia gaon",
-            "localname": "Khangia gaon",
+            "name": "Jhagrarpar Part-II",
+            "localname": "Jhagrarpar Part-II",
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "baruahbamungaonV3",
+            "code": "jhagrarparV11",
             "children": []
           },
           {
-            "id": "645b36ad-4270-442a-aaf7-107bd9da65ac",
+            "id": "1b0e5769-dd1d-48ff-a425-83eaa4c7b3f5",
             "boundaryNum": 1,
-            "name": "Hanhpani gaon",
-            "localname": "Hanhpani gaon",
+            "name": "Jhagrarpar Part-III",
+            "localname": "Jhagrarpar Part-III",
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "baruahbamungaonV4",
+            "code": "jhagrarparV14",
             "children": []
           },
           {
-            "id": "09e06519-9806-4393-a37b-d00d163e2e77",
+            "id": "1b0e5769-dd1d-48ff-a425-83eaa4c7b3f6",
             "boundaryNum": 1,
-            "name": "7 No. Naharani Grant",
-            "localname": "7 No. Naharani Grant",
+            "name": "Jhagrarpar Part-IV",
+            "localname": "Jhagrarpar Part-IV",
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "baruahbamungaonV10",
+            "code": "jhagrarparV17",
             "children": []
           },
           {
-            "id": "f25001b1-5ac3-4d3f-8197-bc4dcab102da",
+            "id": "1b0e5769-dd1d-48ff-a425-83eaa4c7b3f7",
             "boundaryNum": 1,
-            "name": "Kumar Gaon",
-            "localname": "Kumar Gaon",
+            "name": "Khalilpur",
+            "localname": "Khalilpur",
             "longitude": null,
             "latitude": null,
             "label": "Village",
-            "code": "baruahbamungaonV12",
+            "code": "jhagrarparV20",
             "children": []
           }
         ]
