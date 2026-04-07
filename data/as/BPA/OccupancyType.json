@@ -25,14 +25,14 @@
          "colorCode":null
       },
       {
-         "name":"Educational",
+         "name":"Institutional",
          "code":"B",
          "active":true,
          "maxCoverage":65.0,
          "minFar":2.5,
          "maxFar":2.5,
          "orderNumber":1,
-         "description":"Educational - B1",
+         "description":"Institutional - B1",
          "colorCode":null
       },
       {
@@ -47,14 +47,14 @@
          "colorCode":null
       },
       {
-         "name":"Heatlh services",
+         "name":"Heath Facilites",
          "code":"C",
          "active":true,
          "maxCoverage":65.0,
          "minFar":2.5,
          "maxFar":2.5,
          "orderNumber":1,
-         "description":"Heatlh services - C",
+         "description":"Heath Facilites - C",
          "colorCode":null
       },
       {
