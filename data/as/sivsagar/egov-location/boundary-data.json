@@ -392,21 +392,10 @@
                 "children": []
               },
               {
-                "id": "af6789ab-cdef-0123-4567-890123456789",
-                "boundaryNum": 2,
-                "name": "Sivsagar Town Part 7B",
-                "localname": "Sivsagar Town Part 7B",
-                "longitude": null,
-                "latitude": null,
-                "label": "RevenueVillage",
-                "code": "SivsagarW13V2",
-                "children": []
-              },
-              {
                 "id": "b0789abc-def0-1234-5678-901234567890",
                 "boundaryNum": 3,
-                "name": "Station chariali",
-                "localname": "Station chariali",
+                "name": "7B Station chariali",
+                "localname": "7B Station chariali",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",

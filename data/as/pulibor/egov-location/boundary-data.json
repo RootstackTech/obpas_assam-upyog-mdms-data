@@ -20,8 +20,8 @@
           {
             "id": "4b688800-1830-4189-934c-c3b001bbb230",
             "boundaryNum": 1,
-            "name": "Golampatty Gaon Ist Part",
-            "localname": "Golampatty Gaon Ist Part",
+            "name": "Bhoga Gaon",
+            "localname": "Bhoga Gaon",
             "longitude": null,
             "latitude": null,
             "label": "Village",
@@ -31,8 +31,8 @@
           {
             "id": "a4de0016-4a9e-440e-9d43-16139cda3ada",
             "boundaryNum": 1,
-            "name": "Golampatty Gaon IInd Part",
-            "localname": "Golampatty Gaon IInd Part",
+            "name": "Golampatty Part-1",
+            "localname": "Golampatty Part-1",
             "longitude": null,
             "latitude": null,
             "label": "Village",
@@ -42,12 +42,56 @@
           {
             "id": "04da7832-a93f-44e5-bf8d-0362b7e60c0d",
             "boundaryNum": 1,
-            "name": "Chelangi Gaon.",
-            "localname": "Chelangi Gaon.",
+            "name": "Golampatty Part-2",
+            "localname": "Golampatty Part-2",
             "longitude": null,
             "latitude": null,
             "label": "Village",
             "code": "puliborV8",
+            "children": []
+          },
+          {
+            "id": "04da7832-a93f-44e5-bf8d-0362b7e60c0e",
+            "boundaryNum": 1,
+            "name": "Golaghat Grant",
+            "localname": "Golaghat Grant",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "puliborV9",
+            "children": []
+          },
+          {
+            "id": "04da7832-a93f-44e5-bf8d-0362b7e60c0f",
+            "boundaryNum": 1,
+            "name": "Selengi Gaon",
+            "localname": "Selengi Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "puliborV10",
+            "children": []
+          },
+          {
+            "id": "04da7832-a93f-44e5-bf8d-0362b7e60c0g",
+            "boundaryNum": 1,
+            "name": "Bogorijeng Gaon",
+            "localname": "Bogorijeng Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "puliborV11",
+            "children": []
+          },
+          {
+            "id": "04da7832-a93f-44e5-bf8d-0362b7e60c0h",
+            "boundaryNum": 1,
+            "name": "Kaboru Gaon",
+            "localname": "Kaboru Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "pulibor12",
             "children": []
           }
         ]

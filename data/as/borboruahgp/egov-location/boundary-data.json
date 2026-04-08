@@ -1,0 +1,35 @@
+{
+  "tenantId": "as.borboruahgp",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Borboruah G.P.",
+        "localname": "Borboruah G.P.",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.borboruahgp",
+        "children": [
+          {
+            "id": "72297736-39ee-4f2e-9a23-a57aa3709f0a",
+            "boundaryNum": 1,
+            "name": "Hulung Katani",
+            "localname": "Hulung Katani",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "borboruahV13",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

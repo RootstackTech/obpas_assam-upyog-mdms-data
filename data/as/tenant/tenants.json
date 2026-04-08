@@ -1516,8 +1516,8 @@
     },
     {
       "code": "as.rongpur",
-      "name": "Rongpur",
-      "description": "Rongpur",
+      "name": "Rongpur Gram Panchayat",
+      "description": "Rongpur Gram Panchayat",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -1527,10 +1527,10 @@
       "city": {
         "name": "Rongpur GP",
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "CACHAR",
-        "districtName": "Cachar",
-        "districtTenantCode": "as.silcharmc",
-        "planningAreaCode": "SILCHAR_MP",
+        "districtCode": "SIVASAGAR",
+        "districtName": "Sivasagar",
+        "districtTenantCode": "as.rongpur",
+        "planningAreaCode": "SIVASAGAR_MP",
         "code": "1667",
         "ddrName": "Rongpur Gram Panchayat"
       }
@@ -2187,9 +2187,9 @@
       }
     },
     {
-      "code": "as.falimari",
-      "name": "Falimari",
-      "description": "Falimari",
+      "code": "as.falimarigp",
+      "name": "Falimari Gram Panchayat",
+      "description": "Falimari Gram Panchayat",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -2197,20 +2197,20 @@
       "type": "CITY",
       "emailId": "info.falimari@gmail.com",
       "city": {
-        "name": "Falimari",
+        "name": "Falimari Gram Panchayat",
         "districtName": "Dhubri",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "DHUBRI",
-        "districtTenantCode": "as.dhubri",
+        "districtTenantCode": "as.falimarigp",
         "planningAreaCode": "DHUBRI_GAURIPUR_MP",
         "code": "1706",
         "ddrName": "Falimari Gram Panchayat"
       }
     },
     {
-      "code": "as.jhagrarpar",
-      "name": "Jhagrarpar",
-      "description": "Jhagrarpar",
+      "code": "as.jhagrarpargp",
+      "name": "Jhagrarpar Gram Panchaya",
+      "description": "Jhagrarpar Gram Panchaya",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -2218,20 +2218,20 @@
       "type": "CITY",
       "emailId": "info.jhagrarpar@gmail.com",
       "city": {
-        "name": "Jhagrarpar",
+        "name": "Jhagrarpar Gram Panchaya",
         "districtName": "Dhubri",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "DHUBRI",
-        "districtTenantCode": "as.dhubri",
+        "districtTenantCode": "as.jhagrarpargp",
         "planningAreaCode": "DHUBRI_GAURIPUR_MP",
         "code": "1707",
         "ddrName": "Jhagrarpar Gram Panchayat"
       }
     },
     {
-      "code": "as.bhasanichar",
-      "name": "Bhasanichar",
-      "description": "Bhasanichar",
+      "code": "as.bhasanichargp",
+      "name": "Bhasanichar Gram Panchayat",
+      "description": "Bhasanichar Gram Panchayat",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -2239,20 +2239,20 @@
       "type": "CITY",
       "emailId": "info.bhasanichar@gmail.com",
       "city": {
-        "name": "Bhasanichar",
+        "name": "Bhasanichar Gram Panchayat",
         "districtName": "Dhubri",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "DHUBRI",
-        "districtTenantCode": "as.dhubri",
+        "districtTenantCode": "as.bhasanichargp",
         "planningAreaCode": "DHUBRI_GAURIPUR_MP",
         "code": "1708",
         "ddrName": "Bhasanichar Gram Panchayat"
       }
     },
     {
-      "code": "as.adabari",
-      "name": "Adabari",
-      "description": "Adabari",
+      "code": "as.adabarigp",
+      "name": "Adabari Gram Panchayat",
+      "description": "Adabari Gram Panchayat",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -2260,20 +2260,20 @@
       "type": "CITY",
       "emailId": "info.adabari@gmail.com",
       "city": {
-        "name": "Adabari",
+        "name": "Adabari Gram Panchayat",
         "districtName": "Dhubri",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "DHUBRI",
-        "districtTenantCode": "as.dhubri",
+        "districtTenantCode": "as.adabarigp",
         "planningAreaCode": "DHUBRI_GAURIPUR_MP",
         "code": "1709",
         "ddrName": "Adabari Gram Panchayat"
       }
     },
     {
-      "code": "as.madhusoulmaritiamari",
-      "name": "Madhusoulmari Tiamari",
-      "description": "Madhusoulmari Tiamari",
+      "code": "as.madhusoulmaritiamarigp",
+      "name": "Madhusoulmari Tiamari Gram Panchayat",
+      "description": "Madhusoulmari Tiamari Gram Panchayat",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -2281,20 +2281,20 @@
       "type": "CITY",
       "emailId": "info.madhusoulmaritiamarigp@gmail.com",
       "city": {
-        "name": "Madhusoulmari Tiamari",
+        "name": "Madhusoulmari Tiamari Gram Panchayat",
         "districtName": "Dhubri",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "DHUBRI",
-        "districtTenantCode": "as.dhubri",
+        "districtTenantCode": "as.madhusoulmaritiamarigp",
         "planningAreaCode": "DHUBRI_GAURIPUR_MP",
         "code": "1710",
         "ddrName": "Madhusoulmari Tiamari Gram Panchayat"
       }
     },
     {
-      "code": "as.motirchar",
-      "name": "Motirchar",
-      "description": "Motirchar",
+      "code": "as.motirchargp",
+      "name": "Motirchar Gram Panchayat",
+      "description": "Motirchar Gram Panchayat",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -2302,20 +2302,20 @@
       "type": "CITY",
       "emailId": "info.motirchar@gmail.com",
       "city": {
-        "name": "Motirchar",
+        "name": "Motirchar Gram Panchayat",
         "districtName": "Dhubri",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "DHUBRI",
-        "districtTenantCode": "as.dhubri",
+        "districtTenantCode": "as.motirchargp",
         "planningAreaCode": "DHUBRI_GAURIPUR_MP",
         "code": "1711",
         "ddrName": "Motirchar Gram Panchayat"
       }
     },
     {
-      "code": "as.chapgarh",
-      "name": "Chapgarh",
-      "description": "Chapgarh",
+      "code": "as.chapgarhgp",
+      "name": "Chapgarh Gram Panchayat",
+      "description": "Chapgarh Gram Panchayat",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -2323,20 +2323,20 @@
       "type": "CITY",
       "emailId": "info.chapgarh@gmail.com",
       "city": {
-        "name": "Chapgarh",
+        "name": "Chapgarh Gram Panchayat",
         "districtName": "Dhubri",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "DHUBRI",
-        "districtTenantCode": "as.dhubri",
+        "districtTenantCode": "as.chapgarhgp",
         "planningAreaCode": "DHUBRI_GAURIPUR_MP",
         "code": "1712",
         "ddrName": "Chapgarh Gram Panchayat"
       }
     },
     {
-      "code": "as.silairpar",
-      "name": "Silairpar",
-      "description": "Silairpar",
+      "code": "as.silairpargp",
+      "name": "Silairpar Gram Panchayat",
+      "description": "Silairpar Gram Panchayat",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -2344,20 +2344,20 @@
       "type": "CITY",
       "emailId": "info.silairpar@gmail.com",
       "city": {
-        "name": "Silairpar",
+        "name": "Silairpar Gram Panchayat",
         "districtName": "Dhubri",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "DHUBRI",
-        "districtTenantCode": "as.dhubri",
+        "districtTenantCode": "as.silairpargp",
         "planningAreaCode": "DHUBRI_GAURIPUR_MP",
         "code": "1713",
         "ddrName": "Silairpar Gram Panchayat"
       }
     },
     {
-      "code": "as.southgeramari",
-      "name": "South Geramari",
-      "description": "South Geramari",
+      "code": "as.southgeramarigp",
+      "name": "South Geramari Gram Panchayat",
+      "description": "South Geramari Gram Panchayat",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -2365,20 +2365,20 @@
       "type": "CITY",
       "emailId": "info.southgeramari@gmail.com",
       "city": {
-        "name": "South Geramari",
+        "name": "South Geramari Gram Panchayat",
         "districtName": "Dhubri",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "DHUBRI",
-        "districtTenantCode": "as.dhubri",
+        "districtTenantCode": "as.southgeramarigp",
         "planningAreaCode": "DHUBRI_GAURIPUR_MP",
         "code": "1714",
         "ddrName": "South Geramari Gram Panchayat"
       }
     },
     {
-      "code": "as.madhusoulmari",
-      "name": "Madhusoulmari",
-      "description": "Madhusoulmari",
+      "code": "as.madhusoulmarigp",
+      "name": "Madhusoulmari Gram Panchayat",
+      "description": "Madhusoulmari Gram Panchayat",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -2386,11 +2386,11 @@
       "type": "CITY",
       "emailId": "info.madhusoulmari@gmail.com",
       "city": {
-        "name": "Madhusoulmari",
+        "name": "Madhusoulmari Gram Panchayat",
         "districtName": "Dhubri",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "DHUBRI",
-        "districtTenantCode": "as.dhubri",
+        "districtTenantCode": "as.madhusoulmarigp",
         "planningAreaCode": "DHUBRI_GAURIPUR_MP",
         "code": "1715",
         "ddrName": "Madhusoulmari Gram Panchayat"
@@ -2691,9 +2691,9 @@
       }
     },
     {
-      "code": "as.golaghat",
-      "name": "Golaghat",
-      "description": "Golaghat",
+      "code": "as.golaghatgp",
+      "name": "Golaghat Gram Panchayat",
+      "description": "Golaghat Gram Panchayat",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -2701,11 +2701,11 @@
       "type": "CITY",
       "emailId": "info.golaghatgp@gmail.com",
       "city": {
-        "name": "Golaghat",
-        "districtName": null,
+        "name": "Golaghat Gram Panchayat",
+        "districtName": "Golaghat",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "GOLAGHAT",
-        "districtTenantCode": "as.golaghat",
+        "districtTenantCode": "as.golaghatgp",
         "planningAreaCode": "GOLAGHAT_MP",
         "code": "1730",
         "ddrName": "Golaghat Gram Panchayat"
@@ -2713,8 +2713,8 @@
     },
     {
       "code": "as.pulibor",
-      "name": "Pulibor",
-      "description": "Pulibor",
+      "name": "Pulibor Gram Panchayat",
+      "description": "Pulibor Gram Panchayat",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -2722,11 +2722,11 @@
       "type": "CITY",
       "emailId": "info.puliborgp@gmail.com",
       "city": {
-        "name": "Pulibor",
-        "districtName": null,
+        "name": "Pulibor Gram Panchayat",
+        "districtName": "Golaghat",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "GOLAGHAT",
-        "districtTenantCode": "as.golaghat",
+        "districtTenantCode": "as.pulibor",
         "planningAreaCode": "GOLAGHAT_MP",
         "code": "1731",
         "ddrName": "Pulibor Gram Panchayat"
@@ -2734,8 +2734,8 @@
     },
     {
       "code": "as.bengenakhowa",
-      "name": "Bengenakhowa",
-      "description": "Bengenakhowa",
+      "name": "Bengenakhowa Gram Panchayat",
+      "description": "Bengenakhowa Gram Panchayat",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -2743,11 +2743,11 @@
       "type": "CITY",
       "emailId": "info.bengenakhowagp@gmail.com",
       "city": {
-        "name": "Bengenakhowa",
-        "districtName": null,
+        "name": "Bengenakhowa Gram Panchayat",
+        "districtName": "Golaghat",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "GOLAGHAT",
-        "districtTenantCode": "as.golaghat",
+        "districtTenantCode": "as.bengenakhowa",
         "planningAreaCode": "GOLAGHAT_MP",
         "code": "1732",
         "ddrName": "Bengenakhowa Gram Panchayat"
@@ -2755,8 +2755,8 @@
     },
     {
       "code": "as.baruahbamungaon",
-      "name": "Baruah Bamun Gaon",
-      "description": "Baruah Bamun Gaon",
+      "name": "Baruah Bamun Gaon Gram Panchayat",
+      "description": "Baruah Bamun Gaon Gram Panchayat",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -2764,11 +2764,11 @@
       "type": "CITY",
       "emailId": "info.baruahbamungaongp@gmail.com",
       "city": {
-        "name": "Baruah Bamun Gaon",
-        "districtName": null,
+        "name": "Baruah Bamun Gaon Gram Panchayat",
+        "districtName": "Golaghat",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "GOLAGHAT",
-        "districtTenantCode": "as.golaghat",
+        "districtTenantCode": "as.baruahbamungaon",
         "planningAreaCode": "DERGAON_MP",
         "code": "1733",
         "ddrName": "Baruah Bamun Gaon Gram Panchayat"
@@ -3272,7 +3272,7 @@
         "districtName": "Sribhumi",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "SRIBHUMI",
-        "districtTenantCode": "as.sribhumimb",
+        "districtTenantCode": "as.longaighat",
         "planningAreaCode": "SRIBHUMI_MP",
         "code": "1761",
         "ddrName": "Longaighat Gram Panchayat"
@@ -3280,8 +3280,8 @@
     },
     {
       "code": "as.northkarimganj",
-      "name": "North Karimganj",
-      "description": "North Karimganj",
+      "name": "North KarimganjGram Panchayat",
+      "description": "North Karimganj Gram Panchayat",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -3289,11 +3289,11 @@
       "type": "CITY",
       "emailId": "info.northkarimganjgp@gmail.com",
       "city": {
-        "name": "North Karimganj",
+        "name": "North Karimganj Gram Panchayat",
         "districtName": "Sribhumi",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "SRIBHUMI",
-        "districtTenantCode": "as.sribhumimb",
+        "districtTenantCode": "as.northkarimganj",
         "planningAreaCode": "SRIBHUMI_MP",
         "code": "1762",
         "ddrName": "North Karimganj Gram Panchayat"
@@ -3356,7 +3356,7 @@
         "districtName": "Sribhumi",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "SRIBHUMI",
-        "districtTenantCode": "as.sribhumimb",
+        "districtTenantCode": "as.pirerchak",
         "planningAreaCode": "SRIBHUMI_MP",
         "code": "1765",
         "ddrName": "Pirerchak Gram Panchayat"
@@ -3805,8 +3805,8 @@
     },
     {
       "code": "as.sitalpathar",
-      "name": "Sitalpathar",
-      "description": "Sitalpathar",
+      "name": "Sitalpathar Gram Panchayat",
+      "description": "Sitalpathar Gram Panchayat",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -3814,11 +3814,11 @@
       "type": "CITY",
       "emailId": "info.sitalpathar@gmail.com",
       "city": {
-        "name": "Sitalpathar",
-        "districtName": null,
+        "name": "Sitalpathar Gram Panchayat",
+        "districtName": "Golaghat",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "GOLAGHAT",
-        "districtTenantCode": "as.golaghat",
+        "districtTenantCode": "as.sitalpathar",
         "planningAreaCode": "DERGAON_MP",
         "code": "1787",
         "ddrName": "Sitalpathar Gram Panchayat"
@@ -3826,8 +3826,8 @@
     },
     {
       "code": "as.negheriting",
-      "name": "Negheriting",
-      "description": "Negheriting",
+      "name": "Negheriting Gram Panchayat",
+      "description": "Negheriting Gram Panchayat",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -3835,11 +3835,11 @@
       "type": "CITY",
       "emailId": "info.negheriting@gmail.com",
       "city": {
-        "name": "Negheriting",
-        "districtName": null,
+        "name": "Negheriting Gram Panchayat",
+        "districtName": "Golaghat",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "GOLAGHAT",
-        "districtTenantCode": "as.golaghat",
+        "districtTenantCode": "as.negheriting",
         "planningAreaCode": "DERGAON_MP",
         "code": "1788",
         "ddrName": "Negheriting Gram Panchayat"
@@ -3847,8 +3847,8 @@
     },
     {
       "code": "as.dergaongp",
-      "name": "Dergaon",
-      "description": "Dergaon",
+      "name": "Dergaon Gram Panchayat",
+      "description": "Dergaon Gram Panchayat",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -3856,11 +3856,11 @@
       "type": "CITY",
       "emailId": "info.dergaongp@gmail.com",
       "city": {
-        "name": "Dergaon",
-        "districtName": null,
+        "name": "Dergaon Gram Panchayat",
+        "districtName": "Golaghat",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "GOLAGHAT",
-        "districtTenantCode": "as.golaghat",
+        "districtTenantCode": "as.dergaongp",
         "planningAreaCode": "DERGAON_MP",
         "code": "1789",
         "ddrName": "Dergaon Gram Panchayat"
@@ -3889,8 +3889,8 @@
     },
     {
       "code": "as.pachimmissamora",
-      "name": "Pachim Missamora",
-      "description": "Pachim Missamora",
+      "name": "Pachim Missamora Gram Panchayat",
+      "description": "Pachim Missamora Gram Panchayat",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -3898,11 +3898,11 @@
       "type": "CITY",
       "emailId": "info.pachimmissamora@gmail.com",
       "city": {
-        "name": "Pachim Missamora",
-        "districtName": null,
+        "name": "Pachim Missamora Gram Panchayat",
+        "districtName": "Golaghat",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "GOLAGHAT",
-        "districtTenantCode": "as.golaghat",
+        "districtTenantCode": "as.pachimmissamora",
         "planningAreaCode": "DERGAON_MP",
         "code": "1791",
         "ddrName": "Pachim Missamora Gram Panchayat"
@@ -3910,8 +3910,8 @@
     },
     {
       "code": "as.madhyamissamora",
-      "name": "Madhya Missamora",
-      "description": "Madhya Missamora",
+      "name": "Madhya Missamora Gram Panchayat",
+      "description": "Madhya Missamora Gram Panchayat",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -3919,11 +3919,11 @@
       "type": "CITY",
       "emailId": "info.madhyamissamora@gmail.com",
       "city": {
-        "name": "Madhya Missamora",
-        "districtName": null,
+        "name": "Madhya Missamora Gram Panchayat",
+        "districtName": "Golaghat",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "GOLAGHAT",
-        "districtTenantCode": "as.golaghat",
+        "districtTenantCode": "as.madhyamissamora",
         "planningAreaCode": "DERGAON_MP",
         "code": "1792",
         "ddrName": "Madhya Missamora Gram Panchayat"
@@ -3931,8 +3931,8 @@
     },
     {
       "code": "as.pubmissamora",
-      "name": "Pub Missamora",
-      "description": "Pub Missamora",
+      "name": "Pub Missamora Gram Panchayat",
+      "description": "Pub Missamora Gram Panchayat",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -3940,11 +3940,11 @@
       "type": "CITY",
       "emailId": "info.pubmissamora@gmail.com",
       "city": {
-        "name": "Pub Missamora",
-        "districtName": null,
+        "name": "Pub Missamora Gram Panchayat",
+        "districtName": "Golaghat",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "GOLAGHAT",
-        "districtTenantCode": "as.golaghat",
+        "districtTenantCode": "as.pubmissamora",
         "planningAreaCode": "DERGAON_MP",
         "code": "1793",
         "ddrName": "Pub Missamora Gram Panchayat"
@@ -3994,8 +3994,8 @@
     },
     {
       "code": "as.rudrasagar",
-      "name": "Rudrasagar",
-      "description": "Rudrasagar",
+      "name": "Rudrasagar Gram Panchayat",
+      "description": "Rudrasagar Gram Panchayat",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -4003,20 +4003,20 @@
       "type": "CITY",
       "emailId": "info.rudrasagar@gmail.com",
       "city": {
-        "name": "Rudrasagar",
-        "districtName": null,
+        "name": "Rudrasagar Gram Panchayat",
+        "districtName": "Sivasagar",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "SIVASAGAR",
-        "districtTenantCode": "as.sivasagarmb",
-        "planningAreaCode": "GOLAGHAT_MP",
+        "districtTenantCode": "as.rudrasagar",
+        "planningAreaCode": "SIVASAGAR_MP",
         "code": "1796",
         "ddrName": "Rudrasagar Gram Panchayat"
       }
     },
     {
       "code": "as.salaguri",
-      "name": "Salaguri",
-      "description": "Salaguri",
+      "name": "Salaguri Gram Panchayat",
+      "description": "Salaguri Gram Panchayat",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -4024,20 +4024,20 @@
       "type": "CITY",
       "emailId": "info.salaguri@gmail.com",
       "city": {
-        "name": "Salaguri",
-        "districtName": null,
+        "name": "Salaguri Gram Panchayat",
+        "districtName": "Sivasagar",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "SIVASAGAR",
-        "districtTenantCode": "as.sivasagarmb",
-        "planningAreaCode": "GOLAGHAT_MP",
+        "districtTenantCode": "as.salaguri",
+        "planningAreaCode": "SIVASAGAR_MP",
         "code": "1797",
         "ddrName": "Salaguri Gram Panchayat"
       }
     },
     {
       "code": "as.desangpar",
-      "name": "Desangpar",
-      "description": "Desangpar",
+      "name": "Desangpar Gram Panchayat",
+      "description": "Desangpar Gram Panchayat",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -4045,20 +4045,20 @@
       "type": "CITY",
       "emailId": "info.desangpar@gmail.com",
       "city": {
-        "name": "Desangpar",
-        "districtName": null,
+        "name": "Desangpar Gram Panchayat",
+        "districtName": "Sivasagar",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "SIVASAGAR",
-        "districtTenantCode": "as.sivasagarmb",
-        "planningAreaCode": "GOLAGHAT_MP",
+        "districtTenantCode": "as.desangpar",
+        "planningAreaCode": "SIVASAGAR_MP",
         "code": "1798",
         "ddrName": "Desangpar Gram Panchayat"
       }
     },
     {
       "code": "as.lachit",
-      "name": "Lachit",
-      "description": "Lachit",
+      "name": "Lachit Gram Panchayat",
+      "description": "Lachit Gram Panchayat",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -4066,20 +4066,20 @@
       "type": "CITY",
       "emailId": "info.lachit@gmail.com",
       "city": {
-        "name": "Lachit",
-        "districtName": null,
+        "name": "Lachit Gram Panchayat",
+        "districtName": "Sivasagar",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "SIVASAGAR",
-        "districtTenantCode": "as.sivasagarmb",
-        "planningAreaCode": "GOLAGHAT_MP",
+        "districtTenantCode": "as.lachit",
+        "planningAreaCode": "SIVASAGAR_MP",
         "code": "1799",
         "ddrName": "Lachit Gram Panchayat"
       }
     },
     {
       "code": "as.betbari",
-      "name": "Betbari",
-      "description": "Betbari",
+      "name": "Betbari Gram Panchayat",
+      "description": "Betbari Gram Panchayat",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -4087,20 +4087,20 @@
       "type": "CITY",
       "emailId": "info.betbari@gmail.com",
       "city": {
-        "name": "Betbari",
-        "districtName": null,
+        "name": "Betbari Gram Panchayat",
+        "districtName": "Sivasagar",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "SIVASAGAR",
-        "districtTenantCode": "as.sivasagarmb",
+        "districtTenantCode": "as.betbari",
         "planningAreaCode": "SIVASAGAR_MP",
         "code": "1800",
         "ddrName": "Betbari Gram Panchayat"
       }
     },
     {
-      "code": "as.nazira",
-      "name": "Nazira",
-      "description": "Nazira",
+      "code": "as.naziragp",
+      "name": "Nazira Gram Panchayat",
+      "description": "Nazira Gram Panchayat",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -4108,62 +4108,62 @@
       "type": "CITY",
       "emailId": "info.anazira@gmail.com",
       "city": {
-        "name": "Nazira",
-        "districtName": null,
+        "name": "Nazira Gram Panchayat",
+        "districtName": "Sivasagar",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "SIVASAGAR",
-        "districtTenantCode": "as.sivasagarmb",
+        "districtTenantCode": "as.naziragp",
         "planningAreaCode": "NAZIRA_SIMALUGURI_MP",
         "code": "1801",
-        "ddrName": "A.Nazira Gram Panchayat"
+        "ddrName": "Nazira Gram Panchayat"
       }
     },
     {
-      "code": "as.simaluguri",
-      "name": "Simaluguri",
-      "description": "Simaluguri",
+      "code": "as.simalugurigp",
+      "name": "Simaluguri Gram Panchayat",
+      "description": "Simaluguri Gram Panchayat",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "obpas.assam.gov.in",
       "type": "CITY",
-      "emailId": "info.bsimaluguri@gmail.com",
+      "emailId": "info.simaluguri@gmail.com",
       "city": {
-        "name": "Simaluguri",
-        "districtName": null,
+        "name": "Simaluguri Gram Panchayat",
+        "districtName": "Sivasagar",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "SIVASAGAR",
-        "districtTenantCode": "as.sivasagarmb",
+        "districtTenantCode": "as.simalugurigp",
         "planningAreaCode": "NAZIRA_SIMALUGURI_MP",
         "code": "1802",
-        "ddrName": "B. Simaluguri Gram Panchayat"
+        "ddrName": "Simaluguri Gram Panchayat"
       }
     },
     {
       "code": "as.phulpaniboruah",
-      "name": "Phulpani Boruah",
-      "description": "Phulpani Boruah",
+      "name": "Phulpani Boruah Gram Panchayat",
+      "description": "Phulpani Boruah Gram Panchayat",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "obpas.assam.gov.in",
       "type": "CITY",
-      "emailId": "info.cphulpaniboruah@gmail.com",
+      "emailId": "info.phulpaniboruah@gmail.com",
       "city": {
-        "name": "Phulpani Boruah",
-        "districtName": null,
+        "name": "Phulpani Boruah Gram Panchayat",
+        "districtName": "Sivasagar",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "SIVASAGAR",
-        "districtTenantCode": "as.sivasagarmb",
+        "districtTenantCode": "as.phulpaniboruah",
         "planningAreaCode": "NAZIRA_SIMALUGURI_MP",
         "code": "1803",
-        "ddrName": "C.Phulpani Boruah Gram Panchayat"
+        "ddrName": "Phulpani Boruah Gram Panchayat"
       }
     },
     {
       "code": "as.khatkhati",
-      "name": "Khatkhati",
-      "description": "Khatkhati",
+      "name": "Khatkhati Gram Panchayat",
+      "description": "Khatkhati Gram Panchayat",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -4171,20 +4171,20 @@
       "type": "CITY",
       "emailId": "info.dkhatkhati@gmail.com",
       "city": {
-        "name": "Khatkhati",
-        "districtName": null,
+        "name": "Khatkhati Gram Panchayat",
+        "districtName": "Sivasagar",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "SIVASAGAR",
-        "districtTenantCode": "as.sivasagarmb",
+        "districtTenantCode": "as.khatkhati",
         "planningAreaCode": "NAZIRA_SIMALUGURI_MP",
         "code": "1804",
-        "ddrName": "D. Khatkhati Gram Panchayat"
+        "ddrName": "Khatkhati Gram Panchayat"
       }
     },
     {
       "code": "as.gargaon",
-      "name": "Gargaon",
-      "description": "Gargaon",
+      "name": "Gargaon Gram Panchayat",
+      "description": "Gargaon Gram Panchayat",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -4192,20 +4192,20 @@
       "type": "CITY",
       "emailId": "info.egargaon@gmail.com",
       "city": {
-        "name": "Gargaon",
-        "districtName": null,
+        "name": "Gargaon Gram Panchayat",
+        "districtName": "Sivasagar",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "SIVASAGAR",
-        "districtTenantCode": "as.sivasagarmb",
+        "districtTenantCode": "as.gargaon",
         "planningAreaCode": "NAZIRA_SIMALUGURI_MP",
         "code": "1805",
-        "ddrName": "E Gargaon Gram Panchayat"
+        "ddrName": "Gargaon Gram Panchayat"
       }
     },
     {
       "code": "as.sonarigp",
-      "name": "Sonari GP",
-      "description": "Sonari GP",
+      "name": "Sonari Gram Panchayat",
+      "description": "Sonari Gram Panchayat",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -4213,11 +4213,11 @@
       "type": "CITY",
       "emailId": "info.sonarigp@gmail.com",
       "city": {
-        "name": "Sonari",
-        "districtName": null,
+        "name": "Sonari Gram Panchayat",
+        "districtName": "Sivasagar",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "SIVASAGAR",
-        "districtTenantCode": "as.sivasagarmb",
+        "districtTenantCode": "as.sonarigp",
         "planningAreaCode": "SONARI_MP",
         "code": "1806",
         "ddrName": "Sonari Gram Panchayat"
@@ -4225,8 +4225,8 @@
     },
     {
       "code": "as.abhaipur",
-      "name": "Abhaipur",
-      "description": "Abhaipur",
+      "name": "Abhaipur Gram Panchayat",
+      "description": "Abhaipur Gram Panchayat",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -4234,11 +4234,11 @@
       "type": "CITY",
       "emailId": "info.abhaipur@gmail.com",
       "city": {
-        "name": "Abhaipur",
-        "districtName": null,
+        "name": "Abhaipur Gram Panchayat",
+        "districtName": "Sivasagar",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "SIVASAGAR",
-        "districtTenantCode": "as.sivasagarmb",
+        "districtTenantCode": "as.abhaipur",
         "planningAreaCode": "SONARI_MP",
         "code": "1807",
         "ddrName": "Abhaipur Gram Panchayat"
@@ -4246,8 +4246,8 @@
     },
     {
       "code": "as.longpotia",
-      "name": "Longpotia",
-      "description": "Longpotia",
+      "name": "Longpotia Gram Panchayat",
+      "description": "Longpotia Gram Panchayat",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -4255,11 +4255,11 @@
       "type": "CITY",
       "emailId": "info.longpotia@gmail.com",
       "city": {
-        "name": "Longpotia",
-        "districtName": null,
+        "name": "Longpotia Gram Panchayat",
+        "districtName": "Sivasagar",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "SIVASAGAR",
-        "districtTenantCode": "as.sivasagarmb",
+        "districtTenantCode": "as.longpotia",
         "planningAreaCode": "SONARI_MP",
         "code": "1808",
         "ddrName": "Longpotia Gram Panchayat"
@@ -4267,8 +4267,8 @@
     },
     {
       "code": "as.bhoju",
-      "name": "Bhoju",
-      "description": "Bhoju",
+      "name": "Bhoju Gram Panchayat",
+      "description": "Bhoju Gram Panchayat",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -4276,11 +4276,11 @@
       "type": "CITY",
       "emailId": "info.bhoju@gmail.com",
       "city": {
-        "name": "Bhoju",
-        "districtName": null,
+        "name": "Bhoju Gram Panchayat",
+        "districtName": "Sivasagar",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "SIVASAGAR",
-        "districtTenantCode": "as.sivasagarmb",
+        "districtTenantCode": "as.bhoju",
         "planningAreaCode": "SONARI_MP",
         "code": "1809",
         "ddrName": "Bhoju Gram Panchayat"
@@ -4288,8 +4288,8 @@
     },
     {
       "code": "as.tawkak",
-      "name": "Tawkak",
-      "description": "Tawkak",
+      "name": "Tawkak Gram Panchayat",
+      "description": "Tawkak Gram Panchayat",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -4297,11 +4297,11 @@
       "type": "CITY",
       "emailId": "info.tawkak@gmail.com",
       "city": {
-        "name": "Tawkak",
-        "districtName": null,
+        "name": "Tawkak Gram Panchayat",
+        "districtName": "Sivasagar",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "SIVASAGAR",
-        "districtTenantCode": "as.sivasagarmb",
+        "districtTenantCode": "as.tawkak",
         "planningAreaCode": "SONARI_MP",
         "code": "1810",
         "ddrName": "Tawkak Gram Panchayat"
@@ -4309,8 +4309,8 @@
     },
     {
       "code": "as.safrai",
-      "name": "Safrai",
-      "description": "Safrai",
+      "name": "Safrai Gram Panchayat",
+      "description": "Safrai Gram Panchayat",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -4318,11 +4318,11 @@
       "type": "CITY",
       "emailId": "info.safrai@gmail.com",
       "city": {
-        "name": "Safrai",
-        "districtName": null,
+        "name": "Safrai Gram Panchayat",
+        "districtName": "Sivasagar",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "SIVASAGAR",
-        "districtTenantCode": "as.sivasagarmb",
+        "districtTenantCode": "as.safrai",
         "planningAreaCode": "SONARI_MP",
         "code": "1811",
         "ddrName": "Safrai Gram Panchayat"
@@ -4330,8 +4330,8 @@
     },
     {
       "code": "as.rajapukhuri",
-      "name": "Rajapukhuri",
-      "description": "Rajapukhuri",
+      "name": "Rajapukhuri Gram Panchayat",
+      "description": "Rajapukhuri Gram Panchayat",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -4339,11 +4339,11 @@
       "type": "CITY",
       "emailId": "info.rajapukhuri@gmail.com",
       "city": {
-        "name": "Rajapukhuri",
-        "districtName": null,
+        "name": "Rajapukhuri Gram Panchayat",
+        "districtName": "Sivasagar",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "SIVASAGAR",
-        "districtTenantCode": "as.sivasagarmb",
+        "districtTenantCode": "as.rajapukhuri",
         "planningAreaCode": "SONARI_MP",
         "code": "1812",
         "ddrName": "Rajapukhuri Gram Panchayat"
@@ -5308,7 +5308,7 @@
         "name": "Bakharshal-Nairgram",
         "districtName": "Sribhumi",
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "BAKHARSHAL_NAIRGRAM_GP",
+        "districtCode": "SRIBHUMI",
         "districtTenantCode": "as.bakharshalnairgram",
         "planningAreaCode": "SRIBHUMI_MP",
         "code": "1858",
@@ -5359,8 +5359,8 @@
     },
     {
       "code": "as.kanishailsarifnagar",
-      "name": "Kanishail- Sarifnagar",
-      "description": "Kanishail- Sarifnagar",
+      "name": "Kanishail Sarifnagar",
+      "description": "Kanishail Sarifnagar",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -5368,14 +5368,14 @@
       "type": "CITY",
       "emailId": "info.kanishailsarifnagar@gmail.com",
       "city": {
-        "name": "Kanishail- Sarifnagar",
+        "name": "Kanishail Sarifnagar",
         "districtName": "Sribhumi",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "SRIBHUMI",
-        "districtTenantCode": "as.sribhumimb",
+        "districtTenantCode": "as.kanishailsarifnagar",
         "planningAreaCode": "SRIBHUMI_MP",
         "code": "1861",
-        "ddrName": "Kanishail- Sarifnagar Gram Panchayat"
+        "ddrName": "Kanishail Sarifnagar Gram Panchayat"
       }
     },
     {
@@ -5505,9 +5505,9 @@
       }
     },
     {
-      "code": "as.maizgram",
-      "name": "Maizgram",
-      "description": "Maizgram",
+      "code": "as.maizgramgp",
+      "name": "Maizgram Gram Panchayat",
+      "description": "Maizgram Gram Panchayat",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -5515,11 +5515,11 @@
       "type": "CITY",
       "emailId": "info.maizgram@gmail.com",
       "city": {
-        "name": "Maizgram",
+        "name": "Maizgram Gram Panchayat",
         "districtName": "Sribhumi",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "SRIBHUMI",
-        "districtTenantCode": "as.sribhumimb",
+        "districtTenantCode": "as.maizgramgp",
         "planningAreaCode": "SRIBHUMI_MP",
         "code": "1868",
         "ddrName": "Maizgram Gram Panchayat"
@@ -7435,6 +7435,174 @@
         "planningAreaCode": "NARAYANPUR_MP",
         "code": "2084",
         "ddrName": "Pichala Gram Panchayat"
+      }
+    },
+    {
+      "code": "as.akbarpurgp",
+      "name": "Akbarpur GP",
+      "description": "Akbarpur GP",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": "info.longaighatgp@gmail.com",
+      "city": {
+        "name": "Akbarpur GP",
+        "districtName": "Sribhumi",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "SRIBHUMI",
+        "districtTenantCode": "as.akbarpurgp",
+        "planningAreaCode": "SRIBHUMI_MP",
+        "code": "2085",
+        "ddrName": "Akbarpur Gram Panchayat"
+      }
+    },
+    {
+      "code": "as.bazarghatgp",
+      "name": "Bazarghat GP",
+      "description": "Bazarghat GP",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": "info.longaighatgp@gmail.com",
+      "city": {
+        "name": "Bazarghat GP",
+        "districtName": "Sribhumi",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "SRIBHUMI",
+        "districtTenantCode": "as.bazarghatgp",
+        "planningAreaCode": "SRIBHUMI_MP",
+        "code": "2086",
+        "ddrName": "Bazarghat Gram Panchayat"
+      }
+    },
+    {
+      "code": "as.nagarmahalgp",
+      "name": "Nagarmahal GP",
+      "description": "Nagarmahal GP",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": "info.longaighatgp@gmail.com",
+      "city": {
+        "name": "Nagarmahal GP",
+        "districtName": "Sivasagar",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "SIVASAGAR",
+        "districtTenantCode": "as.nagarmahalgp",
+        "planningAreaCode": "SIVASAGAR_MP",
+        "code": "2087",
+        "ddrName": "Nagarmahal Gram Panchayat"
+      }
+    },
+    {
+      "code": "as.cherekapargp",
+      "name": "Cherekapar GP",
+      "description": "Cherekapar GP",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": "info.longaighatgp@gmail.com",
+      "city": {
+        "name": "Cherekapar GP",
+        "districtName": "Sivasagar",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "SIVASAGAR",
+        "districtTenantCode": "as.cherekapargp",
+        "planningAreaCode": "SIVASAGAR_MP",
+        "code": "2088",
+        "ddrName": "Cherekapar Gram Panchayat"
+      }
+    },
+    {
+      "code": "as.borboruahgp",
+      "name": "Borboruah Gram Panchayat",
+      "description": "Borboruah Gram Panchayat",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": "info.egargaon@gmail.com",
+      "city": {
+        "name": "Borboruah Gram Panchayat",
+        "districtName": "Sivasagar",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "SIVASAGAR",
+        "districtTenantCode": "as.borboruahgp",
+        "planningAreaCode": "NAZIRA_SIMALUGURI_MP",
+        "code": "2089",
+        "ddrName": "Borboruah Gram Panchayat"
+      }
+    },
+    {
+      "code": "as.utargurujogoniagp",
+      "name": "Uttar Gurujogonia Panchayat",
+      "description": "Uttar Gurujogonia Panchayat",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": "info.utargurujogonia@gmail.com",
+      "city": {
+        "name": "Uttar Gurujogonia Panchayat",
+        "districtName": "Golaghat",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "GOLAGHAT",
+        "districtTenantCode": "as.utargurujogoniagp",
+        "planningAreaCode": "DERGAON_MP",
+        "code": "2090",
+        "ddrName": "Uttar Gurujogonia Panchayat"
+      }
+    },
+    {
+      "code": "as.dhubrimb",
+      "name": "Dhubri Municipal Board",
+      "description": "Dhubri Municipal Board",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": "info.dhubrimb@gmail.com",
+      "city": {
+        "name": "Dhubri Municipal Board",
+        "districtName": "Dhubri",
+        "ulbGrade": "MUNICIPAL_BOARD",
+        "districtCode": "DHUBRI",
+        "districtTenantCode": "as.dhubrimb",
+        "planningAreaCode": "DHUBRI_GAURIPUR_MP",
+        "code": "2091",
+        "ddrName": "Dhubri Municipal Board"
+      }
+    },
+    {
+      "code": "as.gauripurmb",
+      "name": "Gauripur Municipal Board",
+      "description": "Gauripur Municipal Board",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "obpas.assam.gov.in",
+      "type": "CITY",
+      "emailId": "info.gauripurmb@gmail.com",
+      "city": {
+        "name": "Gauripur Municipal Board",
+        "districtName": "Dhubri",
+        "ulbGrade": "MUNICIPAL_BOARD",
+        "districtCode": "DHUBRI",
+        "districtTenantCode": "as.gauripurmb",
+        "planningAreaCode": "DHUBRI_GAURIPUR_MP",
+        "code": "2092",
+        "ddrName": "Gauripur Municipal Board"
       }
     }
   ]

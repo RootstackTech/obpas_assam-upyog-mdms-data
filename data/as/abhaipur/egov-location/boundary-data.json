@@ -18,21 +18,10 @@
         "code": "as.abhaipur",
         "children": [
           {
-            "id": "eb18fabe-4cc3-41a4-bfff-876a8f984fc5",
-            "boundaryNum": 1,
-            "name": "Grant No. 348",
-            "localname": "Grant No. 348",
-            "longitude": null,
-            "latitude": null,
-            "label": "Village",
-            "code": "abhaipurV3",
-            "children": []
-          },
-          {
             "id": "8d179a71-4858-47fc-88cf-66e7fc1172c4",
             "boundaryNum": 1,
-            "name": "Abhoipor Grant",
-            "localname": "Abhoipor Grant",
+            "name": "Abhaipur Grant",
+            "localname": "Abhaipur Grant",
             "longitude": null,
             "latitude": null,
             "label": "Village",
@@ -59,6 +48,17 @@
             "latitude": null,
             "label": "Village",
             "code": "abhaipurV28",
+            "children": []
+          },
+          {
+            "id": "d4a75ccd-cc4b-4080-946d-e6d9868a0066",
+            "boundaryNum": 1,
+            "name": "Borahi Grant",
+            "localname": "Borahi Grant",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "abhaipurV29",
             "children": []
           }
         ]

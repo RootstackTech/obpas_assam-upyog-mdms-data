@@ -1,0 +1,101 @@
+{
+  "tenantId": "as.nagarmahalgp",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "4f98db8d-d2fd-426a-a060-88d8d4975402",
+        "boundaryNum": 1,
+        "name": "Nagarmahal GP",
+        "localname": "Nagarmahal GP",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.nagarmahalgp",
+        "children": [
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082m01",
+            "boundaryNum": 1,
+            "name": "Arjunguri Kumar Gaon",
+            "localname": "Arjunguri Kumar Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "nagarmahalV1",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082m02",
+            "boundaryNum": 1,
+            "name": "Kamarphadia Gaon",
+            "localname": "Kamarphadia Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "nagarmahalV2",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082m03",
+            "boundaryNum": 1,
+            "name": "Bailung Pathar Gaon",
+            "localname": "Bailung Pathar Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "nagarmahalV3",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082m04",
+            "boundaryNum": 1,
+            "name": "Pachi Pathar Gaon",
+            "localname": "Pachi Pathar Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "nagarmahalV4",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082m05",
+            "boundaryNum": 1,
+            "name": "Dui Ali Maj Gaon",
+            "localname": "Dui Ali Maj Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "nagarmahalV5",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082m06",
+            "boundaryNum": 1,
+            "name": "Deulia Khat",
+            "localname": "Deulia Khat",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "nagarmahalV6",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082m07",
+            "boundaryNum": 1,
+            "name": "Namtial Pathar",
+            "localname": "Namtial Pathar",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "nagarmahalV7",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

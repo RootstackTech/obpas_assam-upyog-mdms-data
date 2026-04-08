@@ -1,0 +1,57 @@
+{
+  "tenantId": "as.utargurujogoniagp",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Uttar Gurujogonia G.P",
+        "localname": "Uttar Gurujogonia G.P",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.utargurujogoniagp",
+        "children": [
+          {
+            "id": "d4fdebb0-088d-44fb-be21-c6086543c704",
+            "boundaryNum": 1,
+            "name": "Dhodang Garia Gaon",
+            "localname": "Dhodang Garia Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "utargurujogoniaV16",
+            "children": []
+          },
+          {
+            "id": "d9ad5874-1f44-439a-893d-dbfe273bdc34",
+            "boundaryNum": 1,
+            "name": "Batiporia Lukumai Gaon",
+            "localname": "Batiporia Lukumai Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "utargurujogoniaV17",
+            "children": []
+          },
+          {
+            "id": "f33f9fa5-dca5-4033-b286-789f606afb72",
+            "boundaryNum": 1,
+            "name": "Dumjoria Kosolial",
+            "localname": "Dumjoria Kosolial",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "utargurujogoniaV20",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "tenantId": "as.southgeramarigp",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "4f98db8d-d2fd-426a-a060-88d8d4975402",
+        "boundaryNum": 1,
+        "name": "South Geramari GP",
+        "localname": "South Geramari GP",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.southgeramarigp",
+        "children": [
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082m01",
+            "boundaryNum": 1,
+            "name": "Beguntoli",
+            "localname": "Beguntoli",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "southgeramariV1",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082m02",
+            "boundaryNum": 2,
+            "name": "Geramari Part-VI",
+            "localname": "Geramari Part-VI",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "southgeramariV2",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

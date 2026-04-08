@@ -6014,10 +6014,10 @@
           "code": "as.rudrasagargp"
         },
         {
-          "code": "as.salagurigp"
+          "code": "as.salaguri"
         },
         {
-          "code": "as.desangpargp"
+          "code": "as.desangpar"
         },
         {
           "code": "as.lachitgp"
@@ -6032,31 +6032,31 @@
           "code": "as.simalugurigp"
         },
         {
-          "code": "as.phulpaniboruahgp"
+          "code": "as.phulpaniboruah"
         },
         {
-          "code": "as.khatkhatigp"
+          "code": "as.khatkhati"
         },
         {
-          "code": "as.gargaongp"
+          "code": "as.gargaon"
         },
         {
           "code": "as.sonarigp"
         },
         {
-          "code": "as.abhaipurgp"
+          "code": "as.abhaipur"
         },
         {
           "code": "as.longpotiagp"
         },
         {
-          "code": "as.bhojugp"
+          "code": "as.bhoju"
         },
         {
           "code": "as.tawkakgp"
         },
         {
-          "code": "as.safraigp"
+          "code": "as.safrai"
         },
         {
           "code": "as.rajapukhurigp"
@@ -6155,7 +6155,7 @@
           "code": "as.kanishailpatelnagar"
         },
         {
-          "code": "as.maizgram"
+          "code": "as.maizgramgp"
         },
         {
           "code": "as.karimganjmb"
@@ -6355,6 +6355,84 @@
         },
         {
           "code": "as.pichalagp"
+        },
+        {
+          "code": "as.akbarpurgp"
+        },
+        {
+          "code": "as.bazarghatgp"
+        },
+        {
+          "code": "as.nagarmahalgp"
+        },
+        {
+          "code": "as.cherekapargp"
+        },
+        {
+          "code": "as.rudrasagar"
+        },
+        {
+          "code": "as.lachit"
+        },
+        {
+          "code": "as.betbari"
+        },
+        {
+          "code": "as.borboruahgp"
+        },
+        {
+          "code": "as.rajapukhuri"
+        },
+        {
+          "code": "as.tawkak"
+        },
+        {
+          "code": "as.longpotia"
+        },
+        {
+          "code": "as.golaghatmb"
+        },
+        {
+          "code": "as.dergaonmb"
+        },
+        {
+          "code": "as.utargurujogoniagp"
+        },
+        {
+          "code": "as.dhubrimb"
+        },
+        {
+          "code": "as.gauripurmb"
+        },
+        {
+          "code": "as.falimarigp"
+        },
+        {
+          "code": "as.jhagrarpargp"
+        },
+        {
+          "code": "as.bhasanichargp"
+        },
+        {
+          "code": "as.adabarigp"
+        },
+        {
+          "code": "as.madhusoulmarigp"
+        },
+        {
+          "code": "as.madhusoulmaritiamarigp"
+        },
+        {
+          "code": "as.motirchargp"
+        },
+        {
+          "code": "as.chapgarhgp"
+        },
+        {
+          "code": "as.silairpargp"
+        },
+        {
+          "code": "as.southgeramarigp"
         }
         
       ]
@@ -14165,10 +14243,10 @@
           "code": "as.rudrasagargp"
         },
         {
-          "code": "as.salagurigp"
+          "code": "as.salaguri"
         },
         {
-          "code": "as.desangpargp"
+          "code": "as.desangpar"
         },
         {
           "code": "as.lachitgp"
@@ -14183,31 +14261,31 @@
           "code": "as.simalugurigp"
         },
         {
-          "code": "as.phulpaniboruahgp"
+          "code": "as.phulpaniboruah"
         },
         {
-          "code": "as.khatkhatigp"
+          "code": "as.khatkhati"
         },
         {
-          "code": "as.gargaongp"
+          "code": "as.gargaon"
         },
         {
           "code": "as.sonarigp"
         },
         {
-          "code": "as.abhaipurgp"
+          "code": "as.abhaipur"
         },
         {
           "code": "as.longpotiagp"
         },
         {
-          "code": "as.bhojugp"
+          "code": "as.bhoju"
         },
         {
           "code": "as.tawkakgp"
         },
         {
-          "code": "as.safraigp"
+          "code": "as.safrai"
         },
         {
           "code": "as.rajapukhurigp"
@@ -14306,7 +14384,7 @@
           "code": "as.kanishailpatelnagar"
         },
         {
-          "code": "as.maizgram"
+          "code": "as.maizgramgp"
         },
         {
           "code": "as.karimganjmb"
@@ -14511,6 +14589,84 @@
         },
         {
           "code": "as.pichalagp"
+        },
+        {
+          "code": "as.akbarpurgp"
+        },
+        {
+          "code": "as.bazarghatgp"
+        },
+        {
+          "code": "as.nagarmahalgp"
+        },
+        {
+          "code": "as.cherekapargp"
+        },
+        {
+          "code": "as.rudrasagar"
+        },
+        {
+          "code": "as.lachit"
+        },
+        {
+          "code": "as.betbari"
+        },
+        {
+          "code": "as.borboruahgp"
+        },
+        {
+          "code": "as.rajapukhuri"
+        },
+        {
+          "code": "as.tawkak"
+        },
+        {
+          "code": "as.longpotia"
+        },
+        {
+          "code": "as.golaghatmb"
+        },
+        {
+          "code": "as.dergaonmb"
+        },
+        {
+          "code": "as.utargurujogoniagp"
+        },
+        {
+          "code": "as.dhubrimb"
+        },
+        {
+          "code": "as.gauripurmb"
+        },
+        {
+          "code": "as.falimarigp"
+        },
+        {
+          "code": "as.jhagrarpargp"
+        },
+        {
+          "code": "as.bhasanichargp"
+        },
+        {
+          "code": "as.adabarigp"
+        },
+        {
+          "code": "as.madhusoulmarigp"
+        },
+        {
+          "code": "as.madhusoulmaritiamarigp"
+        },
+        {
+          "code": "as.motirchargp"
+        },
+        {
+          "code": "as.chapgarhgp"
+        },
+        {
+          "code": "as.silairpargp"
+        },
+        {
+          "code": "as.southgeramarigp"
         }
       ]
     },
@@ -15080,10 +15236,10 @@
           "code": "as.rudrasagargp"
         },
         {
-          "code": "as.salagurigp"
+          "code": "as.salaguri"
         },
         {
-          "code": "as.desangpargp"
+          "code": "as.desangpar"
         },
         {
           "code": "as.lachitgp"
@@ -15098,31 +15254,31 @@
           "code": "as.simalugurigp"
         },
         {
-          "code": "as.phulpaniboruahgp"
+          "code": "as.phulpaniboruah"
         },
         {
-          "code": "as.khatkhatigp"
+          "code": "as.khatkhati"
         },
         {
-          "code": "as.gargaongp"
+          "code": "as.gargaon"
         },
         {
           "code": "as.sonarigp"
         },
         {
-          "code": "as.abhaipurgp"
+          "code": "as.abhaipur"
         },
         {
           "code": "as.longpotiagp"
         },
         {
-          "code": "as.bhojugp"
+          "code": "as.bhoju"
         },
         {
           "code": "as.tawkakgp"
         },
         {
-          "code": "as.safraigp"
+          "code": "as.safrai"
         },
         {
           "code": "as.rajapukhurigp"
@@ -15221,7 +15377,7 @@
           "code": "as.kanishailpatelnagar"
         },
         {
-          "code": "as.maizgram"
+          "code": "as.maizgramgp"
         },
         {
           "code": "as.karimganjmb"
@@ -15426,6 +15582,84 @@
         },
         {
           "code": "as.pichalagp"
+        },
+        {
+          "code": "as.akbarpurgp"
+        },
+        {
+          "code": "as.bazarghatgp"
+        },
+        {
+          "code": "as.nagarmahalgp"
+        },
+        {
+          "code": "as.cherekapargp"
+        },
+        {
+          "code": "as.rudrasagar"
+        },
+        {
+          "code": "as.lachit"
+        },
+        {
+          "code": "as.betbari"
+        },
+        {
+          "code": "as.borboruahgp"
+        },
+        {
+          "code": "as.rajapukhuri"
+        },
+        {
+          "code": "as.tawkak"
+        },
+        {
+          "code": "as.longpotia"
+        },
+        {
+          "code": "as.golaghatmb"
+        },
+        {
+          "code": "as.dergaonmb"
+        },
+        {
+          "code": "as.utargurujogoniagp"
+        },
+        {
+          "code": "as.dhubrimb"
+        },
+        {
+          "code": "as.gauripurmb"
+        },
+        {
+          "code": "as.falimarigp"
+        },
+        {
+          "code": "as.jhagrarpargp"
+        },
+        {
+          "code": "as.bhasanichargp"
+        },
+        {
+          "code": "as.adabarigp"
+        },
+        {
+          "code": "as.madhusoulmarigp"
+        },
+        {
+          "code": "as.madhusoulmaritiamarigp"
+        },
+        {
+          "code": "as.motirchargp"
+        },
+        {
+          "code": "as.chapgarhgp"
+        },
+        {
+          "code": "as.silairpargp"
+        },
+        {
+          "code": "as.southgeramarigp"
         }
       ]
     }

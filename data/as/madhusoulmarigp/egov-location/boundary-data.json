@@ -1,0 +1,57 @@
+{
+  "tenantId": "as.madhusoulmarigp",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "4f98db8d-d2fd-426a-a060-88d8d4975402",
+        "boundaryNum": 1,
+        "name": "Madhusoulmari GP",
+        "localname": "Madhusoulmari GP",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.madhusoulmarigp",
+        "children": [
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082m01",
+            "boundaryNum": 1,
+            "name": "Khudimari Part-II",
+            "localname": "Khudimari Part-II",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "madhusoulmariV1",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082m02",
+            "boundaryNum": 2,
+            "name": "Madhusoulmari Part-II",
+            "localname": "Madhusoulmari Part-II",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "madhusoulmariV2",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082m03",
+            "boundaryNum": 2,
+            "name": "Tiamari Part-I",
+            "localname": "Tiamari Part-I",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "madhusoulmariV3",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

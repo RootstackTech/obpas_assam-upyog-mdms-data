@@ -1,0 +1,46 @@
+{
+  "tenantId": "as.akbarpurgp",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "4f98db8d-d2fd-426a-a060-88d8d4975402",
+        "boundaryNum": 1,
+        "name": "Akbarpur GP",
+        "localname": "Akbarpur GP",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.akbarpurgp",
+        "children": [
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082m01",
+            "boundaryNum": 1,
+            "name": "Dharakura",
+            "localname": "Dharakura",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "akbarpurV1",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082m02",
+            "boundaryNum": 2,
+            "name": "Kesharkapon",
+            "localname": "Kesharkapon",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "akbarpurV2",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

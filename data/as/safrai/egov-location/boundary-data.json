@@ -27,6 +27,50 @@
             "label": "Village",
             "code": "safraiV20",
             "children": []
+          },
+          {
+            "id": "e2e182eb-7bd0-4375-bad0-91877110bdd2",
+            "boundaryNum": 1,
+            "name": "Barpather",
+            "localname": "Barpather",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "safraiV21",
+            "children": []
+          },
+          {
+            "id": "e2e182eb-7bd0-4375-bad0-91877110bdd3",
+            "boundaryNum": 1,
+            "name": "Borahi Kachari Gaon",
+            "localname": "Borahi Kachari Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "safraiV22",
+            "children": []
+          },
+          {
+            "id": "e2e182eb-7bd0-4375-bad0-91877110bdd4",
+            "boundaryNum": 1,
+            "name": "Mohkhuti Pathar",
+            "localname": "Mohkhuti Pathar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "safraiV23",
+            "children": []
+          },
+          {
+            "id": "e2e182eb-7bd0-4375-bad0-91877110bdd5",
+            "boundaryNum": 1,
+            "name": "Grant No. 348",
+            "localname": "Grant No. 348",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "safraiV24",
+            "children": []
           }
         ]
       }

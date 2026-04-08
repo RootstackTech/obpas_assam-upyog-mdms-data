@@ -20,8 +20,8 @@
           {
             "id": "733e18aa-d7f8-482f-a2cc-f55d4ce6f105",
             "boundaryNum": 1,
-            "name": "AideobariKathani",
-            "localname": "AideobariKathani",
+            "name": "Aideobari Kathani",
+            "localname": "Aideobari Kathani",
             "longitude": null,
             "latitude": null,
             "label": "Village",
@@ -31,12 +31,23 @@
           {
             "id": "690140ca-9c39-41d3-a045-5d9376e033d9",
             "boundaryNum": 1,
-            "name": "RongchowalChangmai Gaon",
-            "localname": "RongchowalChangmai Gaon",
+            "name": "Rangchowal Changmai Gaon (Part)",
+            "localname": "Rangchowal Changmai Gaon (Part)",
             "longitude": null,
             "latitude": null,
             "label": "Village",
             "code": "longpotiaV22",
+            "children": []
+          },
+          {
+            "id": "690140ca-9c39-41d3-a045-5d9376e033d5",
+            "boundaryNum": 1,
+            "name": "Na Kachari Gaon (Part)",
+            "localname": "Na Kachari Gaon (Part)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "longpotiaV23",
             "children": []
           }
         ]
